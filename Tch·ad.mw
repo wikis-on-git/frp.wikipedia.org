@@ -1,40 +1,45 @@
 {{Graphie_RefB}}
 
-{{Tablô payis|
-|PayisNomO = ''République du Tchad''
+{{Tablô payis
+| Payis_nom_ofic =  ''République du Tchad''
 ''جمهورية تشاد / Ǧumhūrīyâtu Tašād ''
 
-<font size="2">Rèpublica du Tch•ad
----- <br />
-|Drapél = [[Image:Flag of Chad.svg|120px|Lo drapél du Tch•ad]]
-|DrapélDât = ([[Drapél du Tch•ad|Drapél]])
-|Blason = [[Image:Chad coa.png|90px|Les armouèries du Tch•ad]]
-|BlasonDât = ([[Armouèries du Tch•ad|Armouèries]])
-|DevisaNac = ''«Unité - Travail - Progrès» ([[francês]])<br />«Unitât - Travâly - Progrès» ([[arpitan]])''
-|Loc = [[Image:LocationChad.png|Localisacion du Tch•ad]]
-|LengouesO = [[Francês]]<br />[[Arabo]]
-|VelaCap = [[N’Dj•amèna]]<br /><small>12°6'0" [[Nord|N]], 12°2'0" [[Levant|L]]<small>
-|GrantaVela = [[Veles du Tch•ad|Més granta vela]]
-|GrantaVelaDât = [[N’Dj•amèna]]
-|GovèrnementDât = [[Rèpublica]]
-|Govèrnement1 = [[Lista des prèsidents du Tch•ad|Prèsident]]
-|GovèrnementDât1 = [[Idriss Déby Itno]]
-|Govèrnement2 = [[Lista des premiérs ministros du Tch•ad|Premiér ministro]]
-|GovèrnementDât2 = [[Pascal Yoadimnadji]]
-|Populacion = 9.826.419
-|DâtaPop = [[2005]]
-|Densitât = 7,2
-|Supèrficie = 1.284.000
-|Égoua = 1,9
-|Endèpendence = [[Endèpendence]]
-|EndèpendenceDât = [[11 oût]] [[1960]]
-|Gentilyâ = Tch•adiens, Tch•adiènes
-|Monéya = [[Franc CFA (CEMAC)|Franc CFA]] ([[ISO 4217|<small>XAF<small>]])
-|FusHor = [[Temps univèrsâl co-ordonâ|UTC]] +1
-|HimnoNac = ''[[La Tch•adièna|La Tchadienne]] ('La Tch•adièna')''
-|DomênoMal = .td
-|EndicatifTèl = + 235
-|Notes = 
+| Payis_nom = Rèpublica du Tch•ad
+| Emâge_drapél = Flag of Chad.svg
+| de+Nom1 = du Tch•ad
+| Emâge_armouèries = Chad coa.png
+| de+Nom2 = du Tch•ad
+| Devisa_nac = «Unité - Travail - Progrès» ([[francês]])<br />«Unitât - Travâly - Progrès» ([[arpitan]])
+| Emâge_cârta = LocationChad.png
+| de+Nom3 = du Tch•ad
+| Lengoues_ofic = [[Francês]]<br />[[Arabo]]
+| Vela_cap = [[N’Dj•amèna]]
+| Co-ordonâs_cap = 12°6'0" [[Nord|N]], 12°2'0" [[Levant|L]]
+| Liyen_veles = Veles du Tch•ad
+| Granta_vela = [[N’Dj•amèna]]
+| Tipo_govèrn = [[Rèpublica]]
+| Titro_govèrn1 = [[Lista des prèsidents du Tch•ad|Prèsident]]
+| Nom_govèrn1 = [[Idriss Déby Itno]]
+| Titro_govèrn2 = [[Lista des premiérs ministros du Tch•ad|Premiér ministro]]
+| Nom_govèrn2 = [[Pascal Yoadimnadji]]
+| Cllassiement_pop = 
+| Populacion = 9.826.419
+| Dâta_pop = [[2005]]
+| Densitât = 7,2
+| Cllassiement_surf = 
+| Surface = 1.284.000
+| Égoua = 1,9
+| Tipo_endèp = 
+| Payis_endèp = 
+| Dâta_endèp = [[11 oût]] [[1960]]
+| Gentilyâ = Tch•adiens, Tch•adiènes
+| Monéya = [[Franc CFA (CEMAC)|Franc CFA]]
+| Codo_monéya = XAF
+| Fus_hor = +1
+| Himno_nac = [[La Tch•adièna|La Tchadienne]] ('La Tch•adièna')
+| Domêno_mal = .td
+| Endicatif_tèl = 235
+| Notes = 
 }}
 
 Lo '''Tch•ad''' (en [[francês]] ''Tchad'', en [[arabo]] ''تشاد / Tašād'') est un payis d’[[Africa]] çantrâla. La vela capitâla est [[N’Dj•amèna]].
