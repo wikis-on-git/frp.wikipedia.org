@@ -1,38 +1,43 @@
 {{Graphie_RefB}}
 
-{{Tablô payis|
-|PayisNomO = ''United States of America''
-<font size="2">Ètats-Unis d’Amèrica
----- <br />
-|Drapél = [[Image:Flag of the United States.svg|120px|Lo drapél des Ètats-Unis d’Amèrica]]
-|DrapélDât = ([[Drapél des Ètats-Unis d’Amèrica|Drapél]])
-|Blason = [[Image:Great Seal of the US.png|90px|Les armouèries des Ètats-Unis d’Amèrica]]
-|BlasonDât = ([[Armouèries des Ètats-Unis d’Amèrica|Armouèries]])
-|DevisaNac = ''«E Pluribus Unum» ([[latin]])<br />''«In God We Trust»'' ([[anglès]])''
-|Loc = [[Image:LocationUSA.png|350 px|Localisacion des Ètats-Unis d’Amèrica]]
-|LengouesO = [[Anglès]] (''de facto'')
-|VelaCap = [[Washington]]<br /><small>xx [[Nord|N]], xx [[Levant|L]]<small>
-|GrantaVela = [[Veles des Ètats-Unis d’Amèrica|Més granta vela]]
-|GrantaVelaDât = [[New York]]
-|GovèrnementDât = [[Rèpublica]]
-|Govèrnement1 = [[Prèsident des Ètats-Unis d’Amèrica|Prèsident]]
-|GovèrnementDât1 = [[George Walker Bush]]
-|Govèrnement2 = [[Vice-prèsident des Ètats-Unis d’Amèrica|Vice-prèsident]]
-|GovèrnementDât2 = [[Dick Cheney]]
-|Populacion = 298.540.066
-|DâtaPop = [[2006]] (èst.)
-|Densitât = 30
-|Supèrficie = 9.631.418
-|Égoua = 4,87
-|Endèpendence = [[Endèpendence]]
-|EndèpendenceDât = xx
-|Gentilyâ = Amèriquens
-|Monéya = Dolar amèriquen (USD)
-|FusHor = [[Temps univèrsâl co-ordonâ|UTC]] -5 a -10
-|HimnoNac = ''The Star-Spangled Banner''
-|DomênoMal = .us
-|EndicatifTèl = + 1
-|Notes =
+{{Tablô payis
+| Payis_nom_ofic = ''United States of America''
+| Payis_nom = Ètats-Unis d’Amèrica
+| Emâge_drapél = Flag of the United States.svg
+| de+Nom1 = des Ètats-Unis d’Amèrica
+| Emâge_armouèries = Great Seal of the US.png
+| de+Nom2 = des Ètats-Unis d’Amèrica
+| Devisa_nac = «E Pluribus Unum» ([[latin]])<br />«In God We Trust» ([[angllès]])
+| Emâge_cârta = LocationUSA.png
+| de+Nom3 = des Ètats-Unis d’Amèrica
+| Lengoues_ofic = [[Angllès]] (''de facto'')
+| Vela_cap = [[Washington]]
+| Co-ordonâs_cap = 
+| Liyen_veles = Veles des Ètats-Unis d’Amèrica
+| Granta_vela = [[New York]]
+| Tipo_govèrn = [[Rèpublica]]
+| Titro_govèrn1 = [[Prèsident des Ètats-Unis d’Amèrica|Prèsident]]
+| Nom_govèrn1 = [[George Walker Bush]]
+| Titro_govèrn2 = [[Vice-prèsident des Ètats-Unis d’Amèrica|Vice-prèsident]]
+| Nom_govèrn2 = [[Dick Cheney]]
+| Cllassiement_pop = 
+| Populacion = 298.540.066
+| Dâta_pop = [[2006]] (èst.)
+| Densitât = 30
+| Cllassiement_surf = 
+| Surface = 9.631.418
+| Égoua = 4,87
+| Tipo_endèp = 
+| Payis_endèp = 
+| Dâta_endèp = 
+| Gentilyâ = Amèriquens
+| Monéya = Dolar amèriquen
+| Codo_monéya = USD
+| Fus_hor = -5 a -10
+| Himno_nac = The Star-Spangled Banner
+| Domêno_mal = .us
+| Endicatif_tèl = 1
+| Notes = 
 }}
 
 Los '''Ètats-Unis d’Amèrica''' sont un payis d’[[Amèrica]]. La vela capitâla est [[Washington]].
