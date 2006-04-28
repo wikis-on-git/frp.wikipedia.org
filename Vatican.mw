@@ -1,23 +1,66 @@
+{{Pays |
+nom_local=Santa Sede<br />Stato della Città del Vaticano |
+nom_français=Vatican |
+de=du%20 |
+image_drapeau=Flag of the Vatican City.svg |
+lien_drapeau=Drapeau du Vatican |
+image_blason=Vatican coa.png |
+lien_blason=Armoiries du Vatican |
+image_carte=LocationVaticanCity.png |
+devise=aucune |
+langues_officielles= [[Italien]], [[français]], [[latin]], [[allemand]]&nbsp;<small><sup>1</sup></small> |
+capitale=Cité du Vatican |
+coordonnées_capitale=41° 54' N, 12° 27' E |
+lien_villes=Géographie du Vatican |
+titre_plus_grande_ville=Édifice principal |
+plus_grande_ville=[[Basilique Saint-Pierre]] |
+type_gouvernement=[[Théocratie]] |
+titres_dirigeants=[[Pape]]<br />&nbsp;- [[Cardinal secrétaire d'État|Secrétaire d'État]] |
+noms_dirigeants=[[Benoît XVI]]<br />[[Angelo Sodano]] |
+superficie_rang=192 |
+superficie_totale=0,44 |
+pourcentage_eau=Négligeable |
+population_rang=192 |
+population_totale=921 |
+population_année=2005 |
+densité=2 023 |
+type_indépendance=[[Accords du Latran]] |
+pays_indépendance=&nbsp; |
+date_indépendance=[[11 février]] [[1929]] |
+gentilé=Vatican, vaticane |
+monnaie=[[Euro]] <small><sup>2</sup></small> |
+code_monnaie=EUR |
+fuseau_horaire=+1 ([[heure d'été|été]] +2) |
+hymne_national=[[Inno e Marcia Pontificale]] |
+domaine_internet=.va |
+indicatif_téléphonique=379 |
+notes=<small><sup>1</sup></small>&nbsp;Le [[latin]] est la langue du [[Saint-Siège]]. La langue officielle des [[Garde suisse pontificale|gardes suisses]] est l'[[allemand]]. Le [[français]] est la langue diplomatique.<br /><small><sup>2</sup></small>&nbsp;Avant [[1999]] : la lire du Vatican |
+}}
+
+
+
+
+
 {{Graphie_RefB}}
 {{Tablô payis
-| Payis_nom_ofic = ''xx<br />xx''<br />
+| Payis_nom_ofic = ''Santa Sede<br />Stato della Città del Vaticano''<br />
 <font size="2">Vatican
 | Emâge_drapél = Flag of the Vatican.svg
-| de+Nom1 = de xx
-| Emâge_armouèries = Coat of Arms of xx.svg
-| de+Nom2 = de xx
-| Devisa_nac = « xx» ([[arpitan]])
+| de+Nom1 = du Vatican
+| Emâge_armouèries = Vatican coa.png
+| de+Nom2 = du Vatican
+| Devisa_nac = niona
 | Emâge_cârta = LocationVaticanCity.png
-| de+Nom3 = de xx
-| Lengoues_ofic = xx
+| de+Nom3 = du Vatican en Eropa
+| Lengoues_ofic = [[Etalien]]<br />[[Francês]]<br />[[Latin]]<br />[[Alemand]]
 | Vela_cap = xx
 | Co-ordonâs_cap = x°xx'x" [[Nord|N]], x°xx'x" [[Levant|L]]
 | Liyen_veles = Veles de xx
-| Granta_vela = xx
-| Tipo_govèrn = xx
-| Titro_govèrn1 = [[Prèsident xx|Prèsident]]
-| Nom_govèrn1 = xx
-| Titro_govèrn2 = xx 
+| Granta_vela = niona
+| Tipo_govèrn = Tèocracie
+| Titro_govèrn1 = Pape
+| Nom_govèrn1 = [[Benêt XVI]]
+| Titro_govèrn2 = Secrètêro d'Etat 
 | Nom_govèrn2 = xx
 | Cllassiement_pop = xx<sup>iémo</sup>
 | Populacion = xx
@@ -45,8 +88,6 @@ Lo '''Vatican''' est un payis d’[[Eropa]].
 == Histouère ==
 
 == Vêre asse ==
-
-* [[Benêt XVI]]
 
 {{Payis d'Eropa}}
 
