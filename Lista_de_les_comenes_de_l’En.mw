@@ -247,17 +247,17 @@ Lista des 419 [[Comenes de France|comenes]] de l’[[En (dèpartement)|En]] per 
 |-----
 | 01125 || 01250 || xx || Corveissiat
 |-----
-| 01127 || 01370 || xx || Courmangoux
+| 01127 || 01370 || [[Cort-Mangôd|Cort-Mangôd / Cormàngôx]] || Courmangoux
 |-----
 | 01128 || 01560 || xx || Courtes
 |-----
-| 01129 || 01320 || xx || Crans
+| 01129 || 01320 || [[Crans]] || Crans
 |-----
-| 01130 || 01340 || xx || Cras-sur-Reyssouze
+| 01130 || 01340 || [[Crâs]] || Cras-sur-Reyssouze
 |-----
 | 01133 || 01350 || xx || Cressin-Rochefort
 |-----
-| 01134 || 01290 || xx || Crottet
+| 01134 || 01290 || [[Crotèt]] || Crottet
 |-----
 | 01135 || 01170 || xx || Crozet
 |-----
@@ -275,7 +275,7 @@ Lista des 419 [[Comenes de France|comenes]] de l’[[En (dèpartement)|En]] per 
 |-----
 | 01143 || 01220 || xx || Divonne-les-Bains
 |-----
-| 01144 || 01380 || xx || Dommartin
+| 01144 || 01380 || [[Dommartin]] || Dommartin
 |-----
 | 01146 || 01400 || xx || Dompierre-sur-Chalaronne
 |-----
@@ -299,13 +299,13 @@ Lista des 419 [[Comenes de France|comenes]] de l’[[En (dèpartement)|En]] per 
 |-----
 | 01155 || 01230 || xx || Évosges
 |-----
-| 01156 || 01800 || xx || Faramans
+| 01156 || 01800 || [[Faramans]] || Faramans
 |-----
 | 01157 || 01480 || xx || Fareins
 |-----
 | 01158 || 01550 || xx || Farges
 |-----
-| 01159 || 01570 || xx || Feillens
+| 01159 || 01570 || [[Felyens|Felyens / Felyèns]] || Feillens
 |-----
 | 01160 || 01210 || xx || Ferney-Voltaire
 |-----
@@ -399,17 +399,17 @@ Lista des 419 [[Comenes de France|comenes]] de l’[[En (dèpartement)|En]] per 
 |-----
 | 01210 || 01410 || xx || Lélex
 |-----
-| 01211 || 01240 || xx || Lent
+| 01211 || 01240 || [[Lent]] || Lent
 |-----
 | 01212 || 01560 || xx || Lescheroux
 |-----
-| 01213 || 01150 || xx || Leyment
+| 01213 || 01150 || [[Lêment]] || Leyment
 |-----
 | 01214 || 01450 || xx || Leyssard
 |-----
 | 01215 || 01420 || xx || Lhôpital
 |-----
-| 01216 || 01680 || xx || Lhuis
+| 01216 || 01680 || [[Lués]] || Lhuis
 |-----
 | 01218 || 01260 || xx || Lochieu
 |-----
@@ -425,13 +425,13 @@ Lista des 419 [[Comenes de France|comenes]] de l’[[En (dèpartement)|En]] per 
 |-----
 | 01228 || 01430 || xx || Maillat
 |-----
-| 01229 || 01340 || xx || Malafretaz
+| 01229 || 01340 || [[Monlafretât]] || Malafretaz
 |-----
 | 01230 || 01560 || xx || Mantenay-Montlin
 |-----
-| 01231 || 01570 || xx || Manziat
+| 01231 || 01570 || [[Manziê|Manziê / Mànziât]] || Manziat
 |-----
-| 01232 || 01851 || xx || Marboz
+| 01232 || 01851 || [[Mârbôsc|Mârbôsc / Màrbœz]] || Marboz
 |-----
 | 01233 || 01680 || xx || Marchamp
 |-----
@@ -441,7 +441,7 @@ Lista des 419 [[Comenes de France|comenes]] de l’[[En (dèpartement)|En]] per 
 |-----
 | 01236 || 01340 || xx || Marsonnas
 |-----
-| 01237 || 01810 || xx || Martignat
+| 01237 || 01810 || [[Martegnê|Martegnê / Martegnât]] || Martignat
 |-----
 | 01238 || 01600 || xx || Massieux
 |-----
@@ -533,7 +533,7 @@ Lista des 419 [[Comenes de France|comenes]] de l’[[En (dèpartement)|En]] per 
 |-----
 | 01289 || 01960 || xx || Péronnas
 |-----
-| 01290 || 01800 || xx || Pérouges
+| 01290 || 01800 || [[Pèrôges]] || Pérouges
 |-----
 | 01291 || 01540 || xx || Perrex
 |-----
@@ -561,11 +561,11 @@ Lista des 419 [[Comenes de France|comenes]] de l’[[En (dèpartement)|En]] per 
 |-----
 | 01303 || 01450 || xx || Poncin
 |-----
-| 01304 || 01160 || xx || Pont-d'Ain
+| 01304 || 01160 || [[Pont d’En|Pont d’En /Lo Pont d’En]] || Pont-d’Ain
 |-----
-| 01305 || 01190 || xx || Pont-de-Vaux
+| 01305 || 01190 || [[Pont-de-Vâls|Pont-de-Vâls / Vâlx]] || Pont-de-Vaux
 |-----
-| 01306 || 01290 || xx || Pont-de-Veyle
+| 01306 || 01290 || [[Pont-de-Vêla]] || Pont-de-Veyle
 |-----
 | 01307 || 01460 || xx || Port
 |-----
@@ -581,13 +581,13 @@ Lista des 419 [[Comenes de France|comenes]] de l’[[En (dèpartement)|En]] per 
 |-----
 | 01313 || 01280 || xx || Prévessin-Moëns
 |-----
-| 01314 || 01160 || xx || Priay
+| 01314 || 01160 || [[Priê]] || Priay
 |-----
 | 01316 || 01510 || xx || Pugieu
 |-----
 | 01317 || 01250 || xx || Ramasse
 |-----
-| 01318 || 01390 || xx || Rancé
+| 01318 || 01390 || [[Rancê]] || Rancé
 |-----
 | 01319 || 01990 || xx || Relevant
 |-----
