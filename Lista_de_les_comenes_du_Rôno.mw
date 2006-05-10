@@ -1,0 +1,594 @@
+{| BORDER="1" CELLSPACING="0"
+|-----
+! Code INSEE
+! Code postâl
+! Nom en arpitan
+! Nom en francês
+|-----
+| 69001 || 69170 || xx || Affoux
+|-----
+| 69002 || 69790 || xx || Aigueperse
+|-----
+| 69003 || 69250 || xx || Albigny-sur-Saône
+|-----
+| 69004 || 69380 || xx || Alix
+|-----
+| 69005 || 69480 || xx || Ambérieux
+|-----
+| 69006 || 69550 || xx || Amplepuis
+|-----
+| 69007 || 69420 || xx || Ampuis
+|-----
+| 69008 || 69490 || xx || Ancy
+|-----
+| 69009 || 69480 || xx || Anse
+|-----
+| 69010 || 69210 || xx || L'Arbresle
+|-----
+| 69012 || 69430 || xx || Les Ardillats
+|-----
+| 69013 || 69400 || xx || Arnas
+|-----
+| 69014 || 69610 || xx || Aveize
+|-----
+| 69015 || 69430 || xx || Avenas
+|-----
+| 69016 || 69790 || xx || Azolette
+|-----
+| 69017 || 69620 || xx || Bagnols
+|-----
+| 69018 || 69430 || xx || Beaujeu
+|-----
+| 69019 || 69220 || xx || Belleville
+|-----
+| 69020 || 69380 || xx || Belmont-d'Azergues
+|-----
+| 69021 || 69690 || xx || Bessenay
+|-----
+| 69022 || 69690 || xx || Bibost
+|-----
+| 69023 || 69460 || xx || Blacé
+|-----
+| 69024 || 69620 || xx || Le Bois-d'Oingt
+|-----
+| 69025 || 69240 || xx || Bourg-de-Thizy
+|-----
+| 69026 || 69620 || xx || Le Breuil
+|-----
+| 69027 || 69530 || xx || Brignais
+|-----
+| 69028 || 69126 || xx || Brindas
+|-----
+| 69029 || 69500 || xx || Bron
+|-----
+| 69030 || 69690 || xx || Brullioles
+|-----
+| 69031 || 69690 || xx || Brussieu
+|-----
+| 69032 || 69210 || [[Bulyi]] || Bully
+|-----
+| 69033 || 69270 || xx || Cailloux-sur-Fontaines
+|-----
+| 69034 || 69300 || xx || Caluire-et-Cuire
+|-----
+| 69035 || 69840 || xx || Cenves
+|-----
+| 69036 || 69220 || xx || Cercié
+|-----
+| 69037 || 69870 || xx || Chambost-Allières
+|-----
+| 69038 || 69770 || xx || Chambost-Longessaigne
+|-----
+| 69039 || 69620 || xx || Chamelet
+|-----
+| 69040 || 69410 || xx || Champagne-au-Mont-d'Or
+|-----
+| 69041 || 69240 || xx || La Chapelle-de-Mardore
+|-----
+| 69042 || 69590 || xx || La Chapelle-sur-Coise
+|-----
+| 69270 || 69970 || xx || Chaponnay
+|-----
+| 69043 || 69630 || xx || Chaponost
+|-----
+| 69044 || 69260 || xx || Charbonnières-les-Bains
+|-----
+| 69045 || 69220 || xx || Charentay
+|-----
+| 69046 || 69390 || xx || Charly
+|-----
+| 69047 || 69380 || xx || Charnay
+|-----
+| 69048 || 69700 || xx || Chassagny
+|-----
+| 69049 || 69380 || xx || Chasselay
+|-----
+| 69271 || 69680 || xx || Chassieu
+|-----
+| 69050 || 69380 || xx || Châtillon-d'Azergues
+|-----
+| 69051 || 69440 || xx || Chaussan
+|-----
+| 69052 || 69380 || xx || Chazay-d'Azergues
+|-----
+| 69053 || 69840 || xx || Chénas
+|-----
+| 69054 || 69430 || xx || Chénelette
+|-----
+| 69055 || 69380 || xx || Les Chères
+|-----
+| 69056 || 69380 || xx || Chessy-les-Mines
+|-----
+| 69057 || 69210 || xx || Chevinay
+|-----
+| 69058 || 69115 || xx || Chiroubles
+|-----
+| 69059 || 69380 || xx || Civrieux-d'Azergues
+|-----
+| 69060 || 69870 || [[Cllàvêsôles]] || Claveisolles
+|-----
+| 69061 || 69640 || xx || Cogny
+|-----
+| 69062 || 69590 || xx || Coise
+|-----
+| 69063 || 69660 || xx || Collonges-au-Mont-d'Or
+|-----
+| 69299 || 69124 || xx || Colombier-Saugnieu
+|-----
+| 69272 || 69360 || xx || Communay
+|-----
+| 69064 || 69420 || xx || Condrieu
+|-----
+| 69273 || 69960 || xx || Corbas
+|-----
+| 69065 || 69220 || xx || Corcelles-en-Beaujolais
+|-----
+| 69066 || 69470 || xx || Cours-la-Ville
+|-----
+| 69067 || 69690 || xx || Courzieu
+|-----
+| 69068 || 69270 || xx || Couzon-au-Mont-d'Or
+|-----
+| 69069 || 69290 || xx || Craponne
+|-----
+| 69070 || 69550 || xx || Cublize
+|-----
+| 69071 || 69250 || xx || Curis-au-Mont-d'Or
+|-----
+| 69072 || 69570 || xx || Dardilly
+|-----
+| 69073 || 69490 || xx || Dareizé
+|-----
+| 69275 || 69150 || xx || Décines-Charpieu
+|-----
+| 69074 || 69640 || xx || Denicé
+|-----
+| 69075 || 69170 || xx || Dième
+|-----
+| 69076 || 69380 || xx || Dommartin
+|-----
+| 69077 || 69220 || xx || Dracé
+|-----
+| 69078 || 69850 || xx || Duerne
+|-----
+| 69080 || 69700 || xx || Échalas
+|-----
+| 69081 || 69130 || xx || Écully
+|-----
+| 69082 || 69840 || xx || Émeringes
+|-----
+| 69083 || 69210 || xx || Éveux
+|-----
+| 69276 || 69320 || xx || Feyzin
+|-----
+| 69084 || 69820 || xx || Fleurie
+|-----
+| 69085 || 69250 || xx || Fleurieu-sur-Saône
+|-----
+| 69086 || 69210 || xx || Fleurieux-sur-l'Arbresle
+|-----
+| 69087 || 69270 || xx || Fontaines-Saint-Martin
+|-----
+| 69088 || 69270 || xx || Fontaines-sur-Saône
+|-----
+| 69089 || 69340 || xx || Francheville
+|-----
+| 69090 || 69620 || xx || Frontenas
+|-----
+| 69277 || 69740 || xx || Genas
+|-----
+| 69278 || 69730 || xx || Genay
+|-----
+| 69091 || 69700 || xx || Givors
+|-----
+| 69092 || 69400 || xx || Gleizé
+|-----
+| 69093 || 69870 || xx || Grandris
+|-----
+| 69094 || 69290 || xx || Grézieu-la-Varenne
+|-----
+| 69095 || 69610 || xx || Grézieu-le-Marché
+|-----
+| 69096 || 69520 || xx || Grigny
+|-----
+| 69097 || 69420 || xx || Les Haies
+|-----
+| 69098 || 69610 || xx || Les Halles
+|-----
+| 69099 || 69610 || xx || Haute-Rivoire
+|-----
+| 69100 || 69540 || xx || Irigny
+|-----
+| 69101 || 69640 || xx || Jarnioux
+|-----
+| 69279 || 69330 || xx || Jonage
+|-----
+| 69280 || 69330 || xx || Jons
+|-----
+| 69102 || 69170 || xx || Joux
+|-----
+| 69103 || 69840 || xx || Juliénas
+|-----
+| 69104 || 69840 || xx || Jullié
+|-----
+| 69105 || 69640 || xx || Lacenas
+|-----
+| 69106 || 69480 || xx || Lachassagne
+|-----
+| 69107 || 69870 || xx || Lamure-sur-Azergues
+|-----
+| 69108 || 69220 || xx || Lancié
+|-----
+| 69109 || 69430 || xx || Lantignié
+|-----
+| 69110 || 69590 || xx || Larajasse
+|-----
+| 69111 || 69620 || xx || Légny
+|-----
+| 69112 || 69210 || xx || Lentilly
+|-----
+| 69113 || 69620 || xx || Létra
+|-----
+| 69114 || 69400 || xx || Liergues
+|-----
+| 69115 || 69400 || xx || Limas
+|-----
+| 69116 || 69760 || xx || Limonest
+|-----
+| 69117 || 69380 || xx || Lissieu
+|-----
+| 69118 || 69700 || xx || Loire-sur-Rhône
+|-----
+| 69119 || 69420 || xx || Longes
+|-----
+| 69120 || 69770 || xx || Longessaigne
+|-----
+| 69121 || 69380 || xx || Lozanne
+|-----
+| 69122 || 69480 || xx || Lucenay
+|-----
+| 69123 || 69001<br />69002<br />69003<br />69004<br />69005<br />69006<br />69007<br />69008<br />69009
+|| [[Liyon]] || Lyon
+|-----
+| 69124 || 69430 || xx || Marchampt
+|-----
+| 69125 || 69380 || xx || Marcilly-d'Azergues
+|-----
+| 69126 || 69480 || xx || Marcy
+|-----
+| 69127 || 69280 || xx || Marcy-l'Étoile
+|-----
+| 69128 || 69240 || xx || Mardore
+|-----
+| 69281 || 69970 || xx || Marennes
+|-----
+| 69129 || 69240 || xx || Marnand
+|-----
+| 69130 || 69550 || xx || Meaux-la-Montagne
+|-----
+| 69131 || 69510 || xx || Messimy
+|-----
+| 69132 || 69610 || xx || Meys
+|-----
+| 69282 || 69330 || xx || Meyzieu
+|-----
+| 69133 || 69390 || [[Milyeri]] || Millery
+|-----
+| 69283 || 69780 || xx || Mions
+|-----
+| 69134 || 69620 || xx || Moiré
+|-----
+| 69135 || 69860 || [[Moncéls|Moncéls / Monsols]] || Monsols
+|-----
+| 69136 || 69700 || xx || Montagny
+|-----
+| 69284 || 69250 || xx ||Montanay
+|-----
+| 69137 || 69640 || xx || Montmelas-Saint-Sorlin
+|-----
+| 69138 || 69610 || xx || Montromant
+|-----
+| 69139 || 69770 || xx || Montrottier
+|-----
+| 69140 || 69480 || xx || Morancé
+|-----
+| 69141 || 69440 || xx || Mornant
+|-----
+| 69142 || 69350 || xx || La Mulatière
+|-----
+| 69143 || 69250 || xx || Neuville-sur-Saône
+|-----
+| 69144 || 69210 || xx || Nuelles
+|-----
+| 69145 || 69460 || xx || Odenas
+|-----
+| 69146 || 69620 || xx || Oingt
+|-----
+| 69147 || 69490 || xx || Les Olmes
+|-----
+| 69148 || 69530 || xx || Orliénas
+|-----
+| 69149 || 69600 || xx || Oullins
+|-----
+| 69150 || 69860 || xx || Ouroux
+|-----
+| 69151 || 69460 || [[Le Pèrreyon]] || Le Perréon
+|-----
+| 69152 || 69310 || xx || Pierre-Bénite
+|-----
+| 69153 || 69250 || xx || Poleymieux-au-Mont-d'Or
+|-----
+| 69154 || 69290 || xx || Pollionnay
+|-----
+| 69155 || 69590 || xx || Pomeys
+|-----
+| 69156 || 69480 || xx || Pommiers
+|-----
+| 69157 || 69490 || xx || Pontcharra-sur-Turdine
+|-----
+| 69158 || 69240 || xx || Pont-Trambouze
+|-----
+| 69159 || 69400 || xx || Pouilly-le-Monial
+|-----
+| 69160 || 69870 || [[Poule]] || Poule-les-Écharmeaux
+|-----
+| 69161 || 69790 || xx || Propières
+|-----
+| 69285 || 69330 || xx || Pusignan
+|-----
+| 69162 || 69430 || xx || Quincié-en-Beaujolais
+|-----
+| 69163 || 69650 || xx || Quincieux
+|-----
+| 69164 || 69470 || [[Rànchal]] || Ranchal
+|-----
+| 69165 || 69430 || xx || Régnié-Durette
+|-----
+| 69286 || 69140 || xx || Rillieux-la-Pape
+|-----
+| 69166 || 69440 || xx || Riverie
+|-----
+| 69167 || 69640 || xx || Rivolet
+|-----
+| 69168 || 69270 || xx || Rochetaillée-sur-Saône
+|-----
+| 69169 || 69550 || [[Rono]] || Ronno
+|-----
+| 69170 || 69510 || xx || Rontalon
+|-----
+| 69171 || 69210 || xx || Sain-Bel
+|-----
+| 69179 || 69700 || [[Sent-Anduér]] || Saint-Andéol-le-Château
+|-----
+| 69180 || 69440 || xx || Saint-André-la-Côte
+|-----
+| 69181 || 69170 || xx || Saint-Appolinaire
+|-----
+| 69287 || 69720 || xx || Saint-Bonnet-de-Mure
+|-----
+| 69182 || 69790 || xx || Saint-Bonnet-des-Bruyères
+|-----
+| 69183 || 69870 || xx || Saint-Bonnet-le-Troncy
+|-----
+| 69185 || 69860 || [[Sant-Cretôflle]] || Saint-Christophe
+|-----
+| 69186 || 69790 || [[Sant-Cllemènt]] || Saint-Clément-de-Vers
+|-----
+| 69187 || 69930 || xx || Saint-Clément-les-Places
+|-----
+| 69188 || 69170 || xx || Saint-Clément-sur-Valsonne
+|-----
+| 69191 || 69450 || xx || Saint-Cyr-au-Mont-d'Or
+|-----
+| 69192 || 69870 || xx || Saint-Cyr-le-Chatoux
+|-----
+| 69193 || 69560 || xx || Saint-Cyr-sur-le-Rhône
+|-----
+| 69194 || 69370 || xx || Saint-Didier-au-Mont-d'Or
+|-----
+| 69195 || 69440 || xx || Saint-Didier-sous-Riverie
+|-----
+| 69196 || 69430 || xx || Saint-Didier-sur-Beaujeu
+|-----
+| 69184 || 69440 || xx || Sainte-Catherine
+|-----
+| 69189 || 69560 || xx || Sainte-Colombe
+|-----
+| 69190 || 69280 || xx || Sainte-Consorce
+|-----
+| 69201 || 69610 || xx || Sainte-Foy-l'Argentière
+|-----
+| 69202 || 69110 || xx || Sainte-Foy-lès-Lyon
+|-----
+| 69230 || 69620 || xx || Sainte-Paule
+|-----
+| 69197 || 69460 || xx || Saint-Étienne-des-Oullières
+|-----
+| 69198 || 69460 || xx || Saint-Étienne-la-Varenne
+|-----
+| 69199 || 69190 || xx || Saint-Fons
+|-----
+| 69200 || 69490 || xx || Saint-Forgeux
+|-----
+| 69203 || 69610 || xx || Saint-Genis-l'Argentière
+|-----
+| 69204 || 69230 || xx || Saint-Genis-Laval
+|-----
+| 69205 || 69290 || xx || Saint-Genis-les-Ollières
+|-----
+| 69206 || 69830 || xx || Saint-Georges-de-Reneins
+|-----
+| 69207 || 69650 || xx || Saint-Germain-au-Mont-d'Or
+|-----
+| 69208 || 69210 || xx || Saint-Germain-sur-l'Arbresle
+|-----
+| 69209 || 69790 || xx || Saint-Igny-de-Vers
+|-----
+| 69210 || 69860 || xx || Saint-Jacques-des-Arrêts
+|-----
+| 69211 || 69220 || xx || Saint-Jean-d'Ardières
+|-----
+| 69212 || 69380 || xx || Saint-Jean-des-Vignes
+|-----
+| 69213 || 69700 || xx || Saint-Jean-de-Touslas
+|-----
+| 69214 || 69550 || xx || Saint-Jean-la-Bussière
+|-----
+| 69215 || 69640 || xx || Saint-Julien
+|-----
+| 69216 || 69690 || xx || Saint-Julien-sur-Bibost
+|-----
+| 69217 || 69870 || xx || Saint-Just-d'Avray
+|-----
+| 69218 || 69220 || xx || Saint-Lager
+|-----
+| 69219 || 69440 || xx || Saint-Laurent-d'Agny
+|-----
+| 69220 || 69930 || xx || Saint-Laurent-de-Chamousset
+|-----
+| 69288 || 69720 || xx || Saint-Laurent-de-Mure
+|-----
+| 69221 || 69670 || xx || Saint-Laurent-de-Vaux
+|-----
+| 69222 || 69620 || xx || Saint-Laurent-d'Oingt
+|-----
+| 69223 || 69490 || xx || Saint-Loup
+|-----
+| 69224 || 69860 || xx || Saint-Mamert
+|-----
+| 69225 || 69170 || xx || Saint-Marcel-l'Éclairé
+|-----
+| 69227 || 69850 || xx || Saint-Martin-en-Haut
+|-----
+| 69228 || 69440 || xx || Saint-Maurice-sur-Dargoire
+|-----
+| 69229 || 69870 || xx || Saint-Nizier-d'Azergues
+|-----
+| 69289 || 69780 || xx || Saint-Pierre-de-Chandieu
+|-----
+| 69231 || 69210 || xx || Saint-Pierre-la-Palud
+|-----
+| 69290 || 69800 || xx || Saint-Priest
+|-----
+| 69233 || 69270 || xx || Saint-Romain-au-Mont-d'Or
+|-----
+| 69234 || 69490 || xx || Saint-Romain-de-Popey
+|-----
+| 69235 || 69560 || xx || Saint-Romain-en-Gal
+|-----
+| 69236 || 69700 || xx || Saint-Romain-en-Gier
+|-----
+| 69237 || 69440 || xx || Saint-Sorlin
+|-----
+| 69291 || 69360 || xx || Saint-Symphorien-d'Ozon
+|-----
+| 69238 || 69590 || xx || Saint-Symphorien-sur-Coise
+|-----
+| 69239 || 69620 || xx || Saint-Vérand
+|-----
+| 69240 || 69240 || xx || Saint-Vincent-de-Reins
+|-----
+| 69172 || 69460 || xx || Salles-Arbuissonnas-en-Beaujolais
+|-----
+| 69173 || 69490 || xx || Sarcey
+|-----
+| 69292 || 69580 || xx || Sathonay-Camp
+|-----
+| 69293 || 69580 || xx || Sathonay-Village
+|-----
+| 69174 || 69170 || xx || Les Sauvages
+|-----
+| 69175 || 69210 || xx || Savigny
+|-----
+| 69294 || 69360 || xx || Sérézin-du-Rhône
+|-----
+| 69295 || 69360 || xx || Simandres
+|-----
+| 69296 || 69360 || xx || Solaize
+|-----
+| 69176 || 69510 || xx || Soucieu-en-Jarrest
+|-----
+| 69177 || 69210 || xx || Sourcieux-les-Mines
+|-----
+| 69178 || 69610 || xx || Souzy
+|-----
+| 69241 || 69440 || xx || Taluyers
+|-----
+| 69242 || 69220 || xx || Taponas
+|-----
+| 69243 || 69170 || xx || Tarare
+|-----
+| 69244 || 69160 || xx || Tassin-la-Demi-Lune
+|-----
+| 69245 || 69620 || xx || Ternand
+|-----
+| 69297 || 69360 || xx || Ternay
+|-----
+| 69246 || 69620 || xx || Theizé
+|-----
+| 69247 || 69470 || xx || Thel
+|-----
+| 69248 || 69240 || xx || Thizy
+|-----
+| 69249 || 69510 || xx || Thurins
+|-----
+| 69250 || 69890 || xx || La Tour-de-Salvagny
+|-----
+| 69298 || 69780 || xx || Toussieu
+|-----
+| 69251 || 69860 || xx || Trades
+|-----
+| 69252 || 69420 || xx || Trèves
+|-----
+| 69253 || 69420 || xx || Tupin-et-Semons
+|-----
+| 69254 || 69170 || xx || Valsonne
+|-----
+| 69255 || 69670 || xx || Vaugneray
+|-----
+| 69256 || 69120 || xx || Vaulx-en-Velin
+|-----
+| 69257 || 69460 || xx || Vaux-en-Beaujolais
+|-----
+| 69258 || 69820 || xx || Vauxrenard
+|-----
+| 69259 || 69200 || xx || Vénissieux
+|-----
+| 69260 || 69390 || xx || Vernaison
+|-----
+| 69261 || 69430 || xx || Vernay
+|-----
+| 69263 || 69770 || xx || Villechenève
+|-----
+| 69264 || 69400 || xx || Villefranche-sur-Saône
+|-----
+| 69265 || 69640 || xx || Ville-sur-Jarnioux
+|-----
+| 69266 || 69100 || xx || [[Villeurbanne
+|-----
+| 69267 || 69910 || xx || Villié-Morgon
+|-----
+| 69268 || 69390 || xx || Vourles
+|-----
+| 69269 || 69510 || xx || Yzeron
+|}
