@@ -1,0 +1,658 @@
+{| rules="all" cellspacing="0" cellpadding="4" style="border: 1px solid #999"
+|-----
+! [[Code INSEE|Code<br />INSEE]] !! [[Code postal|Code<br />postal]] !! Commune !! Intercom-<br />munalité
+|-----
+| 42001 || 42380 || xx || Aboën
+|-----
+| 42002 || 42130 || xx || Ailleux
+|-----
+| 42003 || 42820 || xx || Ambierle
+|-----
+| 42004 || 42260 || xx || Amions
+|-----
+| 42005 || 42160 || xx || Andrézieux-Bouthéon
+|-----
+| 42006 || 42550 || xx || Apinac
+|-----
+| 42007 || 42460 || xx || Arcinges
+|-----
+| 42008 || 42370 || xx || Arcon
+|-----
+| 42009 || 42130 || xx || Arthun
+|-----
+| 42010 || 42330 || xx || Aveizieux
+|-----
+| 42011 || 42510 || xx || Balbigny
+|-----
+| 42012 || 42600 || xx || Bard
+|-----
+| 42013 || 42210 || xx || Bellegarde-en-Forez
+|-----
+| 42014 || 42670 || xx || Belleroche
+|-----
+| 42015 || 42670 || xx || Belmont-de-la-Loire
+|-----
+| 42016 || 42720 || xx || La Bénisson-Dieu
+|-----
+| 42017 || 42660 || xx || Le Bessat
+|-----
+| 42018 || 42520 || xx || Bessey
+|-----
+| 42019 || 42130 || xx || Boën
+|-----
+| 42020 || 42210 || xx || Boisset-lès-Montrond
+|-----
+| 42021 || 42560 || xx || Boisset-Saint-Priest
+|-----
+| 42022 || 42160 || xx || Bonson
+|-----
+| 42023 || 42220 || xx || Bourg-Argental
+|-----
+| 42025 || 42460 || xx || Boyer
+|-----
+| 42026 || 42720 || xx || Briennon
+|-----
+| 42027 || 42260 || xx || Bully
+|-----
+| 42028 || 42220 || xx || Burdignes
+|-----
+| 42029 || 42510 || xx || Bussières
+|-----
+| 42030 || 42260 || xx || Bussy-Albieux
+|-----
+| 42031 || 42240 || xx || Çaloire
+|-----
+| 42032 || 42320 || xx || Cellieu
+|-----
+| 42033 || 42460 || xx || Le Cergne
+|-----
+| 42034 || 42440 || xx || Cervières
+|-----
+| 42035 || 42130 || xx || Cezay
+|-----
+| 42036 || 42800 || xx || Chagnon
+|-----
+| 42037 || 42600 || xx || Chalain-d'Uzore
+|-----
+| 42038 || 42600 || xx || Chalain-le-Comtal
+|-----
+| 42039 || 42920 || xx || Chalmazel
+|-----
+| 42040 || 42440 || xx || La Chamba
+|-----
+| 42041 || 42110 || xx || Chambéon
+|-----
+| 42042 || 42170 || xx || Chambles
+|-----
+| 42043 || 42330 || xx || Chambœuf
+|-----
+| 42044 || 42500 || xx || Le Chambon-Feugerolles
+|-----
+| 42045 || 42440 || xx || La Chambonie
+|-----
+| 42046 || 42600 || xx || Champdieu
+|-----
+| 42047 || 42430 || xx || Champoly
+|-----
+| 42048 || 42190 || xx || Chandon
+|-----
+| 42049 || 42310 || xx || Changy
+|-----
+| 42050 || 42380 || xx || La Chapelle-en-Lafaye
+|-----
+| 42051 || 42410 || xx || La Chapelle-Villars
+|-----
+| 42052 || 42190 || xx || Charlieu
+|-----
+| 42053 || 42800 || xx || Châteauneuf
+|-----
+| 42054 || 42940 || xx || Châtelneuf
+|-----
+| 42055 || 42140 || xx || Châtelus
+|-----
+| 42339 || 42430 || xx || Chausseterre
+|-----
+| 42056 || 42410 || xx || Chavanay
+|-----
+| 42058 || 42560 || xx || Chazelles-sur-Lavieu
+|-----
+| 42059 || 42140 || xx || Chazelles-sur-Lyon
+|-----
+| 42060 || 42560 || xx || Chenereilles
+|-----
+| 42061 || 42430 || xx || Cherier
+|-----
+| 42062 || 42140 || xx || Chevrières
+|-----
+| 42063 || 42114 || xx || Chirassimont
+|-----
+| 42064 || 42410 || xx || Chuyer
+|-----
+| 42065 || 42110 || xx || Civens
+|-----
+| 42066 || 42110 || xx || Cleppé
+|-----
+| 42067 || 42220 || xx || Colombier
+|-----
+| 42068 || 42840 || xx || Combre
+|-----
+| 42069 || 42120 || xx || Commelle-Vernay
+|-----
+| 42070 || 42123 || xx || Cordelle
+|-----
+| 42071 || 42120 || xx || Le Coteau
+|-----
+| 42072 || 42111 || xx || La Côte-en-Couzan
+|-----
+| 42073 || 42360 || xx || Cottance
+|-----
+| 42074 || 42460 || xx || Coutouvre
+|-----
+| 42075 || 42210 || xx || Craintilleux
+|-----
+| 42076 || 42260 || xx || Cremeaux
+|-----
+| 42077 || 42540 || xx || Croizet-sur-Gand
+|-----
+| 42078 || 42310 || xx || Le Crozet
+|-----
+| 42079 || 42460 || xx || Cuinzier
+|-----
+| 42081 || 42330 || xx || Cuzieu
+|-----
+| 42082 || 42260 || xx || Dancé
+|-----
+| 42083 || 42800 || xx || Dargoire
+|-----
+| 42084 || 42130 || xx || Débats-Rivière-d'Orpra
+|-----
+| 42085 || 42740 || xx || Doizieux
+|-----
+| 42086 || 42670 || xx || Écoche
+|-----
+| 42087 || 42600 || xx || Écotay-l'Olme
+|-----
+| 42088 || 42110 || xx || Épercieux-Saint-Paul
+|-----
+| 42089 || 42600 || xx || Essertines-en-Châtelneuf
+|-----
+| 42090 || 42360 || xx || Essertines-en-Donzy
+|-----
+| 42091 || 42380 || xx || Estivareilles
+|-----
+| 42092 || 42580 || xx || L'Étrat
+|-----
+| 42093 || 42320 || xx || Farnay
+|-----
+| 42094 || 42110 || xx || Feurs
+|-----
+| 42095 || 42700 || xx || Firminy
+|-----
+| 42096 || 42140 || xx || Fontanès
+|-----
+| 42097 || 42480 || xx || La Fouillouse
+|-----
+| 42098 || 42470 || xx || Fourneaux
+|-----
+| 42099 || 42490 || xx || Fraisses
+|-----
+| 42225 || 42800 || xx || Genilac
+|-----
+| 42100 || 42140 || xx || La Gimond
+|-----
+| 42101 || 42220 || xx || Graix
+|-----
+| 42102 || 42140 || xx || Grammond
+|-----
+| 42103 || 42320 || xx || La Grand-Croix
+|-----
+| 42104 || 42460 || xx || La Gresle
+|-----
+| 42105 || 42600 || xx || Grézieux-le-Fromental
+|-----
+| 42106 || 42260 || xx || Grézolles
+|-----
+| 42107 || 42560 || xx || Gumières
+|-----
+| 42108 || 42210 || xx || L'Hôpital-le-Grand
+|-----
+| 42109 || 42130 || xx || L'Hôpital-sous-Rochefort
+|-----
+| 42110 || 42152 || xx || L'Horme
+|-----
+| 42112 || 42460 || xx || Jarnosse
+|-----
+| 42113 || 42110 || xx || Jas
+|-----
+| 42114 || 42920 || xx || Jeansagnière
+|-----
+| 42115 || 42660 || xx || Jonzieux
+|-----
+| 42116 || 42430 || xx || Juré
+|-----
+| 42117 || 42560 || xx || Lavieu
+|-----
+| 42118 || 42470 || xx || Lay
+|-----
+| 42119 || 42130 || xx || Leigneux
+|-----
+| 42120 || 42155 || xx || Lentigny
+|-----
+| 42121 || 42600 || xx || Lérigneux
+|-----
+| 42122 || 42600 || xx || Lézigneux
+|-----
+| 42123 || 42420 || xx || Lorette
+|-----
+| 42124 || 42520 || xx || Lupé
+|-----
+| 42125 || 42260 || xx || Luré
+|-----
+| 42126 || 42380 || xx || Luriecq
+|-----
+| 42127 || 42300 || xx || Mably
+|-----
+| 42128 || 42114 || xx || Machézal
+|-----
+| 42129 || 42520 || xx || Maclas
+|-----
+| 42130 || 42600 || xx || Magneux-Haute-Rive
+|-----
+| 42131 || 42750 || xx || Maizilly
+|-----
+| 42132 || 42520 || xx || Malleval
+|-----
+| 42133 || 42140 || xx || Marcenod
+|-----
+| 42134 || 42130 || xx || Marcilly-le-Châtel
+|-----
+| 42135 || 42210 || xx || Marclopt
+|-----
+| 42136 || 42130 || xx || Marcoux
+|-----
+| 42137 || 42560 || xx || Margerie-Chantagret
+|-----
+| 42138 || 42140 || xx || Maringes
+|-----
+| 42139 || 42660 || xx || Marlhes
+|-----
+| 42140 || 42560 || xx || Marols
+|-----
+| 42141 || 42750 || xx || Mars
+|-----
+| 42142 || 42380 || xx || Merle-Leignec
+|-----
+| 42143 || 42110 || xx || Mizérieux
+|-----
+| 42145 || 42840 || xx || Montagny
+|-----
+| 42146 || 42380 || xx || Montarcher
+|-----
+| 42147 || 42600 || xx || Montbrison
+|-----
+| 42148 || 42360 || xx || Montchal
+|-----
+| 42149 || 42210 || xx || Montrond-les-Bains
+|-----
+| 42150 || 42130 || xx || Montverdun
+|-----
+| 42151 || 42600 || xx || Mornand-en-Forez
+|-----
+| 42152 || 42720 || xx || Nandax
+|-----
+| 42153 || 42470 || xx || Neaux
+|-----
+| 42154 || 42510 || xx || Néronde
+|-----
+| 42155 || 42510 || xx || Nervieux
+|-----
+| 42156 || 42590 || xx || Neulise
+|-----
+| 42157 || 42640 || xx || Noailly
+|-----
+| 42158 || 42370 || xx || Les Noës
+|-----
+| 42159 || 42440 || xx || Noirétable
+|-----
+| 42160 || 42260 || xx || Nollieux
+|-----
+| 42161 || 42120 || xx || Notre-Dame-de-Boisset
+|-----
+| 42162 || 42155 || xx || Ouches
+|-----
+| 42163 || 42310 || xx || La Pacaudière
+|-----
+| 42164 || 42890 || xx || Palogneux
+|-----
+| 42165 || 42360 || xx || Panissières
+|-----
+| 42166 || 42120 || xx || Parigny
+|-----
+| 42167 || 42410 || xx || Pavezin
+|-----
+| 42168 || 42410 || xx || Pélussin
+|-----
+| 42169 || 42380 || xx || Périgneux
+|-----
+| 42170 || 42120 || xx || Perreux
+|-----
+| 42171 || 42590 || xx || Pinay
+|-----
+| 42172 || 42660 || xx || Planfoy
+|-----
+| 42173 || 42260 || xx || Pommiers
+|-----
+| 42174 || 42110 || xx || Poncins
+|-----
+| 42175 || 42110 || xx || Pouilly-lès-Feurs
+|-----
+| 42176 || 42155 || xx || Pouilly-les-Nonains
+|-----
+| 42177 || 42720 || xx || Pouilly-sous-Charlieu
+|-----
+| 42178 || 42630 || xx || Pradines
+|-----
+| 42179 || 42600 || xx || Pralong
+|-----
+| 42180 || 42600 || xx || Précieux
+|-----
+| 42181 || 42630 || xx || Régny
+|-----
+| 42182 || 42370 || xx || Renaison
+|-----
+| 42183 || 42150 || xx || La Ricamarie
+|-----
+| 42184 || 42153 || xx || Riorges
+|-----
+| 42185 || 42340 || xx || Rivas
+|-----
+| 42186 || 42800 || xx || Rive-de-Gier
+|-----
+| 42187 || 42300 || xx || Roanne
+|-----
+| 42188 || 42600 || xx || Roche
+|-----
+| 42189 || 42230 || xx || Roche-la-Molière
+|-----
+| 42191 || 42520 || xx || Roisey
+|-----
+| 42192 || 42380 || xx || Rozier-Côtes-d'Aurec
+|-----
+| 42193 || 42810 || xx || Rozier-en-Donzy
+|-----
+| 42194 || 42310 || xx || Sail-les-Bains
+|-----
+| 42195 || 42890 || xx || Sail-sous-Couzan
+|-----
+| 42198 || 42370 || xx || Saint-Alban-les-Eaux
+|-----
+| 42199 || 42370 || xx || Saint-André-d'Apchon
+|-----
+| 42200 || 42210 || xx || Saint-André-le-Puy
+|-----
+| 42201 || 42520 || xx || Saint-Appolinard
+|-----
+| 42202 || 42110 || xx || Saint-Barthélemy-Lestra
+|-----
+| 42203 || 42310 || xx || Saint-Bonnet-des-Quarts
+|-----
+| 42204 || 42380 || xx || Saint-Bonnet-le-Château
+|-----
+| 42205 || 42940 || xx || Saint-Bonnet-le-Courreau
+|-----
+| 42206 || 42330 || xx || Saint-Bonnet-les-Oules
+|-----
+| 42207 || 42400 || xx || Saint-Chamond
+|-----
+| 42208 || 42320 || xx || Saint-Christo-en-Jarez
+|-----
+| 42211 || 42160 || xx || Saint-Cyprien
+|-----
+| 42212 || 42123 || xx || Saint-Cyr-de-Favières
+|-----
+| 42213 || 42114 || xx || Saint-Cyr-de-Valorges
+|-----
+| 42214 || 42210 || xx || Saint-Cyr-les-Vignes
+|-----
+| 42215 || 42750 || xx || Saint-Denis-de-Cabanne
+|-----
+| 42216 || 42140 || xx || Saint-Denis-sur-Coise
+|-----
+| 42217 || 42111 || xx || Saint-Didier-sur-Rochefort
+|-----
+| 42196 || 42510 || xx || Sainte-Agathe-en-Donzy
+|-----
+| 42197 || 42130 || xx || Sainte-Agathe-la-Bouteresse
+|-----
+| 42209 || 42540 || xx || Sainte-Colombe-sur-Gand
+|-----
+| 42210 || 42800 || xx || Sainte-Croix-en-Jarez
+|-----
+| 42221 || 42110 || xx || Sainte-Foy-Saint-Sulpice
+|-----
+| 42218 || 42000 || xx || Saint-Étienne
+|-----
+| 42219 || 42130 || xx || Saint-Étienne-le-Molard
+|-----
+| 42220 || 42640 || xx || Saint-Forgeux-Lespinasse
+|-----
+| 42222 || 42330 || xx || Saint-Galmier
+|-----
+| 42223 || 42530 || xx || Saint-Genest-Lerpt
+|-----
+| 42224 || 42660 || xx || Saint-Genest-Malifaux
+|-----
+| 42226 || 42510 || xx || Saint-Georges-de-Baroille
+|-----
+| 42227 || 42990 || xx || Saint-Georges-en-Couzan
+|-----
+| 42228 || 42610 || xx || Saint-Georges-Haute-Ville
+|-----
+| 42229 || 42670 || xx || Saint-Germain-la-Montagne
+|-----
+| 42230 || 42260 || xx || Saint-Germain-Laval
+|-----
+| 42231 || 42640 || xx || Saint-Germain-Lespinasse
+|-----
+| 42232 || 42370 || xx || Saint-Haon-le-Châtel
+|-----
+| 42233 || 42370 || xx || Saint-Haon-le-Vieux
+|-----
+| 42234 || 42570 || xx || Saint-Héand
+|-----
+| 42235 || 42380 || xx || Saint-Hilaire-Cusson-la-Valmitte
+|-----
+| 42236 || 42190 || xx || Saint-Hilaire-sous-Charlieu
+|-----
+| 42237 || 42650 || xx || Saint-Jean-Bonnefonds
+|-----
+| 42238 || 42440 || xx || Saint-Jean-la-Vêtre
+|-----
+| 42239 || 42155 || xx || Saint-Jean-Saint-Maurice-sur-Loire
+|-----
+| 42240 || 42560 || xx || Saint-Jean-Soleymieux
+|-----
+| 42241 || 42590 || xx || Saint-Jodard
+|-----
+| 42242 || 42800 || xx || Saint-Joseph
+|-----
+| 42243 || 42260 || xx || Saint-Julien-d'Oddes
+|-----
+| 42245 || 42440 || xx || Saint-Julien-la-Vêtre
+|-----
+| 42246 || 42220 || xx || Saint-Julien-Molin-Molette
+|-----
+| 42247 || 42990 || xx || Saint-Just-en-Bas
+|-----
+| 42248 || 42430 || xx || Saint-Just-en-Chevalet
+|-----
+| 42249 || 42540 || xx || Saint-Just-la-Pendue
+|-----
+| 42279 || 42170 || xx || Saint-Just-Saint-Rambert
+|-----
+| 42251 || 42210 || xx || Saint-Laurent-la-Conche
+|-----
+| 42252 || 42130 || xx || Saint-Laurent-Rochefort
+|-----
+| 42253 || 42155 || xx || Saint-Léger-sur-Roanne
+|-----
+| 42254 || 42122 || xx || Saint-Marcel-de-Félines
+|-----
+| 42255 || 42430 || xx || Saint-Marcel-d'Urfé
+|-----
+| 42256 || 42680 || xx || Saint-Marcellin-en-Forez
+|-----
+| 42257 || 42620 || xx || Saint-Martin-d'Estréaux
+|-----
+| 42259 || 42800 || xx || Saint-Martin-la-Plaine
+|-----
+| 42260 || 42260 || xx || Saint-Martin-la-Sauveté
+|-----
+| 42261 || 42110 || xx || Saint-Martin-Lestra
+|-----
+| 42262 || 42240 || xx || Saint-Maurice-en-Gourgois
+|-----
+| 42264 || 42330 || xx || Saint-Médard-en-Forez
+|-----
+| 42265 || 42410 || xx || Saint-Michel-sur-Rhône
+|-----
+| 42266 || 42380 || xx || Saint-Nizier-de-Fornas
+|-----
+| 42267 || 42190 || xx || Saint-Nizier-sous-Charlieu
+|-----
+| 42268 || 42590 || xx || Saint-Paul-de-Vézelin
+|-----
+| 42269 || 42600 || xx || Saint-Paul-d'Uzore
+|-----
+| 42270 || 42240 || xx || Saint-Paul-en-Cornillon
+|-----
+| 42271 || 42740 || xx || Saint-Paul-en-Jarez
+|-----
+| 42272 || 42520 || xx || Saint-Pierre-de-Bœuf
+|-----
+| 42273 || 42190 || xx || Saint-Pierre-la-Noaille
+|-----
+| 42274 || 42260 || xx || Saint-Polgues
+|-----
+| 42275 || 42270 || xx || Saint-Priest-en-Jarez
+|-----
+| 42276 || 42830 || xx || Saint-Priest-la-Prugne
+|-----
+| 42277 || 42590 || xx || Saint-Priest-la-Roche
+|-----
+| 42278 || 42440 || xx || Saint-Priest-la-Vêtre
+|-----
+| 42280 || 42660 || xx || Saint-Régis-du-Coin
+|-----
+| 42281 || 42370 || xx || Saint-Rirand
+|-----
+| 42282 || 42430 || xx || Saint-Romain-d'Urfé
+|-----
+| 42283 || 42800 || xx || Saint-Romain-en-Jarez
+|-----
+| 42284 || 42640 || xx || Saint-Romain-la-Motte
+|-----
+| 42285 || 42610 || xx || Saint-Romain-le-Puy
+|-----
+| 42286 || 42660 || xx || Saint-Romain-les-Atheux
+|-----
+| 42287 || 42220 || xx || Saint-Sauveur-en-Rue
+|-----
+| 42288 || 42130 || xx || Saint-Sixte
+|-----
+| 42289 || 42470 || xx || Saint-Symphorien-de-Lay
+|-----
+| 42290 || 42600 || xx || Saint-Thomas-la-Garde
+|-----
+| 42291 || 42111 || xx || Saint-Thurin
+|-----
+| 42293 || 42630 || xx || Saint-Victor-sur-Rhins
+|-----
+| 42294 || 42120 || xx || Saint-Vincent-de-Boisset
+|-----
+| 42295 || 42440 || xx || Les Salles
+|-----
+| 42296 || 42110 || xx || Salt-en-Donzy
+|-----
+| 42297 || 42110 || xx || Salvizinet
+|-----
+| 42298 || 42990 || xx || Sauvain
+|-----
+| 42299 || 42600 || xx || Savigneux
+|-----
+| 42300 || 42460 || xx || Sevelinges
+|-----
+| 42301 || 42560 || xx || Soleymieux
+|-----
+| 42302 || 42290 || xx || Sorbiers
+|-----
+| 42303 || 42260 || xx || Souternon
+|-----
+| 42304 || 42450 || xx || Sury-le-Comtal
+|-----
+| 42305 || 42350 || xx || La Talaudière
+|-----
+| 42306 || 42660 || xx || Tarentaise
+|-----
+| 42307 || 42800 || xx || Tartaras
+|-----
+| 42308 || 42740 || xx || La Terrasse-sur-Dorlay
+|-----
+| 42310 || 42220 || xx || Thélis-la-Combe
+|-----
+| 42311 || 42580 || xx || La Tour-en-Jarez
+|-----
+| 42312 || 42380 || xx || La Tourette
+|-----
+| 42313 || 42130 || xx || Trelins
+|-----
+| 42314 || 42830 || xx || La Tuilière
+|-----
+| 42315 || 42210 || xx || Unias
+|-----
+| 42316 || 42240 || xx || Unieux
+|-----
+| 42317 || 42310 || xx || Urbise
+|-----
+| 42318 || 42550 || xx || Usson-en-Forez
+|-----
+| 42319 || 42110 || xx || Valeille
+|-----
+| 42320 || 42320 || xx || Valfleury
+|-----
+| 42322 || 42131 || xx || La Valla-en-Gier
+|-----
+| 42321 || 42111 || xx || La Valla-sur-Rochefort
+|-----
+| 42323 || 42340 || xx || Veauche
+|-----
+| 42324 || 42340 || xx || Veauchette
+|-----
+| 42325 || 42590 || xx || Vendranges
+|-----
+| 42326 || 42520 || xx || Véranne
+|-----
+| 42327 || 42410 || xx || Vérin
+|-----
+| 42328 || 42600 || xx || Verrières-en-Forez
+|-----
+| 42329 || 42220 || xx || La Versanne
+|-----
+| 42330 || 42390 || xx || Villars
+|-----
+| 42331 || 42155 || xx || Villemontais
+|-----
+| 42332 || 42300 || xx || Villerest
+|-----
+| 42333 || 42460 || xx || Villers
+|-----
+| 42334 || 42780 || xx || Violay
+|-----
+| 42335 || 42140 || xx || Viricelles
+|-----
+| 42336 || 42140 || xx || Virigneux
+|-----
+| 42337 || 42310 || xx || Vivans
+|-----
+| 42338 || 42720 || xx || Vougy
+|}
