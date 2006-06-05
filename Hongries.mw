@@ -27,6 +27,8 @@
 | Cllassiement_surf = xx<sup>iémo</sup>
 | Surface = xx
 | Égoua = xx
+| Frontiéres = xx
+| Coutes = xx
 | Tipo_endèp = xx
 | Payis_endèp = 
 | Dâta_endèp = 
@@ -35,6 +37,8 @@
 | Codo_monéya = xxx
 | Fus_hor = +1
 | Himno_nac = xx ('xx')
+| Féta_nac = xx
+| Siglo_nac = xx
 | Domêno_mal = .hu
 | Endicatif_tèl = 36
 | Mapa = Hu-map.png
