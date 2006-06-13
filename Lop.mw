@@ -2,12 +2,12 @@
 
 {{taxobox animâl                | Lops | Canis lupus laying in grass.jpg | Lop, ''Canis lupus''}}
 {{Taxobox phylum                | Chordata }}
-{{Taxobox sot-embranchament    | Vertebrata }}
-{{Taxobox cllâssa                | Mammalia }}
-{{Taxobox sot-clâssa           | Theria }}
-{{taxobox enfra-clâssa          | Eutheria }}
+{{Taxobox sot-embranchament     | Vertebrata }}
+{{Taxobox cllâssa               | Mammalia }}
+{{Taxobox sot-cllâssa           | Theria }}
+{{taxobox enfra-cllâssa         | Eutheria }}
 {{Taxobox ôrdre                 | Carnivora }}
-{{taxobox sot-ôrdre            | Caniformia }}
+{{taxobox sot-ôrdre             | Caniformia }}
 {{Taxobox famelye               | Canidae }}
 {{Taxobox genre                 | Canis }} 
 {{Taxobox binomial animâl       | Canis lupus | [[Linnaeus]], [[1758]] }}
