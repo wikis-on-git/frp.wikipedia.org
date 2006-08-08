@@ -1,50 +1,13 @@
-<!-- Il testo commentato è SOLO UN ESEMPIO -->
-{{Template:Comune
-|nomeComune = Pontey
-|linkStemma = Pontey-Stemma.png
-|siglaRegione = VAO
-|siglaProvincia = AO
-|latitudineGradi = 45
-|latitudineMinuti = 44
-|latitudineSecondi = 0
-|longitudineGradi = 7
-|longitudineMinuti = 35
-|longitudineSecondi = 0
-|mappaX = 28
-|mappaY = 48
-|altitudine =  <!-- solo valore numerico dell'altitudine -->
-|superficie = 15
-|abitanti = 708
-|anno =  <!-- solo valore numerico dell'anno di riferimento  -->
-|densita = 47
-|frazioni =  <!-- elenco delle frazioni, separate da virgola e spazio - senza ritorni a capo -->
-|comuniLimitrofi = [[Chambave]], [[Champdepraz]], [[Châtillon]], [[Saint-Denis (AO)|Saint-Denis]]
-|cap = 11024
-|prefisso = 0166
-|istat = 7051
-|fiscale =  <!-- B102 -->
-|nomeAbitanti =  <!-- nome degli abitanti minuscolo -->
-|patrono =  <!-- [[San Pietro]]-->
-|festivo =  <!-- [[7 aprile]] -->
-|sito =  <!-- http://www.comune.bovezzo.bs.it/ -->
-}} <!-- fine della tabella - per la compilazione vedi -> Aiuto:Comune -->
-'''Pontey''' è un comune di 708 abitanti della [[Valle d'Aosta]].
+{{Grafia RèfB}}
 
+'''Pontely''' est una comena du [[Vâl d’Aoûta]].
 
-
-==Evoluzione demografica==
-{{Demografia/Pontey}}
-
-{{Regione autonoma Valle d'Aosta}}
-
-
-
-[[Categoria:Comuni della Valle d'Aosta]]
-[[Categoria:Comuni italiani]]
+[[Category:Comena du Vâl d’Aoûta]]
 
 [[de:Pontey]]
 [[eo:Pontey]]
 [[fr:Pontey]]
+[[it:Pontey]]
 [[nap:Pontey]]
 [[nl:Pontey]]
 [[pl:Pontey]]
