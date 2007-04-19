@@ -1,0 +1,208 @@
+{{Traduccion en cors|2=Adresse IP}}{{Grafia RèfB}}
+{{Vêre homonimos|Adrèce Malyâjo}}
+
+Una '''adrèce IP''' (avouéc IP por ''[[Internet Protocol]]'') est lo numerô qu’identifie châque [[ordenator]] conèctâ u [[Malyâjo]], ou més g·ènèralament et cllârament, l’[[cârta baragne|entèrface avouéc la baragne]] de tot [[matèrièl enformatico]] ([[rotor]], [[emprimiosa]]) conèctâ a una [[baragne enformatica]] utilisent l’''Internet Protocol''.
+
+O ègziste des adrèces IP de vèrsion 4 et de vèrsion 6. En [[2007]], la vèrsion 4 est la ples utilisâ : el est notâ avouéc quatro nombros comprês entre-mié 0 et 255, sèparâs per des [[pouent (segno)|pouent]]s ; ègzemplo : <code>212.85.150.133</code>. ''Vêre [[adrèce IPv4]] et [[adrèce IPv6]].''
+
+== Détermination et utilisation des adresses dans un réseau IP ==
+Dans la version 4 du protocole, l'adresse IP d'un [[ordinateur]] lui est généralement automatiquement transmise et assignée au [[boot|démarrage]] grâce au protocole ''[[Dynamic Host Configuration Protocol]]'' (DHCP). Sinon, il est également possible de fixer l'adresse IP d'un ordinateur dans la configuration de son [[système d'exploitation]] ; des mécanismes d'autoconfiguration existent également.
+
+Dans la version 6, le principe de l'autoconfiguration est renforcé.
+
+Chaque donnée transmise par le protocole Internet est étiquetée avec deux adresses IP pour identifier l'expéditeur et le destinataire. Le réseau utilise l'adresse de destination pour transmettre la donnée. Le destinataire sait à qui répondre grâce à l'adresse IP de l'expéditeur. Chaque composant connecté au réseau doit donc posséder au moins une adresse IP pour établir des connexions.
+
+===Plus techniquement===
+Dans chaque [[trame (informatique)|trame]] envoyée à l'aide du protocole IP, l'en-tête spécifie le couple (''adresse IP du destinataire'', ''adresse IP de l'émetteur'') afin de permettre au protocole de [[routage]] de router la trame correctement et à la machine destinataire de connaître l'origine des informations qu'elle reçoit, donc d'y répondre si besoin est.
+
+Une ou plusieurs adresses IP peuvent être assignées à un hôte. Cette assignation pourra se faire soit manuellement (notamment en IPv4) , soit automatiquement par le biais d'un protocole adéquat (comme [[Dynamic Host Configuration Protocol|DHCP]] ou [[RARP]] ou en IPv6).
+
+L'adresse IP est principalement utilisée pour acheminer les données jusqu'au réseau où se trouve la machine de destination, ensuite, dans le cas d'IPv4,  c'est la table [[Address Resolution Protocol|ARP]] de la dernière [[Passerelle (informatique)|passerelle]] qui est sollicitée pour convertir l'adresse IP en [[adresse MAC]].
+
+==Adresse IP et nom de domaine==
+La plupart des adresses IP peuvent être converties en un [[nom de domaine]] et inversement. Le nom de domaine est plus facilement lisible pour les humains : <code>fr.wikipedia.org</code> est le nom de domaine correspondant à <code>212.85.150.133</code>. Il s'agit du système de [[résolution de noms]].
+
+== Masque de sous-réseau ==
+
+Le masque de sous-réseau permet de savoir quelle partie d'une adresse IP correspond à la partie numéro de réseau et laquelle correspond à la partie numéro de l'hôte. 
+
+Les principes sont les mêmes  en IP version 4, et en version 6. Cependant, les pratiques ne sont pas les mêmes. La notation [[#Principe du CIDR|CIDR]] est systématiquement utilisée.
+
+Un masque a la même longueur qu'une adresse IP. Il est constitué d'une suite de chiffres 1 terminée par (éventuellement) des chiffres 0 :
+
+                      1                   2                   3   
+  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ |1 1 1 1 1 1 1 1|1 1 1 1 1 1 1 1|1 1 1 1 1 1 1 1|1 0 0 0 0 0 0 0| masque 255.255.255.128
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+{{Article détaillé|Adresse IPv4}}
+
+Pour calculer la partie sous-réseau d'une adresse IP, on effectue une opération [[Fonction logique|logique]] bit à bit entre l'adresse et le masque. Pour calculer l'adresse de l'hôte, on effectue une opération bit à bit entre le [[complément à un]] du masque et l'adresse.
+
+Autrement dit : il suffit de conserver les bits de l'adresse là où les bits du masque sont à 1 (un certain nombre de bits en partant de la gauche de l'adresse). La partie numéro d'hôte est contenue dans les bits qui restent (les plus à droite).
+
+== Principe du CIDR ==
+
+Le ''Classless Inter-Domain Routing'', abrégé CIDR, a été mis au point afin (principalement) de diminuer la taille de la table de routage contenue dans les [[routeur]]s. Ce but est atteint en agrégeant plusieurs entrées de cette table en une seule.
+
+Ce système s'applique notamment à IPv4.
+
+La norme de routage CIDR impose également aux administrateurs de routeurs la règle de l'agrégation maximum des sous-réseaux qui sont routés ensembles avec la même politique, dans les annonces de routage envoyées en bordure de leur ''système autonome'' de routage (AS) avec un protocole de publication de routages tel que BGP4 ou GGP.
+
+== Base de données des adresses IP ==
+=== Assignation des plages d'adresses IP ===
+
+L'[[IANA]] (depuis [[2005]], une division de l'[[ICANN]]) définit l'usage autorisé des différentes plages d'adresses IPv4, en segmentant l'espace en 256 blocs de taille /8 numérotés de '''0/8''' à '''255/8''' .
+
+L'article [[adresse IPv4]] traite en détail ce sujet, dans le cas de l'IPv4.
+
+La '''diffusion''' d'une trame IP est une opération coûteuse sur un réseau local étendu et devrait rester réservée uniquement pour les services de configuration des interfaces réseau, ou pour la découverte des autres hôtes d'un même segment supportant un service donné, lorsque cette liste d'hôtes ne peut être connue par un autre moyen.
+
+En particulier, des trames IP émises en '''diffusion''' sont utilisées au démarrage d'une interface réseau IP dans le mode de configuration automatique, pour la recherche de serveurs [[DHCP]] permettant l'autoconfiguration de cette interface et des services qui lui sont associés.
+
+L'[[IANA]] définit aussi les espaces d'adresse IPv6 disponibles à la réservation.
+
+=== Plages d'adresses IP spéciales ===
+
+* L'adresse '''<code>127.0.0.1</code>''' ('''<code>0:0:0:0:0:0:0:1</code>''' ou '''<code>::1</code>''' en version 6) dénote l'adresse de bouclage ('''[[localhost]]''' - la machine elle-même).
+* L'adresse '''<code>0.0.0.0</code>''' ('''<code>0:0:0:0:0:0:0:0</code>''' ou '''<code>::</code>''' en version 6) est illégale en tant qu'adresse de destination, mais elle peut être utilisée localement dans une application pour indiquer n'importe quelle interface réseau.
+* Les autres adresses dans le réseau '''<code>127.0.0.0/8</code>''' sont considérées comme locales, de même que celles du réseau '''<code>0.0.0.0/8</code>'''.
+* L'adresse spéciale '''<code>255.255.255.255</code>''' est une adresse de diffusion.
+* La première adresse d'un réseau spécifie le réseau lui-même, la dernière est une adresse de diffusion (''[[broadcast]]'').
+
+Certaines adresses ne sont pas (ou tout du moins ne devraient pas être) routées sur [[Internet]] : elles sont réservées à un [[réseau local|usage local]] (au sein d'une organisation, où là elles peuvent être routées); en IPv6, c'est en particulier les cas des adresses <code>fe80::/64</code>.
+De plus certaines  adresses  ne devraient pas être routées sur Internet, ni même de façon privée au delà d'un même segment de liaison, où ces adresses sont utilisables uniquement comme adresses de configuration automatique par défaut des interfaces d'hôtes (en cas d'absence de configuration manuelle explicite et de non-détection d'autres systèmes de configuration comme DHCP) :
+
+==== Dans le cas particulier de l'IPv4 : ====
+{| class="wikitable"
+! En-tête
+! Réseaux
+! Diffusion
+! Sous-Réseaux
+! Classe
+! Type
+! Norme
+|-
+| 10/8
+| 10.0.0.0
+| 10.255.255.255
+| 1
+| A
+| rowspan="3" | Réseaux privés
+| rowspan="3" | urn:ietf:rfc:1918
+|-
+| 172.16/12
+| 172.16.0.0
+| 172.31.255.255
+| 16
+| B
+|-
+| 192.168/16
+| 192.168.0.0
+| 192.168.255.255
+| 256
+| C
+|- bgcolor="silver"
+| 169.254/16
+| 169.254.0.0
+| 169.254.255.255
+| 1
+| B
+| Configuration à la volée
+| urn:ietf:rfc:3927
+|}
+
+Pour plus d'information sur les autres plages d'adresses IPv4 normalement non routables et interdites sur Internet car non réservées pour cet usage, on consultera la page '''Bogon IPs''' du site [http://www.completewhois.com/ CompleteWhois] {{en}}.
+
+=== Réservation des blocs d'adresses IP ===
+{{Article détaillé|Réservation des blocs d'adresses IP}}
+Les adresses IP Unicast sont distribuées par l'[[IANA]] aux [[registre Internet Régional|registres Internet Régionaux]] (''Regional Internet Registries'', [[RIR]]). Les RIRs gèrent les ressources d'adressage IPv4 et IPv6 dans leur région.
+
+Il est possible d'interroger les bases de données des RIRs pour savoir à qui est allouée une adresse IP. Si le serveur interrogé ne contient pas la réponse, il donnera l'adresse du RIR à interroger. Ces requêtes se font grâce à la commande [[whois]] ou bien via les [[sites Web]] des LIR (rubrique « [[whois]] »).
+
+Les RIRs se sont regroupées pour former la NRO ([http://www.nro.net Number Ressource Organization]) afin de coordonner leurs activités ou projets communs et mieux défendre leurs intérêts auprès de l'ICANN (l'IANA), mais aussi auprès des organismes normalisateurs (notamment l'[[IETF]] ou l'[[ISOC]]).
+
+== Vêre asse-ben ==
+
+=== Lims entèrnos ===
+* [[Adrèce IPv4]]
+* [[Adrèce IPv6]]
+* [[Internet Protocol]]
+* [[Broadcast]]
+* [[Usurpacion d’adrèce IP]]
+* [[Usurpacion d’adrèce ARP]]
+* {{fr}} [[:fr:b:Réseaux TCP/IP|Les baragnes TCP/IP]] : un vouiquilévro de la bibliotèca du [[:fr:b:Département informatique/Bibliothèque|dèpartement enformatico]].
+
+=== Lims èxtèrnos ===
+
+==== Setos g·ènèrals ====
+* {{fr}} [http://www.adresse-ip.org/ Adresse-ip.org] Obtegnéd voutra veré adrèce IP.
+* {{fr}} [http://www.mon-ip.com/ Mon-ip.com] Un seto que vos balye voutra adrèce IP et pués voutra localisacion.
+* {{fr}} [http://www.mon-ip.biz/ Adresse IP] Un seto que vos balye voutra adrèce IP.
+* {{en}} [http://www.ipaddresslocation.org Ip Address Location] Un seto que vos balye l’endrêt de voutra adrèce IP.
+
+=== Rèferences ===
+Les dèfinicions de les adrèces IP vèrsions 4 et 6, la nocion de cllâsse et lo CIDR sont documentâs dens les ''[[Request for comments]]'' siuventes (en [[anglès]]) :
+
+==== Comenes ====
+* RFC 997 - Internet numbers, [[mârs 1987]]
+* RFC 791 - Internet Protocol, [[septembro 1981]]
+* RFC 1519 - Classless Inter-Domain Routing (CIDR): an Address Assignment and Aggregation Strategy, [[septembro 1993]]
+* RFC 1918 - Address Allocation for Private Internets, [[fevriér 1996]]
+* RFC 1531 - Dynamic Host Configuration Protocol, [[octobro 1993]]
+
+==== IPv6 ====
+* RFC 2460 - Internet Protocol, Version 6 (IPv6) Specification, [[dècembro 1998]]
+* RFC 2373 - IP Version 6 Addressing Architecture, [[julyèt 1998]]
+* RFC 2893 - Transition Mechanisms for IPv6 Hosts and Routers, [[oût 2000]]
+
+==== IPv4 ====
+* RFC 3330 - Special-Use IPv4 Addresses, [[septembro 2002]]
+* RFC 903 - A Reverse Address Resolution Protocol, [[jouen 1984]]
+
+La lista des RIRs et pués la trâbla d’alocacion de les adrèces sè trovont sur lo sèrvior de l’[[IANA]] [http://www.iana.org/ipaddress/ip-addresses.htm].
+
+{{Portâl enformatico}}
+
+[[{{ns:category}}:TCP/IP]]
+[[{{ns:category}}:Adrèçâjo baragne]]
+[[{{ns:category}}:Identifient]]
+
+[[als:IP-Adresse]]
+[[ca:Adreça IP]]
+[[cs:IP adresa]]
+[[da:IP-adresse]]
+[[de:IP-Adresse]]
+[[el:Διεύθυνση IP]]
+[[en:IP address]]
+[[eo:IP-adreso]]
+[[es:Dirección IP]]
+[[et:IP-aadress]]
+[[fa:قرارداد اینترنتی]]
+[[fi:IP-osoite]]
+[[fo:IP-adressa]]
+[[fr:Adresse IP]]
+[[he:כתובת IP]]
+[[hr:IP broj]]
+[[id:Alamat IP]]
+[[is:Vistfang]]
+[[ja:IPアドレス]]
+[[ko:IP 주소]]
+[[li:IP adres]]
+[[lt:IP adresas]]
+[[ms:Alamat IP]]
+[[nl:IP-adres]]
+[[nn:IP-adresse]]
+[[no:IP-adresse]]
+[[pl:Adres IP]]
+[[pt:Endereço IP]]
+[[ru:IP-адрес]]
+[[sk:IP adresa]]
+[[sl:IP-naslov]]
+[[sq:Adresa IP]]
+[[sr:ИП адреса]]
+[[sv:IP-nummer]]
+[[th:หมายเลขไอพี]]
+[[tr:IP adresi]]
+[[zh:IP地址]]
