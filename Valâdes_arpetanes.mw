@@ -13,7 +13,7 @@ Les '''Valâdes arpitanes du Piemont''' sont situâs u nord-ponant du [[Piemont]
 * Vâl Susa (bâssa valâ)
 * Vâl Sangone (Vâl Sangon ?)
 
-== Comenes arpitanes du Piemont (42) ==
+== Comenes arpitanes du Piemont (46) ==
 
 {| BORDER="1" CELLSPACING="0"
 |-----
@@ -27,6 +27,12 @@ Les '''Valâdes arpitanes du Piemont''' sont situâs u nord-ponant du [[Piemont]
 | xx || xx || xx || Alpette
 |-----
 | 001019 || 10070 || [[Bârmes]] || Balme
+|-----
+| 001032 || 10050 || Burgùn || Borgone Susa
+|-----
+| 001040 || 10050 || Bërsoel || Bruzolo
+|-----
+| 001044 || 10053 || Busoulin || Bussoleno
 |-----
 | xx || xx || xx || Cantoira
 |-----
@@ -46,7 +52,7 @@ Les '''Valâdes arpitanes du Piemont''' sont situâs u nord-ponant du [[Piemont]
 |-----
 | xx || xx || xx || Coazze
 |-----
-| xx || xx || xx || Condove
+| 001093 || 10055 || Kundòve || Condove
 |-----
 | xx || xx || xx || Corio
 |-----
@@ -56,7 +62,7 @@ Les '''Valâdes arpitanes du Piemont''' sont situâs u nord-ponant du [[Piemont]
 |-----
 | xx || xx || xx || Giaveno
 |-----
-| xx || xx || xx || Gravere
+| 001117 || 10050 || Gravere || Gravere
 |-----
 | xx || xx || xx || Groscavallo
 |-----
@@ -68,13 +74,15 @@ Les '''Valâdes arpitanes du Piemont''' sont situâs u nord-ponant du [[Piemont]
 |-----
 | xx || xx || xx || Locana
 |-----
-| xx || xx || xx || Mattie
+| 001147 || 10050 || Màtie || Mattie
 |-----
-| xx || xx || xx || Meana di Susa
+| 001149 || 10050 || Meana || Meana di Susa
 |-----
 | xx || xx || xx || Mezzenile
 |-----
 | xx || xx || xx || Monastero di Lanzo
+|-----
+| 001157 || 10050 || Frere Cenisio || Moncenisio
 |-----
 | xx || xx || xx || Noasca
 |-----
@@ -88,6 +96,8 @@ Les '''Valâdes arpitanes du Piemont''' sont situâs u nord-ponant du [[Piemont]
 |-----
 | xx || xx || xx || Rubiana
 |-----
+| 001239 || 10050 || Sen Didé || San Didero
+|-----
 | xx || xx || xx || Sparone
 |-----
 | 001270 || 10059 || xx || Susa
@@ -100,7 +110,7 @@ Les '''Valâdes arpitanes du Piemont''' sont situâs u nord-ponant du [[Piemont]
 |-----
 | 001288 || 10080 || [[Vâlprât]] || Valprato Soana
 |-----
-| xx || xx || xx || Venaus
+| 001291 || 10050 || Venàus || Venaus
 |-----
 | xx || xx || xx || Viù
 |}
