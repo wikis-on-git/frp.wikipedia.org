@@ -11,13 +11,13 @@
 
 {| class="wikitable"
 |-
-!align="center" bgcolor="#BEBEBE" | Code ISTAT
-!align="center" bgcolor="#BEBEBE" | Code postâl
-!align="left" bgcolor="#BEBEBE" width="180" | Nom en patouès :<br /><small>B.R.E.L.</small>
-!align="left" bgcolor="#BEBEBE" width="180" | <br /><small>Chenal-Vautherin</small>
-!align="left" bgcolor="#BEBEBE" width="180" | <br /><small>ORB</small>
-!align="left" bgcolor="#BEBEBE" width="180" | Nom en francês
-!align="center" bgcolor="#BEBEBE" | Populacion<br /><small>(31-12-2010)</small>
+!align="center" | Code ISTAT
+!align="center" | Code postâl
+!align="left" width="180" | Nom en patouès :<br /><small>B.R.E.L.</small>
+!align="left" width="180" | <br /><small>Chenal-Vautherin</small>
+!align="left" width="180" | <br /><small>ORB</small>
+!align="left" width="180" | Nom en francês
+!align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
 | align="center" | 007001 || align="center" | 11010 || [[Alèn]] || Allen || '''[[Alen]]''' || Allein
 | align="center" | 258
