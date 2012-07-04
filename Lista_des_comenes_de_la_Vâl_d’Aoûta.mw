@@ -47,6 +47,32 @@
 
 == B ==
 
+{| class="wikitable"
+|-
+!align="center" | Code ISTAT
+!align="center" | Code postâl
+!align="left" width="180" | Nom en patouès :<br /><small>B.R.E.L.</small>
+!align="left" width="180" | <br /><small>Chenal-Vautherin</small>
+!align="left" width="180" | <br /><small>ORB</small>
+!align="left" width="150" | Nom en francês
+!align="center" | Populacion<br /><small>(31-12-2010)</small>
+|-
+| align="center" | 007009 || align="center" | 11020 || [[Bart|'''Bart / Bar''']] || '''Bar''' || '''[[Bard]]''' || Bard
+| align="center" | 132
+|- bgcolor="#EFEFEF"
+| align="center" | 007010 || align="center" | 11010 || '''[[Bioun-a]]''' || '''Biona''' || '''[[Bionas]]''' || Bionaz
+| align="center" | 243
+|-
+| align="center" | 007011 || align="center" | 11020 || '''[[Brèisogne]]''' || '''Brèissogne''' || '''[[Bréssogne]]''' || Brissogne
+| align="center" | 962
+|- bgcolor="#EFEFEF"
+| align="center" | 007012 || align="center" | 11022 || '''[[Bretsón]]''' || '''Breutson''' || '''[[Brechon]]''' || Brusson
+| align="center" | 859
+|-
+|}
+
+== C ==
+
 Lista des 74 comenes du [[Vâl d’Aoûta]] per ôrdre de code ISTAT, avouéc lo code postâl, lo nom en [[arpitan]] et lo nom en [[francês]].
 
 {| BORDER="1" CELLSPACING="0"
@@ -55,14 +81,6 @@ Lista des 74 comenes du [[Vâl d’Aoûta]] per ôrdre de code ISTAT, avouéc lo
 ! Code postâl
 ! Nom en arpitan
 ! Nom en francês
-|-----
-| 007009 || 11020 || [[Bard]] || Bard
-|-----
-| 007010 || 11010 || [[Bionas]] || Bionaz
-|-----
-| 007011 || 11020 || [[Bréssogne]] || Brissogne
-|-----
-| 007012 || 11022 || [[Brechon]] || Brusson
 |-----
 | 007013 || 11020 || xx || Challand-Saint-Anselme
 |-----
