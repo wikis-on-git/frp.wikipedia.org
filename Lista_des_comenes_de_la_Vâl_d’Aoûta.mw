@@ -11,37 +11,37 @@
 
 {| class="wikitable zebra"
 |-
-!align="center" bgcolor="#EFEFEF" | Code ISTAT
-!align="center" bgcolor="#EFEFEF" | Code postâl
-!align="left" bgcolor="#EFEFEF" width="180" | Nom en patouès :<br /><small>B.R.E.L.</small>
-!align="left" bgcolor="#EFEFEF" width="180" | <br /><small>Chenal-Vautherin</small>
-!align="left" bgcolor="#EFEFEF" width="180" | <br /><small>ORB</small>
-!align="left" bgcolor="#EFEFEF" width="180" | Nom en francês
-!align="center" bgcolor="#EFEFEF" | Populacion<br /><small>(31-12-2010)</small>
+!align="center" bgcolor="#BEBEBE" | Code ISTAT
+!align="center" bgcolor="#BEBEBE" | Code postâl
+!align="left" bgcolor="#BEBEBE" width="180" | Nom en patouès :<br /><small>B.R.E.L.</small>
+!align="left" bgcolor="#BEBEBE" width="180" | <br /><small>Chenal-Vautherin</small>
+!align="left" bgcolor="#BEBEBE" width="180" | <br /><small>ORB</small>
+!align="left" bgcolor="#BEBEBE" width="180" | Nom en francês
+!align="center" bgcolor="#BEBEBE" | Populacion<br /><small>(31-12-2010)</small>
 |-
 | align="center" | 007001 || align="center" | 11010 || [[Alèn]] || Allen || '''[[Alen]]''' || Allein
-| 258
-|-
+| align="center" | 258
+|- bgcolor="#EFEFEF"
 | align="center" | 007002 || align="center" | 11020 || [[Antèy]] || Antèi || '''[[Antê]]''' || Antey-Saint-André
-| 622
+| align="center" | 622
 |-
 | align="center" | 007003 || align="center" | 11100 || [[Ohta|Oûta / Ohta, chovèn Veulla]] || Outa, soven Veulla || [[Aoûta|'''Aoûta / Aoûtha''', sovent '''Vela''']] || Aoste
-| 35 049
-|-
+| align="center" | {{formatnum:35049}}
+|- bgcolor="#EFEFEF"
 | align="center" | 007004 || align="center" | 11020 || [[Arnà]] || Arnà || '''[[Arnad]]''' || Arnad
-| 1 323
+| align="center" | {{formatnum:1323}}
 |-
 | align="center" | 007005 || align="center" | 11011 || [[Arvì]] || Arvë || [[Arviér|'''Arviér''', étot '''Le Bôrg''']] || Arvier
-| 900
-|-
+| align="center" | 900
+|- bgcolor="#EFEFEF"
 | align="center" | 007006 || align="center" | 11010 || [[Aveuso]] || Aveuso || '''[[Aveso]]''' || Avise
-| 340
+| align="center" | 340
 |-
 | align="center" | 007007 || align="center" | 11020 || [[Ayâs (B.R.E.L.)|Ayâs]] || Ayas || '''[[Ayâs]]''' || Ayas
-| 1 359
-|-
+| align="center" | {{formatnum:1359}}
+|- bgcolor="#EFEFEF"
 | align="center" | 007008 || align="center" | 11010 || [[Le-z-Amaveulles]] || Le s-Amaveulle || '''[[Les Amaveles]]''' || Aymavilles 
-| 2 065 
+| align="center" | {{formatnum:2065}}
 |-
 |}
 
