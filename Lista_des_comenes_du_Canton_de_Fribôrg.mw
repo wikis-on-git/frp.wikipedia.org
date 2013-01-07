@@ -21,13 +21,8 @@
 !align="left" width="150" | Nom en alemand
 !align="left" width="150" | Nom en tuche
 !align="center" width="70" | Populacion<br /><small>(31-12-2011)</small>
-!align="center" width="50" | Talye<br /><small>en km²</small>
+!align="center" width="50" | Tegnua<br /><small>en km²</small>
 !align="center" width="60" | District
-|-
-| align="center" | 1715 || [[Fichiér:Alterswil-coat of arms.svg|20px|Les ârmes d’Alterswil]]  ||  ||  || '''[[Alterswil]]''' || Auterschwüu
-| align="center" | {{formatnum:1946}}
-| align="center" | 16,11
-| align="center" | [[District de la Singena|Singena]]
 |- bgcolor="#EFEFEF"
 | align="center" | 1732 || [[Fichiér:Arconciel-coat_of_arms.svg‎|20px|Les ârmes d’Arconciél]] [[Arconciél|'''<u>Arconciél</u> / Arconcié''']] || '''Arkonhyi''' || Arconciel || <small>Ergenzach (''pou empleyê'')</small> || 
 | align="center" | 770
@@ -39,7 +34,7 @@
 | align="center" | 9,76
 | align="center" | [[District de la Vevêse|Vevêse]]
 |- bgcolor="#EFEFEF"
-| align="center" | 1754 || [[Fichiér:Avry-coat of arms.svg|20px|Les ârmes d’Avri]] '''[[Avri]]''' ||  || Avry ||  || 
+| align="center" | 1754 || [[Fichiér:Avry-coat of arms.svg|20px|Les ârmes d’Avri]] '''[[Avri]]''' ||  || Avry || <small>Afry (''dèpassâ'')</small> || 
 | align="center" | {{formatnum:1770}}
 | align="center" | 5,83
 | align="center" | [[District de la Sarena|Sarena]]
@@ -57,7 +52,7 @@
 !align="left" width="150" | Nom en alemand
 !align="left" width="150" | Nom en tuche
 !align="center" width="70" | Populacion<br /><small>(31-12-2011)</small>
-!align="center" width="50" | Talye<br /><small>en km²</small>
+!align="center" width="50" | Tegnua<br /><small>en km²</small>
 !align="center" width="60" | District
 |-
 | align="center" | 1783 || [[Fichiér:Barbereche-coat of arms.svg|20px|Les ârmes de Barberèche]] '''[[Barberèche]]''' || '''Barbèrètse''' || Barberêche || Bärfischen || Bärfische
@@ -65,12 +60,12 @@
 | align="center" | 9,17
 | align="center" | [[District du Lèc|Lèc]]
 |- bgcolor="#EFEFEF"
-| align="center" | 1667<br/> 1665<br/> 1666 || [[Fichiér:Bas-Intyamon-coat_of_arms.svg‎|20px|Les ârmes du Bâs-Enque-amont]] [[Bâs-Enque-amont|'''Bâs-Enque-amont / Bâs-Entremont''']] || '''Bâ-Intyamon''' || Bas-Intyamon ||  || 
+| align="center" | 1665<br/> 1666<br/> 1667 || [[Fichiér:Bas-Intyamon-coat_of_arms.svg‎|20px|Les ârmes du Bâs-Enque-amont]] [[Bâs-Enque-amont|'''Bâs-Enque-amont / Bâs-Entremont''']] || '''Bâ-Intyamon''' || Bas-Intyamon ||  || 
 | align="center" | {{formatnum:1165}}
 | align="center" | 33,31
 | align="center" | [[District de la Gruviére|Gruviére]]
 |-
-| align="center" | 1786<br/> 1786<br/> 1788 || [[Fichiér:Bas-Vully-coat_of_arms.svg|20px|Les ârmes du Bâs-Vulyi]] '''[[Bâs-Vulyi]]''' ||  || Bas-Vully || Niederwistenlach / Unterwistenlach || 
+| align="center" | 1786<br/> 1788 || [[Fichiér:Bas-Vully-coat_of_arms.svg|20px|Les ârmes du Bâs-Vulyi]] '''[[Bâs-Vulyi]]''' ||  || Bas-Vully || Niederwistenlach / Unterwistenlach || 
 | align="center" | {{formatnum:1991}}
 | align="center" | 9,95
 | align="center" | [[District du Lèc|Lèc]]
@@ -100,14 +95,14 @@
 | align="center" | 4,10
 | align="center" | [[District de la Vevêse|Vevêse]]
 |-
-| align="center" | 1636 || [[Fichiér:Broc-coat_of_arms.svg‎|20px|Les ârmes de Broc]] '''[[Broc (Fribôrg)|Broc]]''' || '''Bro''' || Broc || <small>Bruck (''dèpassâ'')</small> || 
-| align="center" | {{formatnum:2278}}
-| align="center" | 10,04
-| align="center" | [[District de la Gruviére|Gruviére]]
-|- bgcolor="#EFEFEF"
 | align="center" | 1652 || [[Fichiér:GW-FR-Botterens neu.png|20px|Les ârmes de Boterens]] '''[[Boterens]]''' || '''Botèrin''' || Botterens || <small>Botteringen (''dèpassâ'')</small> || 
 | align="center" | 492
 | align="center" | 4,15
+| align="center" | [[District de la Gruviére|Gruviére]]
+|- bgcolor="#EFEFEF"
+| align="center" | 1636 || [[Fichiér:Broc-coat_of_arms.svg‎|20px|Les ârmes de Broc]] '''[[Broc (Fribôrg)|Broc]]''' || '''Bro''' || Broc || <small>Bruck (''dèpassâ'')</small> || 
+| align="center" | {{formatnum:2278}}
+| align="center" | 10,04
 | align="center" | [[District de la Gruviére|Gruviére]]
 |-
 | align="center" | 1719 || [[Fichiér:Brünisried-coat of arms.svg|20px|Les ârmes de Brünisried]]  ||  ||  || '''[[Brünisried]]''' || Brǜnisried
@@ -138,7 +133,7 @@
 !align="left" width="150" | Nom en alemand
 !align="left" width="150" | Nom en tuche
 !align="center" width="70" | Populacion<br /><small>(31-12-2011)</small>
-!align="center" width="50" | Talye<br /><small>en km²</small>
+!align="center" width="50" | Tegnua<br /><small>en km²</small>
 !align="center" width="60" | District
 |-
 | align="center" | 1654 || [[Fichiér:Cerniat-coat of arms.svg|20px|Les ârmes de Cèrniê]] '''[[Cèrniê]]''' || '''Thèrnya / Tharnya''' || Cerniat || <small>Scherni (''dèpassâ'')</small> || 
@@ -161,12 +156,12 @@
 | align="center" | 2,03
 | align="center" | [[District de la Gllânna|Gllânna]]
 |-
-| align="center" | 1637 || [[Fichiér:Charmey-coat of arms.svg|20px|Les ârmes de Chàrmê]] [[Chàrmê (Gruviére)|'''<u>Chàrmê</u> / Charmê''']] || '''Tsêrmê / Tsarmê''' || Charmey || <small>Galmis (''empleyê ren qu’a [[Bèlagouàrda (Fribôrg)|Bèlagouàrda]]'')</small> || 
+| align="center" | 1637 || [[Fichiér:Charmey-coat of arms.svg|20px|Les ârmes de Chàrmê (Gruviére)]] [[Chàrmê (Gruviére)|'''<u>Chàrmê</u> / Charmê''']] || '''Tsêrmê / Tsarmê''' || Charmey || <small>Galmis (''empleyê ren qu’a [[Bèlagouàrda (Fribôrg)|Bèlagouàrda]]'')</small> || 
 | align="center" | {{formatnum:1852}}
 | align="center" | 78,46
 | align="center" | [[District de la Gruviére|Gruviére]]
 |- bgcolor="#EFEFEF"
-| align="center" | 3285 || [[Fichiér:Galmiz-coat of arms.svg|20px|Les ârmes de Chàrmê (Lèc)]] [[Chàrmê (Lèc)|'''<u>Chàrmê</u>''' <small>ou ben</small> '''Charmê (Lèc)''']] || '''Tsêrmê''' <small>ou bin</small> '''Tsarmê (Lé)''' || Charmey (Lac) || Galmiz || 
+| align="center" | 3285 || [[Fichiér:Galmiz-coat of arms.svg|20px|Les ârmes de Chàrmê (Lèc)]] [[Chàrmê (Lèc)|'''<u>Chàrmê</u> / Charmê''']] || '''Tsêrmê / Tsarmê''' || Charmey || Galmiz || 
 | align="center" | 611
 | align="center" | 9,06
 | align="center" | [[District du Lèc|Lèc]]
@@ -176,7 +171,7 @@
 | align="center" | 47,89
 | align="center" | [[District de la Vevêse|Vevêse]]
 |- bgcolor="#EFEFEF"
-| align="center" | 1653 || [[Fichiér:Châtel-sur-Montsalvens-coat_of_arms.svg‎|20px|Les ârmes de Châthél-sur-Montcèrvins]] [[Châthél-sur-Montcèrvins|'''<u>Châthél-sur-Montcèrvins</u> / Châtél-sur-Montcèrvins''']] || '''Tsathi-chu-Monthêrvin''' || Châtel-sur-Montsalvens || <small>Kastels ob Montsalvens (''dèpassâ'')</small> || 
+| align="center" | 1653 || [[Fichiér:Châtel-sur-Montsalvens-coat_of_arms.svg‎|20px|Les ârmes de Châthél-sur-Montcèrvins]] [[Châthél-sur-Montcèrvins|'''<u>Châthél-sur-Montcèrvins</u> / Châtél-sur-Montcèrvins''']] || '''Tsathi-chu-Monthêrvin''' || Châtel-sur-Montsalvens || <small>Kastels ob Montsalvens (''empleyê ren qu’a [[Bèlagouàrda (Fribôrg)|Bèlagouàrda]]'')</small> || 
 | align="center" | 245
 | align="center" | 2,04
 | align="center" | [[District de la Gruviére|Gruviére]]
@@ -236,7 +231,7 @@
 | align="center" | 3,26
 | align="center" | [[District du Lèc|Lèc]]
 |- bgcolor="#EFEFEF"
-| align="center" | 1720 || [[Fichiér:Corminboeuf-coat_of_arms.svg‎|20px|Les ârmes de Corminbœf]] [[Corminbœf|'''<u>Corminbœf</u> / Corminbof''']] || '''Korminbà''' || Corminbœuf || <small>Sankt Jörg (''dèpassâ'')</small> || 
+| align="center" | 1720 || [[Fichiér:Corminboeuf-coat_of_arms.svg‎|20px|Les ârmes de Corminbœf]] [[Corminbœf|'''<u>Corminbœf</u> / Corminbof''']] || '''Korminbà''' || Corminbœuf || <small>Sankt Görg (''dèpassâ'')</small> || 
 | align="center" | {{formatnum:2142}}
 | align="center" | 5,62
 | align="center" | [[District de la Sarena|Sarena]]
@@ -246,7 +241,7 @@
 | align="center" | 17,29
 | align="center" | [[District du Lèc|Lèc]]
 |- bgcolor="#EFEFEF"
-| align="center" | 1727 || [[Fichiér:Corpataux-Magnedens-coat_of_arms.svg‎|20px|Les ârmes de Corpathâlx-Magnedens]] [[Corpathâlx-Magnedens|'''<u>Corpathâlx-Magnedens</u> / Corpatâls-Magnedens''']] || '''Korpathà-Manyedin''' || Corpataux-Magnedens ||  || 
+| align="center" | 1727 || [[Fichiér:Corpataux-Magnedens-coat_of_arms.svg‎|20px|Les ârmes de Corpathâlx-Magnedens]] [[Corpathâlx-Magnedens|'''<u>Corpathâlx-Magnedens</u> / Corpatâls-Magnedens''']] || '''Korpathà-Manyedin / Korpatà-Manyedin''' || Corpataux-Magnedens ||  || 
 | align="center" | {{formatnum:1193}}
 | align="center" | 4,37
 | align="center" | [[District de la Sarena|Sarena]]
@@ -294,7 +289,7 @@
 !align="left" width="150" | Nom en alemand
 !align="left" width="150" | Nom en tuche
 !align="center" width="70" | Populacion<br /><small>(31-12-2011)</small>
-!align="center" width="50" | Talye<br /><small>en km²</small>
+!align="center" width="50" | Tegnua<br /><small>en km²</small>
 !align="center" width="60" | District
 |-
 | align="center" | 1567<br/> 1568 || [[Fichiér:Delley-Portalban-coat of arms.svg|20px|Les ârmes de Delê-Pôrt-Alban]] '''[[Delê-Pôrt-Alban]]''' ||  || Delley-Portalban ||  || 
@@ -330,10 +325,10 @@
 !align="left" width="150" | Nom en alemand
 !align="left" width="150" | Nom en tuche
 !align="center" width="70" | Populacion<br /><small>(31-12-2011)</small>
-!align="center" width="50" | Talye<br /><small>en km²</small>
+!align="center" width="50" | Tegnua<br /><small>en km²</small>
 !align="center" width="60" | District
 |-
-| align="center" | 1646 || [[Fichiér:Echarlens-coat of arms.svg|20px|Les ârmes d’Echàrlens]] [[Echàrlens|'''<u>Echàrlens</u> / Echarlens''']] || '''Tsèrlin''' || Echarlens || <small>Schärlingen (''dèpassâ'')</small> || 
+| align="center" | 1646 || [[Fichiér:Echarlens-coat of arms.svg|20px|Les ârmes d’Echàrlens]] [[Echàrlens|'''<u>Echàrlens</u> / Echarlens''']] || '''Tsèrlin''' || Echarlens || <small>Zärlingen / Schärlingen (''dèpassâs'')</small> || 
 | align="center" | 734
 | align="center" | 4,63
 | align="center" | [[District de la Gruviére|Gruviére]]
@@ -348,17 +343,22 @@
 | align="center" | 5,61
 | align="center" | [[District de la Sarena|Sarena]]
 |- bgcolor="#EFEFEF"
-| align="center" | 1784 || [[Fichiér:Wallenri.jpg|20px|Les ârmes d’Èssèrsâ]] '''[[Èssèrsâ]]''' || '''Essechà''' || Esserts (Lac) || Wallenried || Walleried
+| align="center" | 1784 || [[Fichiér:Wallenri.jpg|20px|Les ârmes d’Èssèrsâ]] '''[[Èssèrsâ]]''' || '''Essechà''' || Esserts || Wallenried || Walleried
 | align="center" | 458
 | align="center" | 3,86
 | align="center" | [[District du Lèc|Lèc]]
 |-
-| align="center" | 3216 || [[Fichiér:Ried-coat_of_arms.svg‎|20px|Les ârmes d’Èssèrts]] '''[[Èssèrts (Lèc)|Èssèrts]]''' || '''Echê''' || Essert || Ried bei Kerzers, <small><br/>sovent</small> Ried <small>ou ben</small> Ried b. Kerzers || 
+| align="center" | 3216 || [[Fichiér:Ried-coat_of_arms.svg‎|20px|Les ârmes d’Èssèrts (Lèc)]] '''[[Èssèrts (Lèc)|Èssèrts]]''' || '''Echê''' || Essert || Ried bei Kerzers, <small><br/>sovent</small> Ried <small>ou ben</small> Ried b. Kerzers || 
 | align="center" | {{formatnum:1022}}
 | align="center" | 7,59
 | align="center" | [[District du Lèc|Lèc]]
 |- bgcolor="#EFEFEF"
-| align="center" | 1470 || [[Fichiér:Drapeau estavayer-le-lac 295x354.png|20px|Les ârmes d’Ethavalyér-le-Lèc]] [[Ethavalyér-le-Lèc|'''<u>Ethavalyér-le-Lèc</u> / Estavalyér-le-Lèc''', <small><br/>des côps</small> '''<u>Etiavalyér-le-Lèc</u> / <u>Etavalyér-le-Lèc</u>''']] || '''Ethavayi-le-Lé''' || Estavayer-le-Lac || <small>Stäffis am See (''pou empleyê'')</small> || 
+| align="center" | 1714 || [[Fichiér:Heitenried-coat of arms.svg|20px|Les ârmes d’Èssèrts (Singena)]] '''[[Èssèrts (Singena)|Èssèrts]]''' || '''Echê''' || <small>Essers (''dèpassâ'')</small> || Heitenried || Hitteried
+| align="center" | {{formatnum:1327}}
+| align="center" | 9,12
+| align="center" | [[District de la Singena|Singena]]
+|-
+| align="center" | 1470 || [[Fichiér:Drapeau estavayer-le-lac 295x354.png|20px|Les ârmes d’Etavalyér-le-Lèc]] [[Etavalyér-le-Lèc|'''<u>Etavalyér-le-Lèc</u> / <u>Ethavalyér-le-Lèc</u> / Estavalyér-le-Lèc''', <small><br/>des côps</small> '''<u>Etiavalyér-le-Lèc</u>''']] || '''Ethavayi-le-Lé''' || Estavayer-le-Lac || <small>Stäffis am See (''pou empleyê'')</small> || 
 | align="center" | {{formatnum:5435}}
 | align="center" | 8,93
 | align="center" | [[District de la Brouye|Brouye]]
@@ -376,7 +376,7 @@
 !align="left" width="150" | Nom en alemand
 !align="left" width="150" | Nom en tuche
 !align="center" width="70" | Populacion<br /><small>(31-12-2011)</small>
-!align="center" width="50" | Talye<br /><small>en km²</small>
+!align="center" width="50" | Tegnua<br /><small>en km²</small>
 !align="center" width="60" | District
 |-
 | align="center" | 1726 || [[Fichiér:Farvagny-coat_of_arms.svg‎|20px|Les ârmes de Farvagni]] '''[[Farvagni]]''' || '''Farvanyi''' || Farvagny || <small>Favernach (''dèpassâ'')</small> || 
@@ -389,12 +389,12 @@
 | align="center" | 1,01
 | align="center" | [[District de la Sarena|Sarena]]
 |-
-| align="center" | 1532 || [[Fichiér:Fetigny-coat of arms.svg|20px|Les ârmes de Fethegni]] [[Fethegni (Fribôrg)|'''<u>Fethegni</u> / Fetegni''']] || '''Fèthinyi''' || Fétigny || <small>Fetenach (''dèpassâ'')</small> || 
+| align="center" | 1532 || [[Fichiér:Fetigny-coat of arms.svg|20px|Les ârmes de Fethegni]] [[Fethegni (Fribôrg)|'''<u>Fethegni</u> / Fetegni''']] || '''Fèthinyi / Fètinyi''' || Fétigny || <small>Fetenach (''dèpassâ'')</small> || 
 | align="center" | 862
 | align="center" | 4,08
 | align="center" | [[District de la Brouye|Brouye]]
 |- bgcolor="#EFEFEF"
-| align="center" | 3284 || [[Fichiér:Fräschels-coat_of_arms.svg‎|20px|Les ârmes de Frasses]] '''[[Frasses (Lèc)|Frasses]]''' || '''Frachè''' || Frasses (Lac) || Fräschels || 
+| align="center" | 3284 || [[Fichiér:Fräschels-coat_of_arms.svg‎|20px|Les ârmes de Frasses]] '''[[Frasses (Lèc)|Frasses]]''' || '''Frachè''' || Frasses || Fräschels || 
 | align="center" | 493
 | align="center" | 3,14
 | align="center" | [[District du Lèc|Lèc]]
@@ -403,6 +403,155 @@
 | align="center" | {{formatnum:35680}}
 | align="center" | 9,30
 | align="center" | [[District de la Sarena|Sarena]]
+|-
+|}
+
+== G ==
+
+{| class="wikitable"
+|-
+!align="center" width="80" | Code postâl
+!align="left" width="180" | Nom en patês :<br /><small>[[Vouiquipèdia:Ortografia de refèrence B|ORB lârge]] <ref>Les noms <u>solegnês</u> sont des variantes locales en grafie “sarrâye”.</ref></small>
+!align="left" width="180" | <br /><small>[[Vouiquipèdia:Ortografi lokala dè Friboua|Grafie locala]]</small>
+!align="left" width="150" | Nom en francês
+!align="left" width="150" | Nom en alemand
+!align="left" width="150" | Nom en tuche
+!align="center" width="70" | Populacion<br /><small>(31-12-2011)</small>
+!align="center" width="50" | Tegnua<br /><small>en km²</small>
+!align="center" width="60" | District
+|-
+| align="center" | 1762 || [[Fichiér:Givisiez-coat of arms.svg|20px|Les ârmes de Gevesiér]] '''[[Gevesiér]]''' || '''Dzeveji''' || Givisiez || <small>Siebenzach (''dèpassâ'')</small> || 
+| align="center" | {{formatnum:3031}}
+| align="center" | 3,46
+| align="center" | [[District de la Sarena|Sarena]]
+|- bgcolor="#EFEFEF"
+| align="center" | 1544 || [[Fichiér:Gletterens-coat of arms.svg|20px|Les ârmes de Glléterens]] '''[[Glléterens]]''' ||  || Gletterens ||  || 
+| align="center" | 851
+| align="center" | 2,92
+| align="center" | [[District de la Brouye|Brouye]]
+|-
+| align="center" | 1666 || [[Fichiér:Grandvillard-coat_of_arms.svg|20px|Les ârmes du Grandvelârd]] '''[[Le Grandvelârd]]''' || '''Le Granvelâ''' || Grandvillard || <small>Langwiler / Grosswiler (''dèpassâs'')</small> || 
+| align="center" | 738
+| align="center" | 24,16
+| align="center" | [[District de la Gruviére|Gruviére]]
+|- bgcolor="#EFEFEF"
+| align="center" | 1614 || [[Fichiér:Granges-coat of arms.svg|20px|Les ârmes de Granges]] '''[[Granges (Vevêse)|Granges]]''' || '''Grandzè''' || Granges ||  || 
+| align="center" | 818
+| align="center" | 4,46
+| align="center" | [[District de la Vevêse|Vevêse]]
+|-
+| align="center" | 1763 || [[Fichiér:Granges-Paccot-coat_of_arms.svg|20px|Les ârmes de Granges-Pacot]] '''[[Granges-Pacot]]''' || '''Grandzè-Pako''' || Granges-Paccot || <small>Zur Schüren (''dèpassâ'')</small> || 
+| align="center" | {{formatnum:2729}}
+| align="center" | 4,00
+| align="center" | [[District de la Sarena|Sarena]]
+|- bgcolor="#EFEFEF"
+| align="center" | 1686 || [[Fichiér:Grangettes-coat of arms.svg|20px|Les ârmes de Grangètes]] '''[[Grangètes]]''' || '''Grandzètè''' || Grangettes ||  || 
+| align="center" | 187
+| align="center" | 3,31
+| align="center" | [[District de la Gllânna|Gllânna]]
+|-
+| align="center" | 3280 || [[Fichiér:Greng-coat_of_arms.svg‎|20px|Les ârmes de Greng]] [[Greng|'''<u>Greng</u> / Gruens''']] ||  || Greng || Greng || 
+| align="center" | 166
+| align="center" | 0,97
+| align="center" | [[District du Lèc|Lèc]]
+|- bgcolor="#EFEFEF"
+| align="center" | 1772 || [[Fichiér:Grolley-coat_of_arms.svg|20px|Les ârmes de Grolê]] '''[[Grolê]]''' ||  || Grolley ||  || 
+| align="center" | {{formatnum:1776}}
+| align="center" | 5,34
+| align="center" | [[District de la Sarena|Sarena]]
+|-
+| align="center" | 1663 || [[Fichiér:Gruyères-coat_of_arms.svg|20px|Les ârmes de Gruviéres]] '''[[Gruviéres (Fribôrg)|Gruviéres]]''' || '''Grevire''' || Gruyères || Greyerz, <small><br/>a [[Bèlagouàrda (Fribôrg)|Bèlagouàrda]]</small> Griersch || Greyerz, <small><br/>a [[Bèlagouàrda (Fribôrg)|Bèlagouàrda]]</small> Grüesch
+| align="center" | {{formatnum:1867}}
+| align="center" | 28,38
+| align="center" | [[District de la Gruviére|Gruviére]]
+|- bgcolor="#EFEFEF"
+| align="center" | 3186 || [[Fichiér:Düdingen-coat of arms.svg|20px|Les ârmes de Guin]] [[Guin|'''<u>Guin</u> / Duens''']] || '''Dyin''' || Guin || Düdingen || Dǜdinge
+| align="center" | {{formatnum:7383}}
+| align="center" | 30,78
+| align="center" | [[District de la Singena|Singena]]
+|-
+|}
+
+== H ==
+
+{| class="wikitable"
+|-
+!align="center" width="80" | Code postâl
+!align="left" width="180" | Nom en patês :<br /><small>[[Vouiquipèdia:Ortografia de refèrence B|ORB lârge]] <ref>Les noms <u>solegnês</u> sont des variantes locales en grafie “sarrâye”.</ref></small>
+!align="left" width="180" | <br /><small>[[Vouiquipèdia:Ortografi lokala dè Friboua|Grafie locala]]</small>
+!align="left" width="150" | Nom en francês
+!align="left" width="150" | Nom en alemand
+!align="left" width="150" | Nom en tuche
+!align="center" width="70" | Populacion<br /><small>(31-12-2011)</small>
+!align="center" width="50" | Tegnua<br /><small>en km²</small>
+!align="center" width="60" | District
+|-
+| align="center" | 1787<br/> 1789 || [[Fichiér:Haut-Vully-coat_of_arms.svg‎|20px|Les ârmes du Hiôt-Vulyi]] [[Hiôt-Vulyi|'''<u>Hiôt-Vulyi</u> / Hôt-Vulyi''']] ||  || Haut-Vully || <small>Oberwistenlach (''pou empleyê'')</small> || 
+| align="center" | {{formatnum:1366}}
+| align="center" | 7,58
+| align="center" | [[District du Lèc|Lèc]]
+|- bgcolor="#EFEFEF"
+| align="center" | 1782 || [[Fichiér:Autafond-coat_of_arms.svg‎|20px|Les ârmes d’Hôtafont]] '''[[Hôtafont]]''' ||  || Autafond ||  || 
+| align="center" | 77
+| align="center" | 2,42
+| align="center" | [[District de la Sarena|Sarena]]
+|-
+| align="center" | 1725<br/> 1730 || [[Fichiér:Hauterive-FR-coat_of_arms.svg|20px|Les ârmes d’Hôtariva]] '''[[Hôtariva (Fribôrg)|Hôtariva]]''' || '''Otaruva''' || Hauterive || <small>Altenryf (''pou empleyê'')</small> || Alteryf
+| align="center" | {{formatnum:2226}}
+| align="center" | 11,94
+| align="center" | [[District de la Sarena|Sarena]]
+|- bgcolor="#EFEFEF"
+| align="center" | 1648 || [[Fichiér:Hauteville-coat_of_arms.svg‎|20px|Les ârmes d’Hôtavela]] '''[[Hôtavela (Fribôrg)|Hôtavela]]''' || '''Otavela''' || Hauteville || <small>Altenfüllen (''dèpassâ'')</small> || 
+| align="center" | 562
+| align="center" | 10,52
+| align="center" | [[District de la Gruviére|Gruviére]]
+|-
+| align="center" | 1669 || [[Fichiér:Haut-Intyamon-coat_of_arms.svg‎‎|20px|Les ârmes du Hôt-Enque-amont]] [[Hôt-Enque-amont|'''Hôt-Enque-amont / Hôt-Entremont''']] || '''Hô-Intyamon''' || Haut-Intyamon ||  || 
+| align="center" | {{formatnum:1412}}
+| align="center" | 60,45
+| align="center" | [[District de la Gruviére|Gruviére]]
+|-
+|}
+
+== J ==
+
+{| class="wikitable"
+|-
+!align="center" width="80" | Code postâl
+!align="left" width="180" | Nom en patês :<br /><small>[[Vouiquipèdia:Ortografia de refèrence B|ORB lârge]] <ref>Les noms <u>solegnês</u> sont des variantes locales en grafie “sarrâye”.</ref></small>
+!align="left" width="180" | <br /><small>[[Vouiquipèdia:Ortografi lokala dè Friboua|Grafie locala]]</small>
+!align="left" width="150" | Nom en francês
+!align="left" width="150" | Nom en alemand
+!align="left" width="150" | Nom en tuche
+!align="center" width="70" | Populacion<br /><small>(31-12-2011)</small>
+!align="center" width="50" | Tegnua<br /><small>en km²</small>
+!align="center" width="60" | District
+|-
+| align="center" | 1793 || [[Fichiér:Jeuss-coat_of_arms.svg‎|20px|Les ârmes de Jentes]] [[Jentes|'''<u>Jentes</u> / Juentes''']] || '''Dyintè''' || Jentes || Jeuss || 
+| align="center" | 429
+| align="center" | 1,78
+| align="center" | [[District du Lèc|Lèc]]
+|-
+|}
+
+== V ==
+
+{| class="wikitable"
+|-
+!align="center" width="80" | Code postâl
+!align="left" width="180" | Nom en patês :<br /><small>[[Vouiquipèdia:Ortografia de refèrence B|ORB lârge]] <ref>Les noms <u>solegnês</u> sont des variantes locales en grafie “sarrâye”.</ref></small>
+!align="left" width="180" | <br /><small>[[Vouiquipèdia:Ortografi lokala dè Friboua|Grafie locala]]</small>
+!align="left" width="150" | Nom en francês
+!align="left" width="150" | Nom en alemand
+!align="left" width="150" | Nom en tuche
+!align="center" width="70" | Populacion<br /><small>(31-12-2011)</small>
+!align="center" width="50" | Tegnua<br /><small>en km²</small>
+!align="center" width="60" | District
+|-
+| align="center" | 1715 || [[Fichiér:Alterswil-coat of arms.svg|20px|Les ârmes de Velâr-Ôtri]] '''[[Velâr-Ôtri]]''' ||  ||  || Alterswil || Auterschwüu
+| align="center" | {{formatnum:1946}}
+| align="center" | 16,11
+| align="center" | [[District de la Singena|Singena]]
 |-
 |}
 
@@ -416,8 +565,6 @@
 !colspan="1" bgcolor="#BEBEBE" width="auto" | '''Nom arpetan<br/> ''<small>en [[{{ns:4}}:Ortografi lokala dè Friboua|grafie locala]]'''''
 !colspan="1" bgcolor="#BEBEBE" width="auto" | '''Habitents'''<br/> <small>(31 de dèc. 2005)</small>
 !colspan="1" bgcolor="#BEBEBE" width="auto" | '''Tegnua<br/> <small>en km²</small>'''
-|-
-| 1544 || Gletterens || '''[[Gllèterens]]''' ||  || 669 || 3.02
 |- bgcolor="#EFEFEF"
 | 1773 || Léchelles || '''[[Lèchiéles]]''' || '''''Lètchilè''''' || 568 || 8.75
 |-
@@ -469,8 +616,6 @@
 !colspan="1" bgcolor="#BEBEBE" width="auto" | '''Tegnua<br/> <small>en km²</small>'''
 |-
 | 1673 || Auboranges || '''[[Ôborenjos|Ôborenjos /<br/> Ux Borenjos]]''' || '''''Oborindze''''' || 241 || 1.91
-|- bgcolor="#EFEFEF"
-| 1686 || Grangettes || '''[[Grangètes]]''' || '''''Grandzètè''''' || 145 || 3.36
 |-
 | 1690 || La Folliaz || '''[[La Folyê]]''' ||  || 896 || 9.91
 |- bgcolor="#EFEFEF"
@@ -512,14 +657,6 @@
 !colspan="1" bgcolor="#BEBEBE" width="auto" | '''Nom arpetan<br/> ''<small>en [[{{ns:4}}:Ortografi lokala dè Friboua|grafie locala]]'''''
 !colspan="1" bgcolor="#BEBEBE" width="auto" | '''Habitents'''<br/> <small>(31 de dèc. 2005)</small>
 !colspan="1" bgcolor="#BEBEBE" width="auto" | '''Tegnua<br/> <small>en km²</small>'''
-|-
-| 1666 || Grandvillard || '''[[Grandvelârd]]''' || '''''Granvelâ''''' || 639 || 24.22
-|- bgcolor="#EFEFEF"
-| 1663 || Gruyères || '''[[Gruviéres (Fribôrg)|Gruviéres]]''' || '''''Grevire''''' || 1610 || 28.39
-|-
-| 1648 || Hauteville || '''[[Hôtavela (Fribôrg)|Hôtavela]]''' || '''''Otavela''''' || 543 || 10.56
-|- bgcolor="#EFEFEF"
-| 1669 || Haut-Intyamon || '''[[Hôt-Enque-amont]]''' || '''''Hô-Intyamon''''' || 1412 || 60.44
 |- bgcolor="#EFEFEF"
 | 1634 || La Roche || '''[[La Roche (Fribôrg)|La Roche]]''' || '''''La Rotse''''' || 1317 || 24.03
 |-
@@ -558,12 +695,6 @@
 !colspan="1" bgcolor="#BEBEBE" width="auto" | '''Nom tuche'''
 !colspan="1" bgcolor="#BEBEBE" width="auto" | '''Habitents'''<br/> <small>(31 de dèc. 2005)</small>
 !colspan="1" bgcolor="#BEBEBE" width="auto" | '''Tegnua<br/> <small>en km²</small>'''
-|-
-| 3280 || Greng || '''[[Grens (Fribôrg)|Grens]]''' ||  ||  || 175 || 1.01
-|-
-| 1789<br/> 1787<br/> 1787 || Haut-Vully || '''[[Hôt-Vulyi]]''' ||  ||  || 1241 || 7.47
-|- bgcolor="#EFEFEF"
-| 1793 || Jeuss<br/> '''''<small>(en [[francês|fr.]] : Jentes)</small>''''' || '''[[Jentes]]''' || '''''Dyintè''''' ||  || 428 || 1.77
 |- bgcolor="#EFEFEF"
 | 3213 || Kleinbösingen<br/> '''''<small>(en [[francês|fr.]] : Petit-Basens)</small>''''' || '''[[Petit-Besing]]''' || '''''Piti-Bejin''''' ||  || 571 || 3.01
 |-
@@ -596,18 +727,8 @@
 !colspan="1" bgcolor="#BEBEBE" width="auto" | '''Nom tuche'''
 !colspan="1" bgcolor="#BEBEBE" width="auto" | '''Habitents'''<br/> <small>(31 de dèc. 2005)</small>
 !colspan="1" bgcolor="#BEBEBE" width="auto" | '''Tegnua<br/> <small>en km²</small>'''
-|- bgcolor="#EFEFEF"
-| 1782 || Autafond || '''[[Hôtafont]]''' ||  ||  || 75 || 2.43
 |-
 | 1742 || Autigny || '''[[Ôtigni (Fribôrg)|Ôtigni]]''' ||  ||  || 633 || 6.22
-|- bgcolor="#EFEFEF"
-| 1762 || Givisiez || '''[[Gevesiér]]''' || '''''Dzeveji''''' ||  || 2367 || 3.45
-|-
-| 1763 || Granges-Paccot || '''[[Granges-Pacot]]''' || '''''Grandzè-Pako''''' ||  || 2260 || 3.98
-|- bgcolor="#EFEFEF"
-| 1772 || Grolley || '''[[Grolê]]''' ||  ||  || 1541 || 5.32
-|-
-| 1725<br/> 1730 || Hauterive || '''[[Hôtariva (Fribôrg)|Hôtariva]]''' || '''''Otaruva''''' ||  || 1874 || 11.92
 |- bgcolor="#EFEFEF"
 | 1745<br/> 1756 || La Brillaz || '''[[La Brilya]]''' ||  ||  || 1436 || 10.26
 |-
@@ -656,10 +777,6 @@
 !colspan="1" bgcolor="#BEBEBE" width="auto" | '''Nom tuche'''
 !colspan="1" bgcolor="#BEBEBE" width="auto" | '''Habitents'''<br/> <small>(31 de dèc. 2005)</small>
 !colspan="1" bgcolor="#BEBEBE" width="auto" | '''Tegnua<br/> <small>en km²</small>'''
-|- bgcolor="#EFEFEF"
-| 3186 || Düdingen<br/> '''''<small>(en [[francês|fr.]] : Guin)</small>''''' || '''[[Guin]]''' || '''''Dyin''''' || Dǜdinge || 7132 || 30.82
-|- bgcolor="#EFEFEF"
-| 1714 || Heitenried || '''[[Heitenried]]''' ||  || Hitteried || 1181 || 9.04
 |-
 | 1716 || Oberschrot || '''[[Oberschrot]]''' ||  || Oberschrot || 1035 || 5.28
 |- bgcolor="#EFEFEF"
@@ -697,8 +814,6 @@
 !colspan="1" bgcolor="#BEBEBE" width="auto" | '''Nom arpetan<br/> ''<small>en [[{{ns:4}}:Ortografi lokala dè Friboua|grafie locala]]</small>'''''
 !colspan="1" bgcolor="#BEBEBE" width="auto" | '''Habitents'''<br/> <small>(31 de dèc. 2005)</small>
 !colspan="1" bgcolor="#BEBEBE" width="auto" | '''Tegnua<br/> <small>en km²</small>'''
-|- bgcolor="#EFEFEF"
-| 1614 || Granges || '''[[Granges (Vevêse)|Granges]]''' || '''''Grandzè''''' || 702 || 4.46
 |-
 | 1624<br/> 1611 || La Verrerie || '''[[La Vèrriére]]''' || '''''La Vèryére''''' || 962 || 13.42
 |- bgcolor="#EFEFEF"
