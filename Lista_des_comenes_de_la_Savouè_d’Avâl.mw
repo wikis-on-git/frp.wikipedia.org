@@ -25,11 +25,11 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73007 || 73220 || [[Êton]] || Aiton
 |-----
-| 73008 || 73100 || [[Èx-los-Bens]] || Aix-les-Bains
+| 73008 || 73100 || [[Èx-los-Bens|Èx-en-Savouè]] || Aix-les-Bains
 |-----
 | 73010 || 73410 || [[Arbens]] || Albens
 |-----
-| 73011 || 73200 || [[Arbèrtvile]] || Albertville
+| 73011 || 73200 || [[Arbèrtvela]] || Albertville
 |-----
 | 73012 || 73300 || [[Arbiéz-lo-Joueno]] || Albiez-le-Jeune
 |-----
@@ -51,7 +51,7 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73022 || 73610 || [[Ategnat-Oncin]] || Attignat-Oncin
 |-----
-| 73023 || 73500 || [[Ouès]] || Aussois
+| 73023 || 73500 || [[Ohely]] || Aussois
 |-----
 | 73024 || 73260 || [[Los Avanchiérs]] || Les Avanchers-Valmorel
 |-----
@@ -89,11 +89,11 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73043 || 73410 || [[La Biôla]] || La Biolle
 |-----
-| 73045 || 73260 || [[Le Boués]] || Le Bois
+| 73045 || 73260 || [[Lo Boués]] || Le Bois
 |-----
 | 73046 || 73260 || [[Bônavâl]] || Bonneval
 |-----
-| 73047 || 73480 || [[Boneval-sur-Arc]] || Bonneval-sur-Arc
+| 73047 || 73480 || [[Bônavâl-sur-Arc]] || Bonneval-sur-Arc
 |-----
 | 73048 || 73460 || [[Bonvelârd]] || Bonvillard
 |-----
@@ -101,7 +101,7 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73050 || 73370 || [[Bourdô]] || Bourdeau
 |-----
-| 73051 || 73370 || [[Le Borgèt]] || Le Bourget-du-Lac
+| 73051 || 73370 || [[Lo Borgèt]] || Le Bourget-du-Lac
 |-----
 | 73052 || 73110 || xx || Bourget-en-Huile
 |-----
@@ -141,11 +141,11 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73072 || 73390 || [[Champ-Lorent]] || Champ-Laurent
 |-----
-| 73073 || 73310 || [[Chanâz]] || Chanaz
+| 73073 || 73310 || [[Chana]] || Chanaz
 |-----
 | 73074 || 73660 || [[La Chapèla]] || La Chapelle
 |-----
-| 73075 || 73110 || [[La Chapèla Blenche]] || La Chapelle-Blanche
+| 73075 || 73110 || [[La Chapèla-Bllanche]] || La Chapelle-Blanche
 |-----
 | 73076 || 73370 || xx || La Chapelle-du-Mont-du-Chat
 |-----
@@ -155,9 +155,9 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73079 || 73390 || xx || Châteauneuf
 |-----
-| 73080 || 73300 || xx || Le Châtel
+| 73080 || 73300 || [[Lo Châhtél]] || Le Châtel
 |-----
-| 73081 || 73630 || [[Le Châtèlârd]] || Le Châtelard
+| 73081 || 73630 || [[Le Châtelârd]] || Le Châtelard
 |-----
 | 73082 || 73800 || [[La Chavana]] || La Chavanne
 |-----
@@ -225,9 +225,9 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73115 || 73600 || xx || Fontaine-le-Puits
 |-----
-| 73116 || 73300 || xx || Fontcouverte-la Toussuire
+| 73116 || 73300 || [[Fontcuvèrta-la Tôchuire]] || Fontcouverte-la Toussuire
 |-----
-| 73117 || 73500 || xx || Fourneaux
+| 73117 || 73500 || Fôrnél || Fourneaux
 |-----
 | 73118 || 73800 || xx || Francin
 |-----
@@ -239,7 +239,7 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73122 || 73470 || [[Gerbêx]] || Gerbaix
 |-----
-| 73123 || 73590 || [[L’Agièta|L’Agièta / La Giéta]] || La Giettaz
+| 73123 || 73590 || [[L'Agièta|L'Agièta / La Giéta]] || La Giettaz
 |-----
 | 73124 || 73200 || [[Gèlié]] || Gilly-sur-Isère
 |-----
@@ -259,7 +259,7 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73133 || 73390 || [[Hiôtavela]] || Hauteville
 |-----
-| 73135 || 73300 || xx || Hermillon
+| 73135 || 73300 || Armilyon || Hermillon
 |-----
 | 73137 || 73000 || xx || Jacob-Bellecombette
 |-----
@@ -275,7 +275,7 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73143 || 73480 || [[Lens-le-Bôrg|Lens-le-Bôrg / Lens-Bôrg]] || Lanslebourg-Mont-Cenis
 |-----
-| 73144 || 73480 || [[Velârd]] || Lanslevillard
+| 73144 || 73480 || [[Lens-Velârd|Lens-Velârd / Lo Velârd]] || Lanslevillard
 |-----
 | 73187 || 73260 || xx || La Léchère
 |-----
@@ -301,7 +301,7 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73156 || 73170 || [[Mèriox|Mèriox / Mèriœx]] || Meyrieux-Trouet
 |-----
-| 73157 || 73500 || [[Modâna]] || Modane
+| 73157 || 73500 || [[Modâna|Amoudâna / Modâna]] || Modane
 |-----
 | 73158 || 73410 || xx || Mognard
 |-----
@@ -355,7 +355,7 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73188 || 73460 || xx || Notre-Dame-des-Millières
 |-----
-| 73189 || 73130 || xx || Notre-Dame-du-Cruet
+| 73189 || 73130 || [[Senta-Maria-de-Crosa]] || Notre-Dame-du-Cruet
 |-----
 | 73190 || 73600 || xx || Notre-Dame-du-Pré
 |-----
@@ -411,15 +411,15 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73219 || 73610 || [[Sant-Arban-de-Montbèl]] || Saint-Alban-de-Montbel
 |-----
-| 73220 || 73220 || [[Sent-Arban]] || Saint-Alban-des-Hurtières
+| 73220 || 73220 || [[Sent-Arban-de-les-Urtiéres]] || Saint-Alban-des-Hurtières
 |-----
-| 73221 || 73130 || [[Sènt-Arban-des-Velârds]] || Saint-Alban-des-Villards
+| 73221 || 73130 || [[Sent-Alban-dus-Velârds]] || Saint-Alban-des-Villards
 |-----
 | 73222 || 73230 || xx || Saint-Alban-Leysse
 |-----
 | 73223 || 73500 || [[Sant-Andri]] || Saint-André
 |-----
-| 73224 || 73130 || [[Sent-Avre]] || Saint-Avre
+| 73224 || 73130 || [[Sent-Apro]] || Saint-Avre
 |-----
 | 73225 || 73190 || xx || Saint-Baldoph
 |-----
@@ -431,39 +431,39 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73229 || 73360 || [[Sant-Crestou]] || Saint-Christophe
 |-----
-| 73230 || 73130 || [[Sènt-Collomban-des-Velârds]] || Saint-Colomban-des-Villards
+| 73230 || 73130 || [[Sent-Colomban-dus-Velârds]] || Saint-Colomban-des-Villards
 |-----
 | 73232 || 73640 || [[Senta-Fê]] || Sainte-Foy-Tarentaise
 |-----
 | 73240 || 73800 || [[Sent-Alêna-du-Léc]] || Sainte-Hélène-du-Lac
 |-----
-| 73241 || 73460 || [[Sent-Alêna]] || Sainte-Hélène-sur-Isère
+| 73241 || 73460 || [[Sent-Eléna]] || Sainte-Hélène-sur-Isère
 |-----
 | 73254 || 73240 || xx || Sainte-Marie-d'Alvey
 |-----
-| 73255 || 73130 || [[Sènta-Maria-de-Cohèines]] || Sainte-Marie-de-Cuines
+| 73255 || 73130 || [[Senta-Maria-de-Cuina]] || Sainte-Marie-de-Cuines
 |-----
 | 73277 || 73630 || [[Senta-Réna]] || Sainte-Reine
 |-----
-| 73231 || 73130 || [[Sènt-Etièno-de-Cohèines]] || Saint-Etienne-de-Cuines
+| 73231 || 73130 || [[Sent-Tièno-de-Cuina]] || Saint-Etienne-de-Cuines
 |-----
 | 73233 || 73360 || [[Sant-Franc]] || Saint-Franc
 |-----
 | 73234 || 73340 || xx || Saint-François-de-Sales
 |-----
-| 73235 || 73130 || xx || Saint-François-Longchamp
+| 73235 || 73130 || [[Sent-Francês-sur-Bugeon]] || Saint-François-Longchamp
 |-----
 | 73236 || 73240 || [[Sant-Genés|Sant-Genés / Sant-Genix]] || Saint-Genix-sur-Guiers
 |-----
-| 73237 || 73220 || xx || Saint-Georges-des-Hurtières
+| 73237 || 73220 || [[Sent-Jôrjo-de-les-Urtiéres]] || Saint-Georges-des-Hurtières
 |-----
 | 73238 || 73410 || xx || Saint-Germain-la-Chambotte
 |-----
 | 73239 || 73410 || [[Sant-Gerôd]] || Saint-Girod
 |-----
-| 73242 || 73530 || [[Sant-Jian-d'Arves]] || Saint-Jean-d'Arves
+| 73242 || 73530 || [[Sent-Jian-d'Arves]] || Saint-Jean-d'Arves
 |-----
-| 73243 || 73230 || [[Sant-Jian-d'Arvé]] || Saint-Jean-d'Arvey
+| 73243 || 73230 || [[Sant-Jian-d'Arvê]] || Saint-Jean-d'Arvey
 |-----
 | 73244 || 73440 || [[Sent-Jian-de-Bèlavela]] || Saint-Jean-de-Belleville
 |-----
@@ -489,7 +489,7 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73258 || 73140 || [[Sent-Martin-la-Pôrta]] || Saint-Martin-de-la-Porte
 |-----
-| 73259 || 73130 || xx || Saint-Martin-sur-la-Chambre
+| 73259 || 73130 || [[Sent-Martin-dessus-la-Chambra]] || Saint-Martin-sur-la-Chambre
 |-----
 | 73260 || 73240 || [[Sant-Môris|Sant-Môris / Sant-Mœris]] || Saint-Maurice-de-Rotherens
 |-----
@@ -505,7 +505,7 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73266 || 73260 || [[Sent-Oyen]] || Saint-Oyen
 |-----
-| 73267 || 73300 || [[Sent-Pé]] || Saint-Pancrace
+| 73267 || 73300 || [[Sent-Pè|Sent-Pè / Sent-Pèx]] || Saint-Pancrace
 |-----
 | 73269 || 73170 || [[Sent-Pol]] || Saint-Paul
 |-----
@@ -527,7 +527,7 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73278 || 73660 || xx || Saint-Rémy-de-Maurienne
 |-----
-| 73280 || 73530 || [[Sent-Sorlen]] || Saint-Sorlin-d'Arves
+| 73280 || 73530 || [[Sent-Sorlin]] || Saint-Sorlin-d'Arves
 |-----
 | 73281 || 73160 || [[Sant-Sœrpi]] || Saint-Sulpice
 |-----
@@ -567,7 +567,7 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73301 || 73100 || xx || Trévignin
 |-----
-| 73302 || 73110 || [[La Trinitâ|La Trinitâ/La Tarntâ]] || La Trinité
+| 73302 || 73110 || [[La Trinitât|La Trinitât/La Tarntâ]] || La Trinité
 |-----
 | 73303 || 73400 || [[Ugena]] || Ugine
 |-----
@@ -575,9 +575,9 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73305 || 73210 || xx || Valezan
 |-----
-| 73306 || 73450 || xx || Valloire
+| 73306 || 73450 || [[Varruère]] || Valloire
 |-----
-| 73307 || 73450 || xx || Valmeinier
+| 73307 || 73450 || [[Varmêniér]] || Valmeinier
 |-----
 | 73308 || 73200 || [[Vêton]] || Venthon
 |-----
@@ -599,9 +599,9 @@ Lista des 305 [[Comenes de France|comenes]] d’la [[Savouè d’Avâl]] per ôr
 |-----
 | 73317 || 73270 || xx || Villard-sur-Doron
 |-----
-| 73318 || 73300 || xx || Villarembert
+| 73318 || 73300 || [[Velârd-Rambèrt]] || Villarembert
 |-----
-| 73320 || 73300 || xx || Villargondran
+| 73320 || 73300 || [[Velârd-Gondran]] || Villargondran
 |-----
 | 73321 || 73600 || xx || Villarlurin
 |-----
