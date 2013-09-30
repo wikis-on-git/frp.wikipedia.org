@@ -1,0 +1,96 @@
+Lo ''Braille'' est un sistèmo d’ècritura a pouent salyant, qu, se sêrvont les pèrsones avôglles ou fortament malvèyantes. Lo sistèmo porte lo nom de son inventor, lo francês [[Louis Braille]] (1809-1852) qu’avèt pèrdu la vua dens un accident. Èlèvo a l’Institucion Rèyâla dus jouènos avôgllos, il modifie et amèlyore lo code Barbier. En 1829 parêt lo premiér èxposâ de sa mètode.
+
+== Lo code ''Braille'' ==
+
+Lo ''Braille'' standârd est representâ dens una matrice de 6 pouènts, en doues colones de três. Cha caractèro est representâ pèr yun a siés pouents, ‘na matrice blanche est un espâço. I at donc 63 possibilitâs.
+
+=== Les letres ===
+
+Louis Braille at proposâ ceti sistèmo de bâse, qu’est usâ dens la majoritâ des adaptacions du ''Braille'' dens lo mondo:
+
+{| class="wikitable" style="line-height: 1.2"
+|-
+|{{brl|⠁|4}} <br /> <center>[[A (lètra)|a]]</center>
+|{{brl|⠃|4}} <br /> <center>[[B (lètra)|b]]</center>
+|{{brl|⠉|4}} <br /> <center>[[C (lètra)|c]]</center>
+|{{brl|⠙|4}} <br /> <center>[[D (lètra)|d]]</center>
+|{{brl|⠑|4}} <br /> <center>[[E (lètra)|e]]</center>
+|{{brl|⠋|4}} <br /> <center>[[F (lètra)|f]]</center>
+|{{brl|⠛|4}} <br /> <center>[[G (lètra)|g]]</center>
+|{{brl|⠓|4}} <br /> <center>[[H (lètra)|h]]</center>
+|{{brl|⠊|4}} <br /> <center>[[I (lètra)|i]]</center>
+|{{brl|⠚|4}} <br /> <center>[[J (lètra)|j]]</center>
+|-
+|{{brl|⠅|4}} <br /> <center>[[K (lètra)|k]]</center>
+|{{brl|⠇|4}} <br /> <center>[[L (lètra)|l]]</center>
+|{{brl|⠍|4}} <br /> <center>[[M (lètra)|m]]</center>
+|{{brl|⠝|4}} <br /> <center>[[N (lètra)|n]]</center>
+|{{brl|⠕|4}} <br /> <center>[[O (lètra)|o]]</center>
+|{{brl|⠏|4}} <br /> <center>[[P (lètra)|p]]</center>
+|{{brl|⠟|4}} <br /> <center>[[Q (lètra)|q]]</center>
+|{{brl|⠗|4}} <br /> <center>[[R (lètra)|r]]</center>
+|{{brl|⠎|4}} <br /> <center>[[S (lètra)|s]]</center>
+|{{brl|⠞|4}} <br /> <center>[[T (lètra)|t]]</center>
+|-
+|{{brl|⠥|4}} <br /> <center>[[U (lètra)|u]]</center>
+|{{brl|⠧|4}} <br /> <center>[[V (lètra)|v]]</center>
+|{{brl|⠺|4}} <br /> <center>[[W (lètra)|w]]</center>
+|{{brl|⠭|4}} <br /> <center>[[X (lètra)|x]]</center>
+|{{brl|⠽|4}} <br /> <center>[[Y (lètra)|y]]</center>
+|{{brl|⠵|4}} <br /> <center>[[Z (lètra)|z]]</center>
+|&nbsp;
+|&nbsp;
+|&nbsp;
+|&nbsp;
+|}
+
+La reprèsentacion est concevua de maniére logica:
+* En apondant lo pouent ''3'' a les letres de « ''a'' » a « ''j'' », on obtent les letres de « ''k'' » a « ''t'' ». 
+* En apondant le pouent ''6'' a les lètras de « ''k'' » à « ''o'' », on obtent les letres de « ''u'' » a « ''z'' » (sens comtar la « ''w'' »). 
+* La « ''w'' » est obtenua par apond du pouent ''6'' a la letra « ''j'' ».
+
+=== Diacriticos por lo francês ===
+
+Dens lo sistèmo inicial, Louis Braille at proposâ de diacriticos por lo francês:
+
+{| class="wikitable" style="line-height: 1.2"
+|-
+|{{brl|⠷|4}} <br /> <center>[[à]]</center>
+|{{brl|⠡|4}} <br /> <center>[[â]]</center>
+|{{brl|⠯|4}} <br /> <center>[[ç]]</center>
+|{{brl|⠮|4}} <br /> <center>[[è]]</center>
+|{{brl|⠿|4}} <br /> <center>[[é]]</center>
+|{{brl|⠣|4}} <br /> <center>[[ê]]</center>
+|{{brl|⠫|4}} <br /> <center>[[ë]]</center>
+|-
+|{{brl|⠩|4}} <br /> <center>[[î]]</center>
+|{{brl|⠻|4}} <br /> <center>[[ï]]</center>
+|{{brl|⠹|4}} <br /> <center>[[ô]]</center>
+|{{brl|⠪|4}} <br /> <center>[[œ]]</center>
+|{{brl|⠾|4}} <br /> <center>[[ù]]</center>
+|{{brl|⠱|4}} <br /> <center>[[û]]</center>
+|{{brl|⠳|4}} <br /> <center>[[ü (lètra)|ü]]</center>
+|}
+
+=== Diacriticos por l’arpitan ===
+
+Nos povens iqui proposar de diacriticos propres a l’arpitan:
+
+{| class="wikitable" style="line-height: 1.2"
+|-
+|{{brl|⠷|4}} <br /> <center>[[à]]</center>
+|{{brl|⠡|4}} <br /> <center>[[â]]</center>
+|{{brl|⠯|4}} <br /> <center>[[ç]]</center>
+|{{brl|⠮|4}} <br /> <center>[[è]]</center>
+|{{brl|⠿|4}} <br /> <center>[[é]]</center>
+|{{brl|⠣|4}} <br /> <center>[[ê]]</center>
+|{{brl|⠫|4}} <br /> <center>[[ë]]</center>
+|-
+|{{brl|⠩|4}} <br /> <center>[[î]]</center>
+|{{brl|⠻|4}} <br /> <center>[[ï]]</center>
+|{{brl|⠹|4}} <br /> <center>[[ô]]</center>
+|{{brl|⠪|4}} <br /> <center>[[œ]]</center>
+|{{brl|⠾|4}} <br /> <center>[[ù]]</center>
+|{{brl|⠱|4}} <br /> <center>[[û]]</center>
+|{{brl|⠳|4}} <br /> <center>[[ü (lètra)|ü]]</center>
+|}
