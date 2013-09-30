@@ -78,19 +78,17 @@ Nos povens iqui proposar de diacriticos propres a l’arpitan:
 
 {| class="wikitable" style="line-height: 1.2"
 |-
-|{{brl|⠷|4}} <br /> <center>[[à]]</center>
-|{{brl|⠡|4}} <br /> <center>[[â]]</center>
-|{{brl|⠯|4}} <br /> <center>[[ç]]</center>
-|{{brl|⠮|4}} <br /> <center>[[è]]</center>
-|{{brl|⠿|4}} <br /> <center>[[é]]</center>
-|{{brl|⠣|4}} <br /> <center>[[ê]]</center>
-|{{brl|⠫|4}} <br /> <center>[[ë]]</center>
+|{{brl|⠁|4}} <br /> <center>[[a]]</center> || + || {{brl|⠠|4}} <br /> pouent 6 || = || {{brl|⠡|4}} <br /> <center>[[â]]</center>
 |-
-|{{brl|⠩|4}} <br /> <center>[[î]]</center>
-|{{brl|⠻|4}} <br /> <center>[[ï]]</center>
-|{{brl|⠹|4}} <br /> <center>[[ô]]</center>
-|{{brl|⠪|4}} <br /> <center>[[œ]]</center>
-|{{brl|⠾|4}} <br /> <center>[[ù]]</center>
-|{{brl|⠱|4}} <br /> <center>[[û]]</center>
-|{{brl|⠳|4}} <br /> <center>[[ü (lètra)|ü]]</center>
+|{{brl|⠁|4}} <br /> <center>[[é]]</center> || + || {{brl|⠠|4}} <br /> pouent 6 || = || {{brl|⠡|4}} <br /> <center>[[ê]]</center>
+|-
+|{{brl|⠑|4}} <br /> <center>[[e]]</center> || + || {{brl|⠠|4}} <br /> pouent 6 || = || {{brl|⠱|4}} <br /> <center>[[é]]</center>
+|-
+|{{brl|⠊|4}} <br /> <center>[[i]]</center> || + || {{brl|⠠|4}} <br /> pouent 6 || = || {{brl|⠪|4}} <br /> <center>[[î]]</center>
+|-
+|{{brl|⠁|4}} <br /> <center>[[ò]]</center> || + || {{brl|⠠|4}} <br /> pouent 6 || = || {{brl|⠡|4}} <br /> <center>[[ó]]</center>
+|-
+|{{brl|⠕|4}} <br /> <center>[[o]]</center> || + || {{brl|⠠|4}} <br /> pouent 6 || = || {{brl|⠵|4}} <br /> <center>[[ô]]</center>
+|-
+|{{brl|⠥|4}} <br /> <center>[[u]]</center> || + || {{brl|⠐|4}} <br /> pouent 5 || = || {{brl||4}} <br /> <center>[[û]]</center>
 |}
