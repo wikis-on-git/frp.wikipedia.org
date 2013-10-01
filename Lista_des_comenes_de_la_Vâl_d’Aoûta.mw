@@ -15,11 +15,11 @@
 !align="center" | Code postâl
 !align="left" width="180" | Nom en patouès :<br /><small>B.R.E.L.</small>
 !align="left" width="180" | <br /><small>Chenal-Vautherin</small>
-!align="left" width="180" | <br /><small>ORB lârge <ref>Los noms <u>solegnês</u> sont des variantes locales en grafia “sarrâye”.</ref></small>
+!align="left" width="180" | <br /><small>ORB lârge <ref name="Locale">Los noms <u>solegnês</u> sont des variantes locales en grafia “sarrâye”.</ref></small>
 !align="left" width="150" | Nom en francês
 !align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
-| align="center" | 007001 || align="center" | 11010 || [[Alèn|'''Alèn / Allèn''']] || '''Allen''' || '''[[Alen]]''' || Allein
+| align="center" | 007001 || align="center" | 11010 || [[Allèn|'''Allèn / Alèn''']] || '''Allen''' || '''[[Alen]]''' || Allein
 | align="center" | 258
 |- bgcolor="#EFEFEF"
 | align="center" | 007002 || align="center" | 11020 || '''[[Antèi]]''' || '''Antèi''' || '''[[Antê]]''' || Antey-Saint-André
@@ -34,10 +34,10 @@
 | align="center" | 007005 || align="center" | 11011 || '''[[Arvì]]''' || '''Arvë''' || [[Arviér|'''Arviér''', étot '''Le Bôrg''']] || Arvier
 | align="center" | 900
 |- bgcolor="#EFEFEF"
-| align="center" | 007006 || align="center" | 11010 || '''[[Oveuzo]]''' || '''Aveuso''' || '''[[Aveso]]''' || Avise
+| align="center" | 007006 || align="center" | 11010 || '''[[Aveuzo|Aveuzo / Oveuzo]]''' || '''Aveuso''' || '''[[Aveso]]''' || Avise
 | align="center" | 340
 |-
-| align="center" | 007007 || align="center" | 11020 || [[Ayas (Italie)|'''Ayas / Ayah''']] || '''Ayas''' || '''[[Ayâs]]''' || Ayas
+| align="center" | 007007 || align="center" | 11020 || [[Ayas|'''Ayas / Ayah''']] || '''Ayas''' || '''[[Ayâs]]''' || Ayas
 | align="center" | {{formatnum:1359}}
 |- bgcolor="#EFEFEF"
 | align="center" | 007008 || align="center" | 11010 || '''[[Le-z-Amaveulle]]''' || '''Le s-Amaveulle''' || '''[[Les Amaveles]]''' || Aymavilles
@@ -57,16 +57,16 @@
 !align="left" width="150" | Nom en francês
 !align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
-| align="center" | 007009 || align="center" | 11020 || [[Bart (Italie)|'''Bart / Bar''']] || '''Bar''' || '''[[Bard (Étalie)|Bard]]''' || Bard
+| align="center" | 007009 || align="center" | 11020 || '''[[Bar]]''' || '''Bar''' || '''[[Bard]]''' || Bard
 | align="center" | 132
 |- bgcolor="#EFEFEF"
 | align="center" | 007010 || align="center" | 11010 || '''[[Bioun-a]]''' || '''Biona''' || '''[[Bionas]]''' || Bionaz
 | align="center" | 243
 |-
-| align="center" | 007011 || align="center" | 11020 || '''[[Brèisogne]]''' || '''Brèissogne''' || '''[[Bréssogne]]''' || Brissogne
+| align="center" | 007011 || align="center" | 11020 || '''[[Brèissogne]]''' || '''Brèissogne''' || '''[[Bréssogne]]''' || Brissogne
 | align="center" | 962
 |- bgcolor="#EFEFEF"
-| align="center" | 007012 || align="center" | 11022 || '''[[Bretsón]]''' || '''Breutson''' || '''[[Brechon]]''' || Brusson
+| align="center" | 007012 || align="center" | 11022 || '''[[Bretchón]]''' || '''Breutson''' || '''[[Brechon]]''' || Brusson
 | align="center" | 859
 |-
 |}
@@ -79,14 +79,14 @@
 !align="center" | Code postâl
 !align="left" width="180" | Nom en patouès :<br /><small>B.R.E.L.</small>
 !align="left" width="180" | <br /><small>Chenal-Vautherin</small>
-!align="left" width="180" | <br /><small>ORB lârge <ref>Los noms <u>solegnês</u> sont des variantes locales en grafia “sarrâye”.</ref></small>
+!align="left" width="180" | <br /><small>ORB lârge <ref name="Locale"/></small>
 !align="left" width="150" | Nom en francês
 !align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
-| align="center" | 007013 || align="center" | 11020 || '''[[Tchalàn Damoùn]]''' || '''Tsallan Sen t-Anselmo''' || '''[[Chaland d’Amont]]''' || Challand-Saint-Anselme
+| align="center" | 007013 || align="center" | 11020 || '''[[Tchallàn]]''' || '''Tsallan Sen t-Anselmo''' || '''[[Chaland d’Amont]]''' || Challand-Saint-Anselme
 | align="center" | 762
 |- bgcolor="#EFEFEF"
-| align="center" | 007014 || align="center" | 11020 || '''[[Tchalàn Dézot]]''' || '''Tsallan Sen Vittor''' || '''[[Chaland-Desot]]''' || Challand-Saint-Victor
+| align="center" | 007014 || align="center" | 11020 || '''[[Tchallàn-Sèn-Vitor]]''' || '''Tsallan Sen Vittor''' || '''[[Chaland-Desot]]''' || Challand-Saint-Victor
 | align="center" | 605
 |-
 | align="center" | 007015 || align="center" | 11023 || [[Tsambava|'''Tsambava / Tsamboa''']] || '''Tsambava''' || '''[[Chambava]]''' || Chambave
@@ -95,22 +95,22 @@
 | align="center" | 007016 || align="center" | 11020 || '''[[Tsamoé]]''' || '''Tsamoé''' || '''[[Chamouès]]''' || Chamois
 | align="center" | 100
 |-
-| align="center" | 007017 || align="center" | 11020 || '''[[Tsandéprà]]''' || '''Tsandeprà''' || '''[[Champdeprâts]]''' || Champdepraz
+| align="center" | 007017 || align="center" | 11020 || '''[[Tsandeprà]]''' || '''Tsandeprà''' || '''[[Champdeprâts]]''' || Champdepraz
 | align="center" | 710
 |- bgcolor="#EFEFEF"
-| align="center" | 007018 || align="center" | 11020 || '''[[Tsampourtséi]]''' || '''Tsamportsë''' || '''[[Champorchiér]]''' || Champorcher
+| align="center" | 007018 || align="center" | 11020 || '''[[Tsamportché|Tsamportché / Tsampourtséi]]''' || '''Tsamportsë''' || '''[[Champorchiér]]''' || Champorcher
 | align="center" | 404
 |-
-| align="center" | 007019 || align="center" | 11020 || [[Tsaensoù|'''Tsaensoù / Tsarvensoù''']] || '''Tsarvensou''' || '''[[Charvensôd]]''' || Charvensod
+| align="center" | 007019 || align="center" | 11020 || [[Tsarvènsoù|'''Tsarvènsoù / Tsaensoù''']] || '''Tsarvensou''' || '''[[Charvensôd]]''' || Charvensod
 | align="center" | {{formatnum:2527}}
 |- bgcolor="#EFEFEF"
-| align="center" | 007020 || align="center" | 11024 || '''[[Tsatéyón (Italie)|Tsatéyón]]''' || '''Tsateillon''' || '''[[Châtelyon (Étalie)|Châtelyon]]''' || Châtillon
+| align="center" | 007020 || align="center" | 11024 || '''[[Tsateillón]]''' || '''Tsateillon''' || '''[[Châtelyon (Étalie)|Châtelyon]]''' || Châtillon
 | align="center" | {{formatnum:4966}}
 |-
 | align="center" | 007021 || align="center" | 11012 || '''[[Cogne (B.R.E.L.)|Cogne]]''' || '''Cogne''' || '''[[Cogne]]''' || Cogne
 | align="center" | {{formatnum:1483}}
 |- bgcolor="#EFEFEF"
-| align="center" | 007022 || align="center" | 11013 || '''[[Creméyeui]]''' || '''Corméyaou''' || [[Cort-Mayor|'''<u>Cort-Màyœr</u> / Cort-Mayor''']] || Courmayeur
+| align="center" | 007022 || align="center" | 11013 || '''[[Croméyeui]]''' || '''Corméyaou''' || [[Cort-Mayor|'''<u>Cort-Màyœr</u> / Cort-Mayor''']] || Courmayeur
 | align="center" | {{formatnum:2877}}
 |-
 |}
@@ -127,7 +127,7 @@
 !align="left" width="150" | Nom en francês
 !align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
-| align="center" | 007023 || align="center" | 11020 || [[Dounah|'''Dounah / Donas / Donnas''']] || '''Donnas''' || '''[[Donas]]''' || Donnas
+| align="center" | 007023 || align="center" | 11020 || [[Donas (B.R.E.L.)|'''Donas / Dounah''']] || '''Donnas''' || '''[[Donas]]''' || Donnas
 | align="center" | {{formatnum:2658}}
 |- bgcolor="#EFEFEF"
 | align="center" | 007024 || align="center" | 11010 || '''[[Doue]]''' || '''Doue''' || '''[[Doues]]''' || Doues
@@ -143,14 +143,14 @@
 !align="center" | Code postâl
 !align="left" width="180" | Nom en patouès :<br /><small>B.R.E.L.</small>
 !align="left" width="180" | <br /><small>Chenal-Vautherin</small>
-!align="left" width="180" | <br /><small>ORB lârge <ref>Los noms <u>solegnês</u> sont des variantes locales en grafia “sarrâye”.</ref></small>
+!align="left" width="180" | <br /><small>ORB lârge <ref name="Locale"/></small>
 !align="left" width="150" | Nom en francês
 !align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
-| align="center" | 007025 || align="center" | 11020 || '''[[Maréiza]]''' || '''Émarése''' || [[Èmarèsa|'''<u>Emarèsa</u> / Èmarèsa''']] || Émarèse
+| align="center" | 007025 || align="center" | 11020 || '''[[Émaréze|Émaréze / Maréiza]]''' || '''Émarése''' || [[Èmarèsa|'''<u>Emarèsa</u> / Èmarèsa''']] || Émarèse
 | align="center" | 223
 |- bgcolor="#EFEFEF"
-| align="center" | 007026 || align="center" | 11014 || '''[[Étrobble]]''' || '''Étroble''' || '''[[Ètrobles]]''' || Étroubles
+| align="center" | 007026 || align="center" | 11014 || '''[[Étroble]]''' || '''Étroble''' || '''[[Ètrobles]]''' || Étroubles
 | align="center" | 491
 |-
 |}
@@ -163,14 +163,14 @@
 !align="center" | Code postâl
 !align="left" width="180" | Nom en patouès :<br /><small>B.R.E.L.</small>
 !align="left" width="180" | <br /><small>Chenal-Vautherin</small>
-!align="left" width="180" | <br /><small>ORB lârge <ref>Los noms <u>solegnês</u> sont des variantes locales en grafia “sarrâye”.</ref></small>
+!align="left" width="180" | <br /><small>ORB lârge <ref name="Locale"/></small>
 !align="left" width="150" | Nom en francês
 !align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
-| align="center" | 007027 || align="center" | 11020 || '''[[Fin-ic]]''' || '''Fenis''' || [[Fenis|'''<u>Fenis-c</u> / Fenis''']] || Fénis
+| align="center" | 007027 || align="center" | 11020 || '''[[Fén-is|Fén-is / Fin-ic]]''' || '''Fenis''' || [[Fenis|'''<u>Fenis-c</u> / Fenis''']] || Fénis
 | align="center" | {{formatnum:1759}}
 |- bgcolor="#EFEFEF"
-| align="center" | 007028 || align="center" | 11020 || '''[[Fountramora]]''' || '''Fontanamora''' || '''[[Fontanamora]]''' || Fontainemore
+| align="center" | 007028 || align="center" | 11020 || '''[[Fontènemore|Fontènemore / Fountramora]]''' || '''Fontanamora''' || '''[[Fontanamora]]''' || Fontainemore
 | align="center" | 453
 |-
 |}
@@ -183,23 +183,23 @@
 !align="center" | Code postâl
 !align="left" width="180" | Nom en patouès :<br /><small>B.R.E.L.</small>
 !align="left" width="180" | <br /><small>Chenal-Vautherin</small>
-!align="left" width="180" | <br /><small>ORB lârge <ref>Los noms <u>solegnês</u> sont des variantes locales en grafia “sarrâye”.</ref></small>
+!align="left" width="180" | <br /><small>ORB lârge <ref name="Locale"/></small>
 !align="left" width="150" | Nom en francês
 !align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
-| align="center" | 007029 || align="center" | 11020 || '''[[Gòbi]]''' || '''Gaby''' || [[Gabi|'''<u>Gâbi</u> / Gabi''']] || Gaby
+| align="center" | 007029 || align="center" | 11020 || '''[[Gabi|Gabi / Gòbi]]''' || '''Gaby''' || [[Gabi|'''<u>Gâbi</u> / Gabi''']] || Gaby
 | align="center" | 484
 |- bgcolor="#EFEFEF"
-| align="center" | 007030 || align="center" | 11010 || [[Dzignoù|'''Dzignoù / Dzegnoù / Jignó''']] || '''Dzegnou''' || '''[[Gignôd]]''' || Gignod
+| align="center" | 007030 || align="center" | 11010 || [[Dzegnoù|'''Dzegnoù / Dzignoù / Jignó''']] || '''Dzegnou''' || '''[[Gignôd]]''' || Gignod
 | align="center" | {{formatnum:1612}}
 |-
-| align="center" | 007031 || align="center" | 11020 || [[Grésàn|'''Grésàn / Gréssàn''']] || '''Gressan''' || '''[[Grèssan]]''' || Gressan
+| align="center" | 007031 || align="center" | 11020 || [[Gressàn|'''Gressàn / Grésàn''']] || '''Gressan''' || '''[[Grèssan]]''' || Gressan
 | align="center" | {{formatnum:3327}}
 |- bgcolor="#EFEFEF"
-| align="center" | 007032 || align="center" | 11020 || '''[[Gressonèy]]''' || '''Gressonèy''' || '''[[Grèssonê]]''' || Gressoney-La-Trinité
+| align="center" | 007032 || align="center" | 11020 || '''[[Gressonèi-La-Trinitó]]''' || '''Gressonèy''' || '''[[Grèssonê]]''' || Gressoney-La-Trinité
 | align="center" | 309
 |-
-| align="center" | 007033 || align="center" | 11025 || '''[[Gressonèy-Sèn-Dzan]]''' || '''Gressonèy Sen Dzan''' || '''[[Grèssonê-Sent-Jian]]''' || Gressoney-Saint-Jean
+| align="center" | 007033 || align="center" | 11025 || '''[[Gressonèi-Sèn-Jan]]''' || '''Gressonèy Sen Dzan''' || '''[[Grèssonê-Sent-Jian]]''' || Gressoney-Saint-Jean
 | align="center" | 821
 |-
 |}
@@ -212,11 +212,11 @@
 !align="center" | Code postâl
 !align="left" width="180" | Nom en patouès :<br /><small>B.R.E.L.</small>
 !align="left" width="180" | <br /><small>Chenal-Vautherin</small>
-!align="left" width="180" | <br /><small>ORB lârge <ref>Los noms <u>solegnês</u> sont des variantes locales en grafia “sarrâye”.</ref></small>
+!align="left" width="180" | <br /><small>ORB lârge <ref name="Locale"/></small>
 !align="left" width="150" | Nom en francês
 !align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
-| align="center" | 007034 || align="center" | 11020 || '''[[Vión-a]]''' || '''Viouna / Ouna / One''' || [[Ôna|'''<u>Hôna</u> / Ôna''']] || Hône
+| align="center" | 007034 || align="center" | 11020 || '''[[One|One / Vión-a]]''' || '''Viouna / Ouna / One''' || [[Ôna|'''<u>Hôna</u> / Ôna''']] || Hône
 | align="center" | {{formatnum:1183}}
 |-
 |}
@@ -233,13 +233,13 @@
 !align="left" width="150" | Nom en francês
 !align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
-| align="center" | 007035 || align="center" | 11010 || '''[[Euntroù]]''' || '''Introu''' || '''[[Intrôd]]''' || Introd
+| align="center" | 007035 || align="center" | 11010 || '''[[Èntroù]]''' || '''Introu''' || '''[[Intrôd]]''' || Introd
 | align="center" | 635
 |- bgcolor="#EFEFEF"
-| align="center" | 007036 || align="center" | 11020 || '''[[Eichima]]''' || '''Issime''' || '''[[Issime]]''' || Issime
+| align="center" | 007036 || align="center" | 11020 || '''[[Issime (B.R.E.L.)|Issime / Eichima]]''' || '''Issime''' || '''[[Issime]]''' || Issime
 | align="center" | 426
 |-
-| align="center" | 007037 || align="center" | 11020 || '''[[Issouègne]]''' || '''Issogne''' || '''[[Issogne]]''' || Issogne
+| align="center" | 007037 || align="center" | 11020 || '''[[Issogne (B.R.E.L.)|Issogne / Issoueugne]]''' || '''Issogne''' || '''[[Issogne]]''' || Issogne
 | align="center" | {{formatnum:1402}}
 |-
 |}
@@ -256,7 +256,7 @@
 !align="left" width="150" | Nom en francês
 !align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
-| align="center" | 007038 || align="center" | 11020 || [[Dzoénsàn|'''Dzoénsàn / Dzonsàn''']] || '''Dzovençan''' || '''[[Jovençan]]''' || Jovençan
+| align="center" | 007038 || align="center" | 11020 || [[Dzouènsàn|'''Dzouènsàn / Dzonsàn''']] || '''Dzovençan''' || '''[[Jovençan]]''' || Jovençan
 | align="center" | 765
 |-
 |}
@@ -269,20 +269,20 @@
 !align="center" | Code postâl
 !align="left" width="180" | Nom en patouès :<br /><small>B.R.E.L.</small>
 !align="left" width="180" | <br /><small>Chenal-Vautherin</small>
-!align="left" width="180" | <br /><small>ORB lârge <ref>Los noms <u>solegnês</u> sont des variantes locales en grafia “sarrâye”.</ref></small>
+!align="left" width="180" | <br /><small>ORB lârge <ref name="Locale"/></small>
 !align="left" width="150" | Nom en francês
 !align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
-| align="center" | 007039 || align="center" | 11020 || '''[[La Madéléna]]''' || '''La Madeléna / La Madelèina''' || '''[[La Madelêna]]''' || La Magdeleine
+| align="center" | 007039 || align="center" | 11020 || '''[[La Madelén-a]]''' || '''La Madeléna / La Madelèina''' || '''[[La Madelêna]]''' || La Magdeleine
 | align="center" | 116
 |- bgcolor="#EFEFEF"
-| align="center" | 007040 || align="center" | 11015 || [[La Sola|'''La Sola / La Sala''']] || '''La Sala / La Salla''' || '''[[La Sâla (Étalie)|La Sâla]]''' || La Salle
+| align="center" | 007040 || align="center" | 11015 || [[La Sala|'''La Sala / La Sola''']] || '''La Sala / La Salla''' || '''[[La Sâla (Étalie)|La Sâla]]''' || La Salle
 | align="center" | {{formatnum:2102}}
 |-
-| align="center" | 007041 || align="center" | 11016 || '''[[La Tchouille]]''' || '''La Tsouëille''' || [[La Tiola (Étalie)|'''<u>La Tuelye</u> / La Tiola''', des côps '''Vela''']] || La Thuile
+| align="center" | 007041 || align="center" | 11016 || '''[[La Tchouiille]]''' || '''La Tsouëille''' || [[La Tiola (Étalie)|'''<u>La Tuelye</u> / La Tiola''', des côps '''Vela''']] || La Thuile
 | align="center" | 767
 |- bgcolor="#EFEFEF"
-| align="center" | 007042 || align="center" | 11020 || '''[[Yian-e]]''' || '''Lilliane''' || '''[[Lilianes]]''' || Lillianes
+| align="center" | 007042 || align="center" | 11020 || '''[[Lilianne|Lilianne / Yian-e]]''' || '''Lilliane''' || '''[[Lilianes]]''' || Lillianes
 | align="center" | 480
 |-
 |}
@@ -299,10 +299,10 @@
 !align="left" width="150" | Nom en francês
 !align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
-| align="center" | 007043 || align="center" | 11020 || '''[[Mondjouet]]''' || '''Mondzovet''' || '''[[Montjovèt]]''' || Montjovet
+| align="center" | 007043 || align="center" | 11020 || '''[[Mondzovet|Mondzovet / Mondjouet]]''' || '''Mondzovet''' || '''[[Montjovèt]]''' || Montjovet
 | align="center" | {{formatnum:1849}}
 |- bgcolor="#EFEFEF"
-| align="center" | 007044 || align="center" | 11017 || '''[[Mordzéi]]''' || '''Mordzë''' || '''[[Morgèx]]''' || Morgex
+| align="center" | 007044 || align="center" | 11017 || '''[[Mordzé]]''' || '''Mordzë''' || '''[[Morgèx]]''' || Morgex
 | align="center" | {{formatnum:2069}}
 |-
 |}
@@ -332,14 +332,14 @@
 !align="center" | Code postâl
 !align="left" width="180" | Nom en patouès :<br /><small>B.R.E.L.</small>
 !align="left" width="180" | <br /><small>Chenal-Vautherin</small>
-!align="left" width="180" | <br /><small>ORB lârge <ref>Los noms <u>solegnês</u> sont des variantes locales en grafia “sarrâye”.</ref></small>
+!align="left" width="180" | <br /><small>ORB lârge <ref name="Locale"/></small>
 !align="left" width="150" | Nom en francês
 !align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
-| align="center" | 007046 || align="center" | 11010 || [[Alomón|'''Alomón / Olomón''']] || '''Ollomon''' || '''[[Olomon]]''' || Ollomont
+| align="center" | 007046 || align="center" | 11010 || [[Ollomón|'''Ollomón / Alomón''']] || '''Ollomon''' || '''[[Olomon]]''' || Ollomont
 | align="center" | 164
 |- bgcolor="#EFEFEF"
-| align="center" | 007047 || align="center" | 11010 || '''[[Oyase]]''' || '''Oyace''' || [[Oyace|'''<u>Œyace</u> / Oyace''']] || Oyace
+| align="center" | 007047 || align="center" | 11010 || '''[[Oyas]]''' || '''Oyace''' || [[Oyace|'''<u>Œyace</u> / Oyace''']] || Oyace
 | align="center" | 225
 |-
 |}
@@ -352,26 +352,26 @@
 !align="center" | Code postâl
 !align="left" width="180" | Nom en patouès :<br /><small>B.R.E.L.</small>
 !align="left" width="180" | <br /><small>Chenal-Vautherin</small>
-!align="left" width="180" | <br /><small>ORB lârge <ref>Los noms <u>solegnês</u> sont des variantes locales en grafia “sarrâye”.</ref></small>
+!align="left" width="180" | <br /><small>ORB lârge <ref name="Locale"/></small>
 !align="left" width="150" | Nom en francês
 !align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
 | align="center" | 007048 || align="center" | 11002 || '''[[Perlo]]''' || '''Perlo''' || '''[[Pèrlo]]''' || Perloz
 | align="center" | 467
 |- bgcolor="#EFEFEF"
-| align="center" | 007049 || align="center" | 11020 || [[Polèn|'''Polèn / Pollèn''']] || '''Pollen''' || '''[[Polen]]''' || Pollein
+| align="center" | 007049 || align="center" | 11020 || '''[[Pollèn]]''' || '''Pollen''' || '''[[Polen]]''' || Pollein
 | align="center" | {{formatnum:1528}}
 |-
-| align="center" | 007050 || align="center" | 11020 || '''[[Ponbozé]]''' || '''Ponboset''' || '''[[Pontbosèt]]''' || Pontboset
+| align="center" | 007050 || align="center" | 11020 || '''[[Ponbozet]]''' || '''Ponboset''' || '''[[Pontbosèt]]''' || Pontboset
 | align="center" | 197
 |- bgcolor="#EFEFEF"
-| align="center" | 007051 || align="center" | 11004 || '''[[Pounté]]''' || '''Pontèy''' || [[Pontely|'''<u>Pontê</u> / Pontely''']] || Pontey
+| align="center" | 007051 || align="center" | 11004 || '''[[Pontèi]]''' || '''Pontèy''' || [[Pontely|'''<u>Pontê</u> / Pontely''']] || Pontey
 | align="center" | 835
 |-
-| align="center" | 007052 || align="center" | 11026 || '''[[Pon-Sen-Marteun]]''' || '''Pon Sen Martin''' || '''[[Pont-Sent-Martin]]''' || Pont-Saint-Martin
+| align="center" | 007052 || align="center" | 11026 || '''[[Pon-Sèn-Marteun]]''' || '''Pon Sen Martin''' || '''[[Pont-Sent-Martin]]''' || Pont-Saint-Martin
 | align="center" | {{formatnum:4029}}
 |- bgcolor="#EFEFEF"
-| align="center" | 007053 || align="center" | 11010 || '''[[Pra-Sèn-Didjì]]''' || '''Prasenedzë''' || [[Prât-Sent-Dediér|'''<u>Prât-Sen-Ediér</u> / Prât-Sent-Dediér''']] || Pré-Saint-Didier
+| align="center" | 007053 || align="center" | 11010 || '''[[Pré-Sèn-Lédjé|Pré-Sèn-Lédjé / Pra-Sèn-Didjì]]''' || '''Prasenedzë''' || [[Prât-Sent-Dediér|'''<u>Prât-Sen-Ediér</u> / Prât-Sent-Dediér''']] || Pré-Saint-Didier
 | align="center" | 992
 |-
 |}
@@ -388,7 +388,7 @@
 !align="left" width="150" | Nom en francês
 !align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
-| align="center" | 007054 || align="center" | 11020 || '''[[Caa]]''' || '''Quar''' || '''[[Quârt]]''' || Quart
+| align="center" | 007054 || align="center" | 11020 || '''[[Car|Car / Caa]]''' || '''Quar''' || '''[[Quârt]]''' || Quart
 | align="center" | {{formatnum:3823}}
 |-
 |}
@@ -405,13 +405,13 @@
 !align="left" width="150" | Nom en francês
 !align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
-| align="center" | 007055 || align="center" | 11010 || [[Réma (B.R.E.L.)|'''Réma / Rima''']] || '''Rëma Noutra Dama''' || '''[[Réma]]''' || Rhêmes-Notre-Dame
+| align="center" | 007055 || align="center" | 11010 || '''[[Rima-Noutra-Dama]]''' || '''Rëma Noutra Dama''' || '''[[Réma]]''' || Rhêmes-Notre-Dame
 | align="center" | 116
 |- bgcolor="#EFEFEF"
-| align="center" | 007056 || align="center" | 11010 || '''[[Sen-Dzordzo]]''' || '''Rëma Sen Dzordzo''' || '''[[Sent-Jôrjo-de-Réma]]''' || Rhêmes-Saint-Georges
+| align="center" | 007056 || align="center" | 11010 || '''[[Rima-Sen-Dzordzo]]''' || '''Rëma Sen Dzordzo''' || '''[[Sent-Jôrjo-de-Réma]]''' || Rhêmes-Saint-Georges
 | align="center" | 209
 |-
-| align="center" | 007057 || align="center" | 11100 || '''[[Rèizàn]]''' || '''Roèisan''' || '''[[Rouèsan]]''' || Roisan
+| align="center" | 007057 || align="center" | 11100 || '''[[Rouèizàn|Rouèizàn / Rèizàn]]''' || '''Roèisan''' || '''[[Rouèsan]]''' || Roisan
 | align="center" | 480
 |-
 |}
@@ -424,32 +424,32 @@
 !align="center" | Code postâl
 !align="left" width="180" | Nom en patouès :<br /><small>B.R.E.L.</small>
 !align="left" width="180" | <br /><small>Chenal-Vautherin</small>
-!align="left" width="180" | <br /><small>ORB lârge <ref>Los noms <u>solegnês</u> sont des variantes locales en grafia “sarrâye”.</ref></small>
+!align="left" width="180" | <br /><small>ORB lârge <ref name="Locale"/></small>
 !align="left" width="150" | Nom en francês
 !align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
-| align="center" | 007058 || align="center" | 11020 || '''[[Sen-Cretoublo]]''' || '''Sen Cretoublo''' || '''[[Sent-Cretôblo (Étalie)|Sent-Cretôblo]]''' || Saint-Christophe
+| align="center" | 007058 || align="center" | 11020 || '''[[Sèn-Cretoublo]]''' || '''Sen Cretoublo''' || '''[[Sent-Cretôblo (Étalie)|Sent-Cretôblo]]''' || Saint-Christophe
 | align="center" | {{formatnum:3285}}
 |- bgcolor="#EFEFEF"
-| align="center" | 007059 || align="center" | 11023 || [[Sen-Déén|'''Sen-Déén / Sen-Din-ì''']] || '''Sen Deni''' || '''[[Sent-Denis (Étalie)|Sent-Denis]]''' || Saint-Denis
+| align="center" | 007059 || align="center" | 11023 || [[Sèn-Denì|'''Sèn-Denì / Sen-Déén / Sen-Din-ì''']] || '''Sen Deni''' || '''[[Sent-Denis (Étalie)|Sent-Denis]]''' || Saint-Denis
 | align="center" | 369
 |-
-| align="center" | 007060 || align="center" | 11020 || [[’en-Mar’éi|'''’en-Mar’éi / ’en-Mar’ì''']] || '''Sen Marcé''' || '''[[Sent-Marcél (Étalie)|Sent-Marcél]]''' || Saint-Marcel
+| align="center" | 007060 || align="center" | 11020 || [[Sèn-Marsì|'''Sèn-Marsì / ’en-Mar’éi / ’en-Mar’ì''']] || '''Sen Marcé''' || '''[[Sent-Marcél (Étalie)|Sent-Marcél]]''' || Saint-Marcel
 | align="center" | {{formatnum:1262}}
 |- bgcolor="#EFEFEF"
-| align="center" | 007061 || align="center" | 11010 || '''[[Sen-Nicolà]]''' || '''Sen Nicola''' || '''[[Sent-Nicolas (Étalie)|Sent-Nicolas]]''' || Saint-Nicolas
+| align="center" | 007061 || align="center" | 11010 || '''[[Sèn-Nicolà]]''' || '''Sen Nicola''' || '''[[Sent-Nicolas (Étalie)|Sent-Nicolas]]''' || Saint-Nicolas
 | align="center" | 325
 |-
-| align="center" | 007062 || align="center" | 11014 || '''[[Sent-Oyèn]]''' || '''Sen t-Oyen''' || '''[[Sent-Oyen (Étalie)|Sent-Oyen]]''' || Saint-Oyen
+| align="center" | 007062 || align="center" | 11014 || '''[[Sènt-Oyèn]]''' || '''Sen t-Oyen''' || '''[[Sent-Oyen (Étalie)|Sent-Oyen]]''' || Saint-Oyen
 | align="center" | 214
 |- bgcolor="#EFEFEF"
-| align="center" | 007063 || align="center" | 11010 || '''[[Sen-Pière]]''' || '''Sen Pierre''' || [[Sent-Pierro (Étalie)|'''<u>Sent-Pierre</u> / Sent-Pierro''']] || Saint-Pierre
+| align="center" | 007063 || align="center" | 11010 || '''[[Sèn-Piére]]''' || '''Sen Pierre''' || [[Sent-Pierro (Étalie)|'''<u>Sent-Pierre</u> / Sent-Pierro''']] || Saint-Pierre
 | align="center" | {{formatnum:3162}}
 |-
-| align="center" | 007064 || align="center" | 11010 || '''[[Sen-Remì - Boussa]]''' || '''Sen Remi''' || '''[[Sent-Rèmi (Étalie)|Sent-Rèmi]]''' || Saint-Rhémy-en-Bosses
+| align="center" | 007064 || align="center" | 11010 || '''[[Sèn-Remì|Sèn-Remì - Boursa]]''' || '''Sen Remi''' || '''[[Sent-Rèmi (Étalie)|Sent-Rèmi]]''' || Saint-Rhémy-en-Bosses
 | align="center" | 377
 |- bgcolor="#EFEFEF"
-| align="center" | 007065 || align="center" | 11027 || [[Sen-Vinsèn|'''Sen-Vinsèn / Sen-Veunsèn''']] || '''Sen Vincen''' || '''[[Sent-Vincent (Étalie)|Sent-Vincent]]''' || Saint-Vincent
+| align="center" | 007065 || align="center" | 11027 || [[Sèn-Veunsèn|'''Sèn-Veunsèn / Sèn-Vinsèn''']] || '''Sen Vincen''' || '''[[Sent-Vincent (Étalie)|Sent-Vincent]]''' || Saint-Vincent
 | align="center" | {{formatnum:4787}}
 |-
 | align="center" | 007066 || align="center" | 11010 || '''[[Saro]]''' || '''Sarro''' || '''[[Sarro]]''' || Sarre
@@ -482,29 +482,29 @@
 !align="center" | Code postâl
 !align="left" width="180" | Nom en patouès :<br /><small>B.R.E.L.</small>
 !align="left" width="180" | <br /><small>Chenal-Vautherin</small>
-!align="left" width="180" | <br /><small>ORB lârge <ref>Los noms <u>solegnês</u> sont des variantes locales en grafia “sarrâye”.</ref></small>
+!align="left" width="180" | <br /><small>ORB lârge <ref name="Locale"/></small>
 !align="left" width="150" | Nom en francês
 !align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
-| align="center" | 007068 || align="center" | 11010 || '''[[Vagrezentse]]''' || '''Vagresentse''' || '''[[Vâlgresenche]]''' || Valgrisenche
+| align="center" | 007068 || align="center" | 11010 || '''[[Vagrezèntse]]''' || '''Vagresentse''' || '''[[Vâlgresenche]]''' || Valgrisenche
 | align="center" | 195
 |- bgcolor="#EFEFEF"
 | align="center" | 007069 || align="center" | 11010 || '''[[Vapeleunna]]''' || '''Vapellena''' || '''[[Vâlpelena]]''' || Valpelline
 | align="center" | 659
 |-
-| align="center" | 007070 || align="center" | 11010 || '''[[Ouhaentse]]''' || '''Vassavarentse''' || '''[[Vâlsavarenche]]''' || Valsavarenche
+| align="center" | 007070 || align="center" | 11010 || '''[[Vassavaèntse|Vassavaèntse / Ouhaentse]]''' || '''Vassavarentse''' || '''[[Vâlsavarenche]]''' || Valsavarenche
 | align="center" | 176
 |- bgcolor="#EFEFEF"
-| align="center" | 007071 || align="center" | 11028 || '''[[Votornéntse]]''' || '''Vatornentse''' || '''[[Vâltornenche]]''' || Valtournenche
+| align="center" | 007071 || align="center" | 11028 || '''[[Vatornèntse|Vatornèntse / Vótornéntse]]''' || '''Vatornentse''' || '''[[Vâltornenche]]''' || Valtournenche
 | align="center" | {{formatnum:2162}}
 |-
-| align="center" | 007072 || align="center" | 11020 || [[Vèèi|'''Vèèi / Vevèé''']] || '''Veraye / Vérèye''' || [[Vèrrayes|'''<u>Vèrràyes</u> / Vèrrayes''']] || Verrayes
+| align="center" | 007072 || align="center" | 11020 || [[Vèrèye|'''Vèrèye / Vèèi / Vevèé''']] || '''Veraye / Vérèye''' || [[Vèrrayes|'''<u>Vèrràyes</u> / Vèrrayes''']] || Verrayes
 | align="center" | {{formatnum:1351}}
 |- bgcolor="#EFEFEF"
 | align="center" | 007073 || align="center" | 11029 || '''[[Véres]]''' || '''Verès''' || '''[[Verrès]]''' || Verrès
 | align="center" | {{formatnum:2758}}
 |-
-| align="center" | 007074 || align="center" | 11018 || [[Veullanoua|'''Veullanoua / Velanoua''']] || '''Veullanouva''' || '''[[Velanôva (Étalie)|Velanôva]]''' || Villeneuve
+| align="center" | 007074 || align="center" | 11018 || '''[[Veullanoua]]''' || '''Veullanouva''' || '''[[Velanôva (Étalie)|Velanôva]]''' || Villeneuve
 | align="center" | {{formatnum:2065}}
 |-
 |}
