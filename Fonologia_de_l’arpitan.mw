@@ -1,5 +1,5 @@
 La [[fonologia]] de l’[[arpitan]].
-
+== Voyèles ==
 {| width=900px rules=all style="text-align:center;"
 ! width=100px | articulacion || colspan=4 width=400px | d’avant || colspan=4 width=400px | d’arrére
 |-
@@ -14,4 +14,26 @@ La [[fonologia]] de l’[[arpitan]].
 | '''mitana''' || ɛ || ɛ || ɛ || ɛ || ɔ || ɔ || ɔ || ɔ
 |-
 | '''bâssa''' || a || ă || ā || a || &nbsp; || &nbsp; || &nbsp; || &nbsp;
+|}
+== Consones ==
+{| width=900px rules=all style="text-align:center;"
+! colspan=2 | articulacion || rowspan=2 width=100px | labiâla || colspan=3 | dentâla || rowspan=2 width=100px | guturâla || rowspan=2 width=100px | glotâla
+|-
+! width=180px | modo || width=120px | compl || width=100px | simpla || width=100px | bessona || width=100px | palatâla
+|-
+| rowspan=3 | oculsîva || sôrda || p || t || tˢ || tʲ || k || ?
+|-
+| sofllâ || ʰp || ʰt || &nbsp; || ʰtj || ʰk || &nbsp;
+|-
+| sonora || b || d || dᶻ || dʲ || ɡ || &nbsp;
+|-
+| rowspan=3 | fricatîva || sôrda || f || s || sˢ || sʲ || (ʃ) || &nbsp;
+|-
+| sonora || v || z || &nbsp; || zʲ || (ʒ) || &nbsp;
+|-
+| sofllâ || (w) || r || rʳ || rʲ || ɰ || h
+|-
+| rowspan=2 | rèsonanta || nasâla || m || n || &nbsp; || nʲ || (ŋ) || &nbsp;
+|-
+| latèrâla || &nbsp; || l || &nbsp; || lʲ || j || &nbsp;
 |}
