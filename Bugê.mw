@@ -6,6 +6,8 @@
 | mapa = Location bugey.png
 | mapa talye = 250
 | mapa lègenda = Situacion du Bugê en France
+| latitude = 45.916667
+| longitude = 5.616667
 | gentilyico = Bugisto, Bugista{{retrèt|<small>'''en [[Vouiquipèdia:Ortografia de rèference B|ORB lârge]]'''</small>}}Buj<u>i</u>sto, Buj<u>i</u>sta{{retrèt|<small>'''en [[Vouiquipèdia:Grafia de Confllens|CFLL]]'''</small>}}
 | color titro = ffffff
 | grafia nom1 = En [[Vouiquipèdia:Grafia de Confllens|CFLL]]
@@ -14,8 +16,8 @@
 | nom2 = Bugey
 | lengoua nom3 = [[catalan]]
 | nom3 = Baugé
-| règ·ion culturâla = [[Arpetania]]
-| payis = [[France]]
+| règ·ion culturâla = {{Arpetania}}
+| payis = {{France}}
 | lim règ·ion = Règ·ion francêsa
 | règ·ion = [[Ôvèrgne-Rôno-Ârpes]]
 | lim dèpartament = Dèpartament francês
@@ -29,10 +31,10 @@
 *[[Ambèriœx (En)|Ambèriox]]
 *[[Bèlê]]
 *[[Lagniœ|Lagniô]]
-| populacion = 175 341
+| populacion = {{formatnum:175341}}
 | dâta pop = 2008
 | nbcomenes = 171
-| lengoues = [[Arpetan|Arpetan bugisto]]<br />[[Francês]]
+| lengoues =  [[francês]] <small>'''(oficièla)'''</small><br />[[Arpetan|arpetan bugisto]]
 | égoua = [[En (reviére)|Reviére d’En]]<br />[[Rôno]]
 | produccion = [[Fromâjo]]s<br />[[Vin]]s
 | règions vesenes = [[Brêsse]]<br />[[Coutiére]]<br />[[Dôfenât]]<br />[[Domba]]<br />[[Franche-Comtât]]<br />[[Payis de Gèx]]<br />[[Savouè]]
