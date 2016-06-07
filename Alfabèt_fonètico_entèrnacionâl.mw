@@ -1,45 +1,55 @@
-L’'''Alfabet Fonètico Enternacionâl''' ('''''AFE''''', en anglês ''International Phonetic Alphabet'', ''IPA'', en francês ''Alphabet Phonétique International'', ''API'') est un alfabèt utiliza por la [[transcripcion]] [[fonètica]] dos sons du langâjo parlâ. L’''AFE'' pèrmèt de covrir los [[son|sons]] de totes les lengoues du mondo. Dèvelopâ a la fin du XIX<sup>èmo</sup> sièclo pèr de fonèticiens anglês et francês, il at ehtâ publiâ en [[1888]]. La dèrriére vèrsion tent 107 [[lètra|lètres]], 52 signos [[diacritico|diacriticos]] et 4 caractèros de [[prosodie]].
+{{Grafia RèfB}}
+L’'''alfabèt fonètico entèrnacionâl''' ('''AFE''') est un [[alfabèt]] empleyê por la [[transcripcion fonètica]] des [[Son (fesica)|sons]] du [[Lengâjo de l’homo|lengâjo]] prègiê. Contrèrament a tot plen d’ôtres mètodes de transcripcion que sè limitont a des [[Famelye de lengoues|famelyes de lengoues]], l’AFE est prèviu por cuvrir l’ensemblo de les lengoues du mondo. Dèvelopâ per des [[Fonètica|fonèticiens]] [[France|francês]] et [[Grant-Bretagne|britanicos]] desot la protèccion de l’[[Associacion fonètica entèrnacionâla]], il est étâ publeyê por lo premiér côp en [[1888]]. Sa dèrriére vèrsion dâte de [[2005]] ; tant qu’ique comprend 107 [[Lètra (ècritura)|lètres]], 52 segnos [[diacritico]]s et 4 caractèros de [[prosodia]].
 
-== Usâjo fonètico et usâjo fonologico ==
-L’Alfabèt Fonètico Intèrnacionâl est utiliza tant bien coment mitan de transcrire exactamènt la fonètica d’una lengoua, mas ense coment convencion [[fonologia|fonologica]] propra a yena lengoua.
+== Principos g·ènèrâls ==
+La transcripcion fonètica en AFE est de chaplar la [[parola]] en sègments que resonont suposâs pas sècâblos, et pués d’empleyér un simbolo solèt por châcun de cetos, en èvitent los [[Digramo|multigramos]] (combinèsons de lètres, coment lo son ''ch'' du francês, notâ /{{AFEb|ʃ}}/ fonologicament, ou ben lo ''gli'' étalien, transcrit /{{AFEb|ʎ}}/ fonologicament).
 
-{| class="wikitable centre"
-|+ Exemplo de [[transcripcion]] en ''AFE'' de la parôla « endurar » dens quârques lengoues. 
+{| class="wikitable" align="center"
+|+ Ègzemplo de [[Transcripcion et translitèracion|transcripcion]] empleyent l’alfabèt fonètico entèrnacionâl : « endurar » en doux-três lengoues. 
 |-
-!scope="row" style="font-style:normal;text-align:left"| [[arpitan]] [[liyonês]]
-| rowspan=2 | endurar || rowspan=2 | /ɛn.du.rar/ || [ɛ̃d̪yːˈʁɑ]
+!scope="col" style="width:7em"| lengoua
+!scope="col" style="width:7em"| mot ècrit
+!scope="col" style="width:7em"| [[fonologia]] (normativa)
+!scope="col" style="width:7em"| [[fonètica]]<br />(per ègz.)
 |-
-!scope="row" style="font-style:normal;text-align:left"| [[arpitan]] [[savoyârd]]
-| [ɛd̪yːˈʀa]
+!scope="row" style="font-style:normal;text-align:left"| [[arpetan]]
+| endurar || /{{AFEb|ɛ̃.du.ˈrar}}/ || [{{AFEb|ɛ̃d̪yˈʁɑ}}]
 |-
 !scope="row" style="font-style:normal;text-align:left"| [[francês]]
-| endurer || /ɑ̃.dy.ʁe/ || [ɑ̃d̪yːˈʁe]
+| endurer || /{{AFEb|ɑ̃.dy.ʁe}}/ || [{{AFEb|ɒ̃d̪yˈʁe}}]
 |-
 !scope="row" style="font-style:normal;text-align:left"| [[alemand]]
-| dulden  || /ˈdul.dən/ || [ˈdʊːldn̩]
+| dulden  || /{{AFEb|ˈdul.dən}}/ || [{{AFEb|ˈdʊːldn̩}}]
 |-
-!scope="row" style="font-style:normal;text-align:left"| [[anglês]]
-| tolerate || /ˈtɒl.ə.ɹeɪt/ || [ˈtʰɒˑləɹeɪtʔ]
+!scope="row" style="font-style:normal;text-align:left"| [[angllès]]
+| tolerate || /{{AFEb|ˈtɒl.ə.ɹeɪt}}/ || [{{AFEb|ˈtʰɒˑləɹeɪtʔ}}]
 |-
-!scope="row" style="font-style:normal;text-align:left"| [[èspanyol]]
-| aguantar || /a.ɡuan.ˈtaɾ/ || [aɣʷan̪ˈt̪aɾ]
+!scope="row" style="font-style:normal;text-align:left"| [[èspagnol]]
+| aguantar || /{{AFEb|a.ɡwan.ˈtaɾ}}/ || [{{AFEb|äɰʷän̪ˈt̪äɾ}}]
+|-
+!scope="row" style="font-style:normal;text-align:left"| [[èsperantô]]
+| suferi || /{{AFEb|su.ˈfe.ri}}/ || [{{AFEb|suˈfeɾi}}]
+|-
+!scope="row" style="font-style:normal;text-align:left"| [[malgach·o]]
+| mihafy || /{{AFEb|mi.a.fi}}/ || [{{AFEb|miˈjafi̥}}]
 |-
 !scope="row" style="font-style:normal;text-align:left"| [[catalan]]
-| aguantar || /ə.ɡuan.ˈta/ || [əɣwən̪ˈt̪a]
+| aguantar || /{{AFEb|a.ɡuan.ˈtaɾ}}/ || [{{AFEb|əɣwən̪ˈt̪a}}]
 |-
-!scope="row" style="font-style:normal;text-align:left"| [[italièn]]
-| sopportare || /sop.por.ˈta.re/ || [sopːoːrˈtaːre]
+!scope="row" style="font-style:normal;text-align:left"| [[étalien]]
+| sopportare || /{{AFEb|sop.por.ˈta.re}}/ || [{{AFEb|sopːorˈt̪äːre}}]
 |-
-!scope="row" style="font-style:normal;text-align:left"| [[nèèrlandês]]
-| verdragen || /vɛɹ.ˈdra.ɣɘn/ || [vɛːɹˈdraɣɘn̩]
+!scope="row" style="font-style:normal;text-align:left"| [[nêrlandês]]
+| verdragen || /{{AFEb|vɛr.ˈdra.ɣɘn}}/ || [{{AFEb|vɛːɹˈdraɣɘn̩}}]
 |-
-!scope="row" style="font-style:normal;text-align:left"| [[ch·inês]] [[mandarin]]
-| 忍 ''(ren<sup>3</sup>)'' || /rěn/ || [ʐən˨˩˦]
+!scope="row" style="font-style:normal;text-align:left"| [[Mandarin (lengoua)|mandarin]]
+| 忍 ''(ren{{exp|3}})'' || /{{AFEb|rěn}}/ || [{{AFEb|ʐən˨˩˦}}]
 |}
 
-L’''AFE'' pèrmèt la transcripcion onte qu’yun son corrèspond a yuna lètra. D’ense, lo son ly est transcrit /ʎ/ fonologicament.
+Lo nombro de caractèros principâls de l’AFE est de 118, cen que pèrmèt de cuvrir los sons los ples frèquents. Celos caractèros sont por la plepârt de lètres grèques ou latines ou ben de changements de cetes : {{AFEb|ɾ}}, {{AFEb|ɽ}}, {{AFEb|ɺ}}, {{AFEb|ɹ}} (teriês de [[R (lètra)|r]]) ; {{AFEb|ɘ}}, {{AFEb|ə}} (teriês de [[E (lètra)|e]]). Los sons muens frèquents sont transcrits dês celos en endiquent un changement de la [[Fôrma d’articulacion|fôrma]] ou du [[pouent d’articulacion]] avouéc yon ou ben un mouél de [[Diacritico|segnos diacriticos]] (u nombro de 76) sur lo caractèro principâl : per ègzemplo, lo b du [[castilyan]] ''caber'' (« tegnir, rentrar dedens ») est transcrit [{{AFEb|β̞}}] por endicar na [[Consona spirenta|spirenta]] nan pas la [[Consona fricativa|fricativa]] [[Consona bilabiâla|bilabiâla]] [[Consona que resone|vouesiêe]] [β]. Ègziste avouéc de simbolos spèciâls por notar de fenomènos [[Unitât suprasègmentâla|suprasègmentâls]], coment los [[Lengou’a tons|tons mèlodicos]] ou ben l’[[accent tonico]] : [{{AFEb|ˈdʊl·dn̩}}], transcripcion de l’alemand ''dulden'' (« suportar, tolèrar ») endique un accent tonico d’entensitât sur la premiére silaba (ˈ) et un n finâl vocalisâ ( {{AFEb|n̩}} ).
 
-Les lètres de l’''AFE'' sont construites a parti de l’[[alfabèt latin]] et l’[[alfabèt grèco]], principalament. D’ense, a partir de '''r''', l’''AFE'' at de modificacions: '''ɾ''', '''ɽ''', '''ɺ''', '''ɹ''', a partir de '''e''', '''ɘ''', '''ə'''. I est tant bien possîblo de crèar de novéls sons a partir de diacriticos. D’ense lo '''r''' intèrvocalico liyonês est transcrit [ð̞], un [ð] avouéc lo diacritico d’abassament de la lengoua.
+== Usâjo por l’arpetan ==
+I est tant bien possîblo de crèar de novéls sons a partir de diacriticos. D’ense lo '''r''' intèrvocalico liyonês est transcrit [ð̞], un [ð] avouéc lo diacritico d’abassament de la lengoua.
 
 Mas [[André Martinet]], qu’at applicâ l’Alfabèt Fonètico Intèrnacionâl a l’Arpitan, propose la lètra [ẟ] en vês de [ð̞], car los dos sons sont distinctîvos dens la [[Brêsse]]. La, [mɔðə], ''moje'', s’opose a [mɔδə], ''mâre''.
 
@@ -47,7 +57,7 @@ L’usâjo linguistico indique la transcripcion fonologica entre barres obliques
 
 La transcripcion fonètica pura se note entre crochèts. I est possîblo de la lére indèpendament de la lengoua. Mas i est mohtrâ que la lèctura en fonètica est ‘na dificultâ que ne balye nyun avantâjo a la lengoua. La transcripcion at un but pèdagogico, por fâre lo lim entre la fôrma ortografica es la forma orâla d’una parôla, en particuliér dens l’aprentissâjo.
 
-== Prèsentacion ==
+== Presentacion ==
 === Sègments vocalicos ===
 
 {| class="IPA wikitable" style="text-align:center; width:50em"
@@ -609,3 +619,7 @@ Les câses marcâyes d’un astèrisco (*) endiquont des sons atestâs pas oncor
 Les parties grisâyes endiquont na articulacion jugiêe impossibla. Les câses bllanches vouèdes endiquont des articulacions tèoriques possibles mas pas oncora atèstâyes.<br />
 Les [[Consones africâyes|africâyes]] t͡s, d͡z, t͡ʃ, d͡ʒ, t͡ɕ, d͡ʑ sont notâyes avouéc des [[Ligatura (tipografia)|ligatures]] ʦ, ʣ, ʧ, ʤ, ʨ, ʥ  sovent empléyiêes, ne fèsent pas més partia de l’AFE (o est recomandâ de les remplaciér per les doves articulacions, lyiâyes avouéc na [[Tirent (tipografia)|ligatura tirent]] –suscrita ou soscrita– ou avouéc la [[Consona fricativa|fricativa]] en exposent).<br>
 Les [[Consones affricâyes|oclusives]] [[Consona injèctiva|injèctives]] [[Consona sorda|sordes]] en ''italico'', empléyiêes, ne font pas més partia de l’AFE (o est recomandâ de les remplaciér per lo simbolo de la consona vousâye avouéc lo diacritico de dèvouèsement).
+
+[[Catègorie:Alfabèt fonètico entèrnacionâl]]
+[[Catègorie:Unicode]]
+[[Catègorie:Dèrivâ de l’alfabèt latin]]
