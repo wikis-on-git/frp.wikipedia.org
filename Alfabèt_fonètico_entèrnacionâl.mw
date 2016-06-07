@@ -50,31 +50,538 @@ La transcripcion fonètica pura se note entre crochèts. I est possîblo de la l
 == Prèsentacion ==
 === Sègments vocalicos ===
 
-{| class="IPA wikitable" style="text-align:center; width:50em"
-|- style="vertical-align:center; font-size:x-small"
-| style="font-size:90%;"|[[Pouent d’articulacion]]→
-! colspan=2|D’avant
-! colspan=3|Centrâlas
-! colspan=2|D’arriére
 
-|- style="vertical-align:center; font-size:x-small"
-| [[Apèrtura]]↓||tiréye||rionda||tiréye|| ||rionda||tiréye||rionda
-
-|--
-|cllôsas||[[Voyèla cllôsa d’avant tiréye|i]]||[[Voyèla cllôsa d’avant rionda|y]] ||[[Voyèla cllôsa centrâla tiréye|ɨ]]|| ||[[Voyèla cllôsa centrâla rionda|ʉ]] ||[[Voyèla cllôsa d’arriére tiréye|ɯ]]||[[Voyèla cllôsa d’arriére rionda|u]]
-|--
-|quâsi-cllôsas ||[[Voyèla quâsi-cllôsa d’avant tiréye|ɪ]]||[[Voyèla quâsi-cllôsa d’avant rionda|ʏ]]|| || || || [[Voyèla quâsi-cllôsa d’arriére tiréye|*]]||[[Voyèla quâsi-cllôsa d’arriére rionda|ʊ]]
-|--
-|Mi-cllôsas||[[Voyèla mé-cllôsa d’avant tiréye|e]]||[[Voyèla mé-cllôsa d’avant rionda|ø]] ||[[Voyèla mé-cllôsa centrâla tiréye|ɘ]]|| ||[[Voyèla mé-cllôsa centrâla rionda|ɵ]] ||[[Voyèla mé-cllôsa d’arriére tiréye|ɤ]]||[[Voyèla mé-cllôsa d’arriére rionda|o]]
-|--
-|Mitana|| || || ||[[Voyèla mitana centrâla|ə]] || || ||
-|--
-|Mi-uvèrtas||[[Voyèla mé-uvèrta d’avant tiréye|ɛ]]||[[Voyèla mé-uvèrta d’avant rionda|œ]] ||[[Voyèla mé-uvèrta centrâla tiréye|ɜ]]|| ||[[Voyèla mé-uvèrta centrâla rionda|ɞ]] ||[[Voyèla mé-uvèrta d’arriére tiréye|ʌ]]||[[Voyèla mé-uvèrta d’arriére rionda|ɔ]]
-|--
-|quâsi-uvèrtas||[[Voyèla quâsi-uvèrta d’avant tiréye|æ]]||  || ||[[Voyèla quâsi-uvèrta centrâla|ɐ]]||  || ||
-|--
-|uvèrtas||[[Voyèla uvèrta d’avant tiréye|a]]||[[Voyèla uvèrta d’avant rionda|ɶ]]|| || [[Voyèla uvèrta centrâla tiréye|ä]] || ||[[Voyèla uvèrta d’arriére tiréye|ɑ]]||[[Voyèla uvèrta d’arriére rionda|ɒ]]
+{|align="center" cellspacing="0" style="background:transparent;width:100%;text-align:center;font-size:small;padding-top:6px;"
+|-style="font-size:xx-small;"
+|rowspan="2"|[[Modo d'articulacion]]
+|colspan="30" style="border:1px solid black;border-right:none;border-bottom:none;"|[[Pouent d'articulacion]]
+|style="border-left:1px solid black;"|&nbsp;
+|-style="font-size:xx-small;"
+|colspan="4" style="border:1px solid black;border-right:none;"|[[Consona labiâla|Labiâl]]
+|colspan="2" style="border:1px solid black;border-right:none;"|[[Consona labiâla-vèlèra|Labiâl-vèlèro]]
+|colspan="10" style="border:1px solid black;border-right:none;"|[[Consona coronâla|Coronâl]]
+|colspan="8" style="border:1px solid black;border-right:none;"|[[Consona dorsâla|Dorsâl]]
+|colspan="4" style="border:1px solid black;border-right:none;"|[[Consona radicâla|Radicâl]]
+|colspan="2" style="border:1px solid black;border-right:none;"|(nion)
+|style="border-left:1px solid black;"|&nbsp;
+<!--
+Consones pulmoniques
+-->
+|-style="line-height:1.25em;font-size:xx-small;vertical-align:bottom;"
+|&nbsp;<u>'''Pulmoniques'''</u>&nbsp;
+|colspan="2"|&nbsp;[[Consona bilabiâla|Bilabiâl]]&nbsp;
+|colspan="2"|[[Consona labio-dentâla|Labio-dentâl]]
+|colspan="2"|
+|colspan="2"|&nbsp;[[Consona dentâla|Dentâl]]&nbsp;&nbsp;
+|colspan="2"|&nbsp;[[Consona alvèolèra|Alvèolèro]]&nbsp;
+|colspan="2"|[[Consona palato-alvèolèra|Palatalo-alvèolèro]]
+|colspan="2"|[[Consona rètroflêxe|Rètroflêxe]]
+|colspan="2"|[[Consona alvèolo-palatâla|Alvèolo-palatâl]]
+|colspan="2"|[[Consona palatâla|Palatâl]]
+|colspan="2"|&nbsp;[[Consona vèlèra|Vèlèro]]&nbsp;
+|colspan="2"|[[Consona labio-vèlèra|Labio-vèlèro]]
+|colspan="2"|[[Consona uvulèra|Uvulèro]]
+|colspan="2"|[[Consona faringâla|Faringâl]]
+|colspan="2"|&nbsp;[[Consona èpiglotâla|Èpiglotâl]]&nbsp;
+|colspan="2"|&nbsp;&nbsp;[[Consona glotâla|Glotâl]]&nbsp;&nbsp;
+|style="font-size:xx-small;"|&nbsp;
+<!--
+Nasâles
+-->
+|-
+|style="font-size:xx-small;"|[[Consona nasâla|Nasâles]]
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona nasâla bilabiâla vouèsâye|m]]
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona nasâla labio-dentâla vouèsâye|ɱ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona nasâla labiâla-vèlèra vouèsâye|ŋ͡m]]
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona nasâla dentâla vouèsâye|n̪]]
+|style="border-top:1px solid black;border-left:1px dotted gray;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona nasâla alvèolèra vouèsâye|n]]
+|style="border-top:1px solid black;border-left:1px dotted gray;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona nasâla rètroflêxe vouèsâye|ɳ]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona nasâla palatâla vouèsâye|ɲ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona nasâla vèlèra vouèsâye|ŋ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona nasâla vèlèra vouèsâye|ŋʷ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona nasâla uvulèra vouèsâye|ɴ]]
+|style="border-top:1px solid black;border-left:1px solid black;background:#CCCCCC;" colspan="6"|&nbsp;
+|style="border-left:1px solid black;font-size:xx-small;"|&nbsp;
+<!--
+Oclusives prènasalisâyes
+-->
+|-
+|style="font-size:xx-small;"|[[Consona oclusiva|Oclusives]] [[Prènasalisacion|prènasalisâyes]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[m͡p]]
+|style="border-top:1px solid black;"|[[m͡b]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[ᵑk͡p]]
+|style="border-top:1px solid black;"|[[ᵑɡ͡b]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[n͡t̪]]
+|style="border-top:1px solid black;"|[[n͡d̪]]
+|style="border-top:1px solid black;border-left:1px dotted gray;"|[[n͡t]]
+|style="border-top:1px solid black;"|[[n͡d]]
+|style="border-top:1px solid black;border-left:1px dotted gray;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[ɳ͡ʈ]]
+|style="border-top:1px solid black;"|[[ɳ͡ɖ]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[ɲ͡c]]
+|style="border-top:1px solid black;"|[[ɲ͡ɟ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[ŋ͡k]]
+|style="border-top:1px solid black;"|[[ŋ͡ɡ]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[ɴ͡q]]
+|style="border-top:1px solid black;"|[[ɴ͡ɢ]]
+|style="border-left:1px solid black;background:#CCCCCC;" colspan="6"|&nbsp;
+|style="border-left:1px solid black;font-size:xx-small;"|&nbsp;
+<!--
+Oclusives
+-->
+|-
+|style="font-size:xx-small;"|[[Consona oclusiva|Oclusives]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona oclusiva bilabiâla sorda|p]]
+|style="border-top:1px solid black;"|[[Consona oclusiva bilabiâla vouèsâye|b]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona oclusiva labio-dentâla sorda|p̪]]
+|style="border-top:1px solid black;"|[[Consona oclusiva labio-dentâla vouèsâye|b̪]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona oclusiva labiâla-vèlèra sorda|k͡p]]
+|style="border-top:1px solid black;"|[[Consona oclusiva labiâla-vèlèra vouèsâye|ɡ͡b]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona oclusiva dentâla sorda|t̪]]
+|style="border-top:1px solid black;"|[[Consona oclusiva dentâla vouèsâye|d̪]]
+|style="border-top:1px solid black;border-left:1px dotted gray;"|[[Consona oclusiva alvèolèra sorda|t]]
+|style="border-top:1px solid black;"|[[Consona oclusiva alvèolèra vouèsâye|d]]
+|style="border-top:1px solid black;border-left:1px dotted gray;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona oclusiva rètroflêxe sorda|ʈ]]
+|style="border-top:1px solid black;"|[[Consona oclusiva rètroflêxe vouèsâye|ɖ]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona oclusiva palatâla sorda|c]]
+|style="border-top:1px solid black;"|[[Consona oclusiva palatâla vouèsâye|ɟ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona oclusiva vèlèra sorda|k]]
+|style="border-top:1px solid black;"|[[Consona oclusiva vèlèra vouèsâye|ɡ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona oclusiva vèlèra sorda|kʷ]]
+|style="border-top:1px solid black;"|[[Consona oclusiva vèlèra vouèsâye|ɡʷ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona oclusiva uvulèra sorda|q]]
+|style="border-top:1px solid black;"|[[Consona oclusiva uvulèra vouèsâye|ɢ]]
+|style="border-left:1px solid black;background:#CCCCCC;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona oclusiva èpiglotâla sorda|ʡ]]
+|style="border-top:1px solid black;background:#CCCCCC;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Côp de glota|ʔ]]
+|style="border-top:1px solid black;background:#CCCCCC;"|&nbsp;
+|style="border-left:1px solid black;font-size:xx-small;"|&nbsp;
+<!--
+Africâyes (oclusiva pués fricativa sur la méma articulacion), ligatures suprimâyes de l’AFE.
+-->
+|-
+|style="font-size:xx-small;"|[[Consona africâ|Africâyes]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[p͡ɸ]]
+|style="border-top:1px solid black;"|[[b͡β]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona africâ labio-dentâla sorda|p͡f]]
+|style="border-top:1px solid black;"|[[b͡v]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona africâ dentâla sorda|t͡θ]]
+|style="border-top:1px solid black;"|[[d͡ð]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona africâ alvèolèra sorda|t͡s]]
+|style="border-top:1px solid black;"|[[Consona africâ alvèolèra vouèsâye|d͡z]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona africâ palato-alvèolèra sorda|t͡ʃ]]
+|style="border-top:1px solid black;"|[[Consona africâ palato-alvèolèra vouèsâye|d͡ʒ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona africâ rètroflêxe sorda|ʈ͡ʂ]]
+|style="border-top:1px solid black;"|[[Consona africâ rètroflêxe vouèsâye|ɖ͡ʐ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona africâ alvéolo-palatâla sorda|t͡ɕ]]
+|style="border-top:1px solid black;"|[[Consona africâ alvéolo-palatâla vouèsâye|d͡ʑ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[c͡ç]]
+|style="border-top:1px solid black;"|[[ɟ͡ʝ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona africâ vèlèra sorda|k͡x]]
+|style="border-top:1px solid black;"|[[ɡ͡ɣ]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[q͡χ]]
+|style="border-top:1px solid black;"|[[ɢ͡ʁ]]
+|style="border-left:1px solid black;background:#CCCCCC;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[ʡ͡ʜ]]
+|style="border-top:1px solid black;background:#CCCCCC;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[ʔ͡h]]
+|style="border-top:1px solid black;background:#CCCCCC;"|&nbsp;
+|style="border-left:1px solid black;font-size:xx-small;"|&nbsp;
+<!--
+Fricatives prènasalisâyes
+-->
+|-
+|style="font-size:xx-small;"|[[Consona fricativa|Fricatives]] [[Prènasalisacion|prènasalisâyes]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[m͡ɸ]]
+|style="border-top:1px solid black;"|[[m͡β]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[ɱ͡f]]
+|style="border-top:1px solid black;"|[[ɱ͡v]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[n͡θ]]
+|style="border-top:1px solid black;"|[[n͡ð]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[n͡s]]
+|style="border-top:1px solid black;"|[[n͡z]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[n͡ʃ]]
+|style="border-top:1px solid black;"|[[n͡ʒ]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[ŋ͡k]]
+|style="border-top:1px solid black;"|[[ŋ͡ɡ]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-left:1px solid black;background:#CCCCCC;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;background:#CCCCCC;" colspan="4"|&nbsp;
+|style="border-left:1px solid black;font-size:xx-small;"|&nbsp;
+<!--
+Fricatives
+-->
+|-
+|style="font-size:xx-small;"|[[Consona fricativa|Fricatives]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa bilabiâla sorda|ɸ]]
+|style="border-top:1px solid black;"|[[Consona fricativa bilabiâla vouèsâye|β]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa labio-dentâla sorda|f]]
+|style="border-top:1px solid black;"|[[Consona fricativa labio-dentâla vouèsâye|v]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa dentâla sorda|θ]]
+|style="border-top:1px solid black;"|[[Consona fricativa dentâla vouèsâye|ð]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa alvèolèra sorda|s]]
+|style="border-top:1px solid black;"|[[Consona fricativa alvèolèra vouèsâye|z]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa palato-alvèolèra sorda|ʃ]]
+|style="border-top:1px solid black;"|[[Consona fricativa palato-alvèolèra vouèsâye|ʒ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa rètroflêxe sorda|ʂ]]
+|style="border-top:1px solid black;"|[[Consona fricativa rètroflêxe vouèsâye|ʐ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa alvèolo-palatâla sorda|ɕ]]
+|style="border-top:1px solid black;"|[[Consona fricativa alvéolo-palatâla vouèsâye|ʑ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa palatâla sorda|ç]]
+|style="border-top:1px solid black;"|[[Consona fricativa palatâla vouèsâye|ʝ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa vèlèra sorda|x]]
+|style="border-top:1px solid black;"|[[Consona fricativa vèlèra vouèsâye|ɣ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa vèlèra sorda|xʷ]]
+|style="border-top:1px solid black;"|[[Consona fricativa vèlèra vouèsâye|ɣʷ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa uvulèra sorda|χ]]
+|style="border-top:1px solid black;"|[[Consona fricativa uvulèra vouèsâye|ʁ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa faringâla sorda|ħ]]
+|style="border-top:1px solid black;"|[[Consona fricativa faringâla vouèsâye|ʕ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa èpiglotâla sorda|ʜ]]
+|style="border-top:1px solid black;"|[[Consona fricativa èpiglotâla vouèsâye|ʢ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa glotâla sorda|h]]
+|style="border-top:1px solid black;"|[[Consona fricativa glotâla vouèsâye|ɦ]]
+|style="border-left:1px solid black;font-size:xx-small;"|&nbsp;
+<!--
+Spirentes
+-->
+|-
+|style="font-size:xx-small;"|[[consona spirenta|Spirentes]]
+|style="border-top:1px dotted gray;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px dotted gray;"|[[Consona spirenta bilabiâla vouèsâye|β̞]]
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona spirenta labio-dentâla vouèsâye|ʋ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px dotted gray;"|[[Consona spirenta dentâla vouèsâye|ð̞]]
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona spirenta alvèolèra vouèsâye|ɹ]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona spirenta rètroflêxe vouèsâye|ɻ]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona spirenta palatâla vouèsâye|j]]
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona spirenta vèlèra vouèsâye|ɰ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona spirenta labio-vèlèra sorda|ʍ]]
+|style="border-top:1px solid black;"|[[Consona spirenta labio-vèlèra vouèsâye|w]]
+|style="border-top:1px dotted gray;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px dotted gray;"|&nbsp;
+|style="border-top:1px dotted gray;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px dotted gray;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px dotted gray;"|&nbsp;
+|style="border-top:1px dotted gray;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-left:1px solid black;font-size:xx-small;"|&nbsp;
+<!--
+Roulâyes
+-->
+|-
+|style="font-size:xx-small;"|[[Consona roulâ|Roulâyes]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona roulâ bilabiâla sorda|ʙ̥]]
+|style="border-top:1px solid black;"|[[Consona roulâ bilabiâla vouèsâye|ʙ]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona roulâ dentâla vouèsâye|r̪]]
+|style="border-top:1px solid black;border-left:1px dotted gray;"|[[Consona roulâ alvèolèra sorda|r̥]]
+|style="border-top:1px solid black;"|[[Consona roulâ alvèolèra vouèsâye|r]]
+|style="border-top:1px solid black;border-left:1px dotted gray;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona roulâ rètroflêxe vouèsâye|*]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;background:#CCCCCC;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;background:#CCCCCC;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona roulâ uvulèra vouèsâye|ʀ]]
+|style="border-left:1px solid black;border-top:1px solid black;background:#CCCCCC;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona roulâ èpiglotâla vouèsâye|*]]
+|style="border-top:1px solid black;border-left:1px solid black;background:#CCCCCC;" colspan="2"|&nbsp;
+|style="border-left:1px solid black;font-size:xx-small;"|&nbsp;
+<!--
+Batuâyes
+-->
+|-
+|style="font-size:xx-small;"|[[Consona batuâ|Batuâyes]]
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona batuâ bilabiâla vouèsâye|*]]
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona batuâ labio-dentâla vouèsâye|ⱱ]] 
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona batuâ dentâla vouèsâye|ɾ̪]]
+|style="border-top:1px solid black;border-left:1px dotted gray;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona batuâ alvèolèra vouèsâye|ɾ]]
+|style="border-top:1px solid black;border-left:1px dotted gray;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona batuâ rètroflêxe vouèsâye|ɽ]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-left:1px solid black;background:#CCCCCC;" colspan="2"|&nbsp;
+|style="border-left:1px solid black;background:#CCCCCC;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-left:1px solid black;background:#CCCCCC;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona batuâ èpiglotâla vouèsâye|*]]
+|style="border-left:1px solid black;background:#CCCCCC;" colspan="2"|&nbsp;
+|style="border-left:1px solid black;font-size:xx-small;"|&nbsp;
+<!--
+Africâyes latèrâles
+-->
+|-
+|style="font-size:xx-small;"|[[consona africâ|Africâyes]] [[consona latèrâla|latèrâles]]
+|style="border-top:1px solid black;border-left:1px solid black;background:#CCCCCC;" colspan="6"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px dotted gray;"|[[Consona africâ latèrâla alvèolèra sorda|t͡ɬ]]
+|style="border-top:1px solid black;"|[[Consona africâ latèrâla alvèolèra vouèsâye|d͡ɮ]]
+|style="border-top:1px solid black;border-left:1px dotted gray;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-left:1px solid black;background:#CCCCCC;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;background:#CCCCCC;" colspan="2"|&nbsp;
+|style="background:#CCCCCC;" colspan="2"|&nbsp;
+|style="border-left:1px solid black;font-size:xx-small;"|&nbsp;
+<!--
+Fricatives latèrâles
+-->
+|-
+|style="font-size:xx-small;"|[[consona fricativa|Fricatives]] [[consona latèrâla|latèrâles]]
+|style="background:#CCCCCC;border-left:1px solid black;" colspan="6"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px dotted gray;"|[[Consona fricativa latèrâla alvèolèra sorda|ɬ]]
+|style="border-top:1px solid black;"|[[Consona fricativa latèrâla alvèolèra vouèsâye|ɮ]]
+|style="border-top:1px solid black;border-left:1px dotted gray;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa latèrâla rètroflêxe sorda|*]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa latèrâla palatâla sorda|*]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa latèrâla vèlèra sorda|*]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-left:1px solid black;background:#CCCCCC;" colspan="6"|&nbsp;
+|style="border-left:1px solid black;font-size:xx-small;"|&nbsp;
+<!--
+Spirentes latèrâles
+-->
+|-
+|style="font-size:xx-small;"|[[Consona spirenta|Spirentes]] [[consona latèrâla|latèrâles]]
+|style="background:#CCCCCC;border-left:1px solid black;" colspan="6"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona spirenta latèrâla dentâla vouèsâye|l̪]]
+|style="border-top:1px solid black;border-left:1px dotted gray;"|[[Consona spirenta latèrâla alvèolèra sorda|l̥]]
+|style="border-top:1px solid black;"|[[Consona spirenta latèrâla alvèolèra vouèsâye|l]]
+|style="border-top:1px solid black;border-left:1px dotted gray;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona spirenta latèrâla rètroflêxe vouèsâye|ɭ]]
+|style="border-top:1px solid black;border-left:1px dotted gray;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona spirenta latèrâla palatâla vouèsâye|ʎ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona spirenta latèrâla vèlèra vouèsâye|ʟ]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-left:1px solid black;background:#CCCCCC;" colspan="6"|&nbsp;
+|style="border-left:1px solid black;font-size:xx-small;"|&nbsp;
+<!--
+Batuâyes latèrâles
+-->
+|-
+|style="font-size:xx-small;"|[[Consona batuâ|Batuâyes]] [[Consona latèrâla|latèrâles.]]
+|style="border-bottom:1px solid black;border-left:1px solid black;background:#CCCCCC;" colspan="6"|&nbsp;
+|style="border-bottom:1px solid black;border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-bottom:1px solid black;border-top:1px solid black;border-left:1px dotted gray;"|&nbsp;
+|style="border-bottom:1px solid black;border-top:1px solid black;"|[[Consona batuâ latèrâla alvèolèra vouèsâye|ɺ]]
+|style="border-bottom:1px solid black;border-top:1px solid black;border-left:1px dotted gray;" colspan="2"|&nbsp;
+|style="border-bottom:1px solid black;border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-bottom:1px solid black;border-top:1px solid black;"|[[Consona batuâ latèrâla rètroflêxe vouèsâye|*]]
+|style="border-bottom:1px solid black;border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-bottom:1px solid black;border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-bottom:1px solid black;border-top:1px solid black;"|[[Consona batuâ latèrâla palatâla vouèsâye|*]]
+|style="border-bottom:1px solid black;border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-bottom:1px solid black;border-top:1px solid black;"|[[Consona batuâ latèrâla vèlèra vouèsâye|*]]
+|style="border-bottom:1px solid black;border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-bottom:1px solid black;border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-bottom:1px solid black;border-left:1px solid black;background:#CCCCCC;" colspan="6"|&nbsp;
+|style="border-left:1px solid black;font-size:xx-small;"|&nbsp;
+<!--
+Consones nan pulmoniques
+-->
+|-style="line-height:1.25em;font-size:xx-small;vertical-align:bottom;"
+|<u>'''Nan pulmoniques'''</u>
+|colspan="31"|&nbsp;
+<!--
+Oclusives injèctives
+-->
+|-
+|style="font-size:xx-small;"|[[Consona oclusiva|Oclusives.]] [[Consona injèctive|injèctives]]
+|style="border-top:1px solid black;border-left:1px solid black;"|''[[Consona oclusiva injèctive bilabiâla sorda|ƥ]]''
+|style="border-top:1px solid black;"|[[Consona oclusiva injèctive bilabiâla vouèsâye|ɓ]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px dotted gray;"|''[[Consona oclusiva injèctive alvèolèra|ƭ]]''
+|style="border-top:1px solid black;"|[[Consona oclusiva injèctive alvèolèra|ɗ]]
+|style="border-top:1px solid black;border-left:1px dotted gray;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;"|[[Consona oclusiva injèctive rètroflêxe vouèsâye|*]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|''[[Consona oclusiva injèctive palatâla|ƈ]]''
+|style="border-top:1px solid black;"|[[Consona oclusiva injèctive palatâla|ʄ]]
+|style="border-top:1px solid black;border-left:1px solid black;"|''[[Consona oclusiva injèctive vèlèra|ƙ]]''
+|style="border-top:1px solid black;"|[[Consona oclusiva injèctive vèlèra|ɠ]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|''[[Consona oclusiva injèctive alvèolèra|ʠ]]''
+|style="border-top:1px solid black;"|[[Consona oclusiva injèctive uvulèra|ʛ]]
+|style="border-top:1px solid black;border-left:1px solid black;background:#CCCCCC;" colspan="6"|&nbsp;
+|style="border-left:1px solid black;font-size:xx-small;"|&nbsp;
+<!--
+Oclusives èjèctives
+-->
+|-
+|style="font-size:xx-small;"|[[Consona oclusiva|Oclusives]] [[Consona èjèctiva|èjèctives]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona oclusiva èjèctiva bilabiâla|pʼ]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona oclusiva èjèctiva dentâla|t̪ʼ]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px dotted gray;"|[[Consona oclusiva èjèctiva alvèolèra|tʼ]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px dotted gray;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona oclusiva èjèctiva rètroflêxe|ʈʼ]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona oclusiva èjèctiva palatâla|cʼ]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona oclusiva èjèctiva vèlèra|kʼ]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona oclusiva èjèctiva uvulèra|qʼ]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-left:1px solid black;background:#CCCCCC;" colspan="6"|&nbsp;
+|style="border-left:1px solid black;font-size:xx-small;"|&nbsp;
+<!--
+Oclusives fricatives
+-->
+|-
+|style="font-size:xx-small;"|[[Consona fricativa|Fricatives]] [[Consona èjèctiva|èjèctives]]
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa èjèctiva bilabiâla|ɸʼ]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa èjèctiva labio-dentâla|fʼ]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona èjèctiva|θʼ]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa èjèctiva alvèolèra|sʼ]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa èjèctiva post-alvèolèra|ʃʼ]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa èjèctiva rètroflêxe|ʂʼ]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa èjèctiva alvèolo-palatâla|ɕʼ]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa èjèctiva palatâla|çʼ]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa èjèctiva vèlèra|xʼ]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;"|[[Consona fricativa èjèctiva uvulèra|χʼ]]
+|style="border-top:1px solid black;"|&nbsp;
+|style="border-left:1px solid black;background:#CCCCCC;" colspan="6"|&nbsp;
+|style="border-left:1px solid black;font-size:xx-small;"|&nbsp;
+<!--
+Clics centrâls
+-->
+|-
+|style="font-size:xx-small;"|[[Clic (fonètica)|Clics]] [[Consona centrâla|centrâls]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|[[Clic bilabial|ʘ]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|[[Clic dentâl|ǀ]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;  
+|style="border-top:1px solid black;border-left:1px dotted gray;" colspan="2"|[[Clic post-alvèolèro|ǃ]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|[[Clic alvèolo-palatâl|ǂ]]
+|style="border-top:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-left:1px solid black;background:#CCCCCC;" colspan="4"|&nbsp;
+|style="background:#CCCCCC;" colspan="8"|&nbsp;
+|style="border-left:1px solid black;font-size:xx-small;"|&nbsp;
+<!--
+Clics latèrâls
+-->
+|-
+|style="font-size:xx-small;"|[[Clic (fonètica)|Clics]] [[Consona latèrâla|latèrâls]]
+|style="border-top:1px solid black;border-bottom:1px solid black;background:#CCCCCC;border-left:1px solid black;" colspan="6"|&nbsp;
+|style="border-top:1px solid black;border-bottom:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-bottom:1px solid black;border-left:1px solid black;" colspan="2"|[[Clic alvèolèro latèrâl|ǁ]]
+|style="border-top:1px solid black;border-bottom:1px solid black;border-left:1px dotted gray;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-bottom:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-bottom:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-top:1px solid black;border-bottom:1px solid black;border-left:1px solid black;" colspan="2"|&nbsp;
+|style="border-bottom:1px solid black;border-left:1px solid black;background:#CCCCCC;" colspan="12"|&nbsp;
+|style="border-left:1px solid black;font-size:xx-small;"|&nbsp;
 |}
+
+<small>
+Plusiôrs consones pulmoniques que ne font pas partia d’un ôtro pouent d’articulacion :
+{|class="wikitâblo centro"
+! Dèscripcion
+! Simbolo
+|--
+| [[Consona spirenta labio-palatâla vouèsâye]] || [[Consona spirenta labio-palatâla vouèsâye|ɥ]]
+|--
+|[[Consona fricativa post-alvèolo-vèlèra sorda]]|| [[Consona fricativa post-alvèolo-vèlèra sorda|ɧ]]
+|--
+|[[Consona spirente latèrâla alvèolèra vèlarisâye vouèsâye]]|| [[Consona spirente latèrâla alvèolèra vèlarisâye vouèsâye|ɫ]]
+|--
+|}
+<!--
+Notes
+-->
+Quand doux simbolos aparèssont dens una câsa, cél a gôche reprèsente na [[consona sorda]], cél a drêt na [[consona vouèsâye]] (ne s’aplique pas ux clics).<br />
+Les câses sèparâyes per de pointilyés empléyont normalament les mémos simbolos AFE de bâsa, et ne povont diffèrar que par los diacriticos aplicâs por dèplaciér lyor articulacion.<br />
+Les câses marcâyes d’un astèrisco (*) endiquont des sons atestâs pas oncora reprèsentâs oficiâlament dens l’AFE.<br />
+Les parties grisâyes endiquont na articulacion jugiêe impossibla. Les câses bllanches vouèdes endiquont des articulacions tèoriques possibles mas pas oncora atèstâyes.<br />
+Les [[Consones africâyes|africâyes]] t͡s, d͡z, t͡ʃ, d͡ʒ, t͡ɕ, d͡ʑ sont notâyes avouéc des [[Ligatura (tipografia)|ligatures]] ʦ, ʣ, ʧ, ʤ, ʨ, ʥ  sovent empléyiêes, ne fèsent pas més partia de l’AFE (o est recomandâ de les remplaciér per les doves articulacions, lyiâyes avouéc na [[Tirent (tipografia)|ligatura tirent]] –suscrita ou soscrita– ou avouéc la [[Consona fricativa|fricativa]] en exposent).<br>
+Les [[Consones affricâyes|oclusives]] [[Consona injèctiva|injèctives]] [[Consona sorda|sordes]] en ''italico'', empléyiêes, ne font pas més partia de l’AFE (o est recomandâ de les remplaciér per lo simbolo de la consona vousâye avouéc lo diacritico de dèvouèsement).
 
 === Sègments consonanticos ===
 
