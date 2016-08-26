@@ -31,7 +31,7 @@
 | align="center" | 007004 || align="center" | 11020 || '''[[Arnà]]''' || '''Arnà''' || '''[[Arnad]]''' || Arnad
 | align="center" | {{formatnum:1323}}
 |-
-| align="center" | 007005 || align="center" | 11011 || '''[[Arvì]]''' || '''Arvë''' || [[Arviér|'''Arviér''', étot '''Le Bôrg''']] || Arvier
+| align="center" | 007005 || align="center" | 11011 || [[Arvì|'''Arvì / Arvyì''']] || '''Arvë''' || [[Arviér|'''Arviér''', étot '''Le Bôrg''']] || Arvier
 | align="center" | 900
 |- bgcolor="#EFEFEF"
 | align="center" | 007006 || align="center" | 11010 || '''[[Aveuzo|Aveuzo / Oveuzo]]''' || '''Aveuso''' || '''[[Aveso]]''' || Avise
@@ -83,10 +83,10 @@
 !align="left" width="150" | Nom en francês
 !align="center" | Populacion<br /><small>(31-12-2010)</small>
 |-
-| align="center" | 007013 || align="center" | 11020 || '''[[Tchallàn]]''' || '''Tsallan Sen t-Anselmo''' || '''[[Chaland d’Amont]]''' || Challand-Saint-Anselme
+| align="center" | 007013 || align="center" | 11020 || [[Tchalàn|'''Tchalàn / Tchalàn-Damoùn''']] || '''Tsallan Sen t-Anselmo''' || '''[[Chaland d’Amont]]''' || Challand-Saint-Anselme
 | align="center" | 762
 |- bgcolor="#EFEFEF"
-| align="center" | 007014 || align="center" | 11020 || '''[[Tchallàn-Sèn-Vitor]]''' || '''Tsallan Sen Vittor''' || '''[[Chaland-Desot]]''' || Challand-Saint-Victor
+| align="center" | 007014 || align="center" | 11020 || [[Tchalàn-Sèn-Vitor|'''Tchalàn-Sèn-Vitor / Tchalàn-Dézot''']] || '''Tsallan Sen Vittor''' || '''[[Chaland-Desot]]''' || Challand-Saint-Victor
 | align="center" | 605
 |-
 | align="center" | 007015 || align="center" | 11023 || [[Tsambava|'''Tsambava / Tsamboa''']] || '''Tsambava''' || '''[[Chambava]]''' || Chambave
@@ -104,7 +104,7 @@
 | align="center" | 007019 || align="center" | 11020 || [[Tsarvènsoù|'''Tsarvènsoù / Tsaensoù''']] || '''Tsarvensou''' || '''[[Charvensôd]]''' || Charvensod
 | align="center" | {{formatnum:2527}}
 |- bgcolor="#EFEFEF"
-| align="center" | 007020 || align="center" | 11024 || '''[[Tsateillón]]''' || '''Tsateillon''' || '''[[Châtelyon (Étalie)|Châtelyon]]''' || Châtillon
+| align="center" | 007020 || align="center" | 11024 || [[Tsateillón|'''Tsateillón / Tsatéyón''']] || '''Tsateillon''' || '''[[Châtelyon (Étalie)|Châtelyon]]''' || Châtillon
 | align="center" | {{formatnum:4966}}
 |-
 | align="center" | 007021 || align="center" | 11012 || '''[[Cogne (B.R.E.L.)|Cogne]]''' || '''Cogne''' || '''[[Cogne]]''' || Cogne
@@ -282,7 +282,7 @@
 | align="center" | 007041 || align="center" | 11016 || '''[[La Tchouiille]]''' || '''La Tsouëille''' || [[La Tiola (Étalie)|'''<u>La Tuelye</u> / La Tiola''', des côps '''Vela''']] || La Thuile
 | align="center" | 767
 |- bgcolor="#EFEFEF"
-| align="center" | 007042 || align="center" | 11020 || '''[[Lilianne|Lilianne / Yian-e]]''' || '''Lilliane''' || '''[[Lilianes]]''' || Lillianes
+| align="center" | 007042 || align="center" | 11020 || '''[[Lilianne|Lilianne / Yian-e / Lilion-e]]''' || '''Lilliane''' || '''[[Lilianes]]''' || Lillianes
 | align="center" | 480
 |-
 |}
@@ -339,7 +339,7 @@
 | align="center" | 007046 || align="center" | 11010 || [[Ollomón|'''Ollomón / Alomón''']] || '''Ollomon''' || '''[[Olomon]]''' || Ollomont
 | align="center" | 164
 |- bgcolor="#EFEFEF"
-| align="center" | 007047 || align="center" | 11010 || '''[[Oyas]]''' || '''Oyace''' || [[Oyace|'''<u>Œyace</u> / Oyace''']] || Oyace
+| align="center" | 007047 || align="center" | 11010 || '''[[Oyasse|Oyasse / Asse / Iasse]]''' || '''Oyace''' || [[Oyace|'''<u>Œyace</u> / Oyace''']] || Oyace
 | align="center" | 225
 |-
 |}
@@ -368,7 +368,7 @@
 | align="center" | 007051 || align="center" | 11004 || '''[[Pontèi]]''' || '''Pontèy''' || [[Pontely|'''<u>Pontê</u> / Pontely''']] || Pontey
 | align="center" | 835
 |-
-| align="center" | 007052 || align="center" | 11026 || '''[[Pon-Sèn-Marteun]]''' || '''Pon Sen Martin''' || '''[[Pont-Sent-Martin]]''' || Pont-Saint-Martin
+| align="center" | 007052 || align="center" | 11026 || '''[[Pon-Sèn-Marteun|Pon-Sèn-Marteun / Sé-Martìn]]''' || '''Pon Sen Martin''' || '''[[Pont-Sent-Martin]]''' || Pont-Saint-Martin
 | align="center" | {{formatnum:4029}}
 |- bgcolor="#EFEFEF"
 | align="center" | 007053 || align="center" | 11010 || '''[[Pré-Sèn-Lédjé|Pré-Sèn-Lédjé / Pra-Sèn-Didjì]]''' || '''Prasenedzë''' || [[Prât-Sent-Dediér|'''<u>Prât-Sen-Ediér</u> / Prât-Sent-Dediér''']] || Pré-Saint-Didier
@@ -446,7 +446,7 @@
 | align="center" | 007063 || align="center" | 11010 || '''[[Sèn-Piére]]''' || '''Sen Pierre''' || [[Sent-Pierro (Étalie)|'''<u>Sent-Pierre</u> / Sent-Pierro''']] || Saint-Pierre
 | align="center" | {{formatnum:3162}}
 |-
-| align="center" | 007064 || align="center" | 11010 || '''[[Sèn-Remì|Sèn-Remì - Boursa]]''' || '''Sen Remi''' || '''[[Sent-Rèmi (Étalie)|Sent-Rèmi]]''' || Saint-Rhémy-en-Bosses
+| align="center" | 007064 || align="center" | 11010 || '''[[Sèn-Remì|Sèn-Remì - Boursa / Boussa / Bosa]]''' || '''Sen Remi''' || '''[[Sent-Rèmi (Étalie)|Sent-Rèmi]]''' || Saint-Rhémy-en-Bosses
 | align="center" | 377
 |- bgcolor="#EFEFEF"
 | align="center" | 007065 || align="center" | 11027 || [[Sèn-Veunsèn|'''Sèn-Veunsèn / Sèn-Vinsèn''']] || '''Sen Vincen''' || '''[[Sent-Vincent (Étalie)|Sent-Vincent]]''' || Saint-Vincent
@@ -501,7 +501,7 @@
 | align="center" | 007072 || align="center" | 11020 || [[Vèrèye|'''Vèrèye / Vèèi / Vevèé''']] || '''Veraye / Vérèye''' || [[Vèrrayes|'''<u>Vèrràyes</u> / Vèrrayes''']] || Verrayes
 | align="center" | {{formatnum:1351}}
 |- bgcolor="#EFEFEF"
-| align="center" | 007073 || align="center" | 11029 || '''[[Véres]]''' || '''Verès''' || '''[[Verrès]]''' || Verrès
+| align="center" | 007073 || align="center" | 11029 || '''[[Véres|Véres / Véreh]]''' || '''Verès''' || '''[[Verrès]]''' || Verrès
 | align="center" | {{formatnum:2758}}
 |-
 | align="center" | 007074 || align="center" | 11018 || '''[[Veullanoua]]''' || '''Veullanouva''' || '''[[Velanôva (Étalie)|Velanôva]]''' || Villeneuve
