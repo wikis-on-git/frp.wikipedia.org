@@ -1,5 +1,5 @@
 {{Modèlo:Grafia - Genevês en ORB lârge}}
-[[Fichiér:Karte Gemeinden des Kantons Genf 2007.png|thumb|Mapa du canton de Geneva que presente sa division en comenes en 2007 [''tôs los noms sont en [[francês]]''].]]
+[[Fichiér:Karte Gemeinden des Kantons Genf farbig 2011.png|figura|Mapa du canton de Geneva que presente sa division en comenes en 2011 (''tôs los noms sont en [[francês]]'').]]
 Cél articllo presente na '''lista de les [[Comena (Suisse)|comenes]] du [[canton de Geneva]]'''.
 
 == Lista ==
@@ -12,14 +12,15 @@ En 2012, le canton de Geneva compte 45 comenes<ref name="Document90142">{{xls}} 
 
 Le canton s’èpate asse-ben sur le [[Lèman|lèc Lèman]], sen que cela zona seye avouéc gins de comena<ref name="Document90142" /> ; el’est apondua a la lista por comparèson.
 
-{|class="wikitable sortable"
+{| class="wikitable sortable" style="text-align: left;"
+|+ Les comenes
 |-
-! scope=col | Comena :<br />- nom arpetan
-! scope=col | <br />- nom francês
-! scope=col | N° OFS
-! scope=col | Populacion<br />u 31 de {{dâta populacion suissa|CH-GE}}{{rèference populacion suissa|CH-GE}}
-! scope=col | Talye<br />[km²]{{rèference supèrficie suissa|CH-GE}}
-! scope=col | Densitât<br />[{{hab.}}/km²]
+!scope="col"| Nom arpetan
+!scope="col"| Nom francês 
+!scope="col"| [[Numerotacion oficièla de les comenes suisses|N° OFS]]<ref name="Document90142" />
+!scope="col"| Populacion {{-}} <small>({{mês populacion suissa|CH-GE}})</small>{{rèference populacion suissa|CH-GE}}
+!scope="col"| Supèrficie {{-}} (km{{exp|2}}) {{rèference supèrficie suissa|CH-GE|CH-GE}}
+!scope="col"| Densitât {{-}} (hab./km{{exp|2}})
 |-
 | [[Fichiér:Anieres-coat of arms.svg|20px|Anières]] '''[[Âniéres (Geneva)|Âniéres]]'''
 | Anières
@@ -175,7 +176,7 @@ Le canton s’èpate asse-ben sur le [[Lèman|lèc Lèman]], sen que cela zona s
 | align=right | {{smn|{{#expr: {{supèrficie suissa|CH-GE|ofs=6622}} /100 round 2}}|6|100}} 
 | align=right | {{densitât populacion suissa|CH-GE|ofs=6622}}
 |-
-| [[Fichiér:Gy-coat of arms.svg|20px]] '''[[Gié (Geneva)|Gié]]'''
+| [[Fichiér:Gy-coat of arms.svg|20px]] '''[[Giéz (Geneva)|Giéz]]'''
 | Gy
 | align=right | 6624 
 | align=right | {{smn|{{populacion suissa|CH-GE|ofs=6624}}|6}}
@@ -354,35 +355,58 @@ U nord-èste, la comena de [[Felegni]] est pas ategnenta avouéc le résto du t�
 * Le [[Mandament (Geneva)|Mandament]] : dèsigne orendrêt na règ·ion viticola importanta composâye de les comenes de Dardagni, Russin et Sategni.
 
 == Historico ==
+{{Articllo dètalyê|Lista de les vielyes comenes du canton de Geneva}}
 
 === Comenes rèunies ===
-[[Fichiér:GenèveCommunes-1815-1816-clr.jpg|thumb|Comenes rèunies 1815-1816 :{{Lègenda/Comencement}}{{Lègenda|#f8d512|Geneva et sos vielys tèrritouèros ;}}{{Lègenda|#5debf8|comenes cèdâyes per la France ;}}{{Lègenda|#f893a0|comenes cèdâyes per la Savouè.}}{{Lègenda/Fin}}]]
+[[Fichiér:GenèveCommunes-1815-1816-clr.jpg|figura|Comenes rèunies 1815-1816 :{{Lègenda/Comencement}}{{Lègenda|#f8d512|Geneva et sos vielys tèrritouèros ;}}{{Lègenda|#5debf8|comenes cèdâyes per la France ;}}{{Lègenda|#f893a0|comenes cèdâyes per la Savouè.}}{{Lègenda/Fin}}]]
 
-Cela parola dèsigne los tèrritouèros cèdâs a Geneva per la [[France]] diens le [[Payis de Gèx]] en 1815 et pués per la [[Ètats de Savouè|Savouè]] en 1816<ref>{{DHS|30186|Communes réunies|P. Guichonnet}}</ref>. Le tèrritouèro genevês ére tant qu’ique morselâ. Le novél canton rejuent d’ense la Confèdèracion suissa avouéc un tèrritouèro d’un solèt morsél et rapondu fesicament a la Suisse. En mémo temps de [[Zona franche|zones franches]] sont fêtes, que contegnont le Payis de Gèx, [[Sant-Jelien]], le [[Salèvo]] et [[Anemâsse]]. Celes legnes de les douânes reculâyes garantéssont u dediens de les zones franches la libra circulacion de les marchandies de vers Geneva.
+Cela parola dèsigne los tèrritouèros cèdâs a Geneva per la [[France]] diens le [[payis de Gèx]] en 1815 et pués per la [[Ètats de Savouè|Savouè]] en 1816<ref>{{DHS|30186|Communes réunies|P. Guichonnet}}</ref>. Le tèrritouèro genevês ére tant qu’ique morselâ. Le novél canton rejuent d’ense la Confèdèracion suissa avouéc un tèrritouèro d’un solèt morsél et rapondu fesicament a la Suisse. En mémo temps de [[Zona franche|zones franches]] sont fêtes, que contegnont le payis de Gèx, [[Sant-Jelien]], le [[Salèvo]] et [[Anemâsse]]. Celes legnes de les douânes reculâyes garantéssont u dediens de les zones franches la libra circulacion de les marchandies de vers Geneva.
 
 Les comenes rèunies sont :
 * u [[Trètâ de Paris (1815)|second trètâ de Paris]], le 20 de novembro 1815 : Côlèx-Bossi, Le Grant-Saquenèx, Mêrin, Pregni, Vèrneyér et Vèrsôye ;
 * u [[Trètâ de Turin (1816)|trètâ de Turin]], le 16 de mârs 1816 : Âniéres, Avousi, Bardenèx, Bèrnèx, Carrojo, Chèno-Tônèx, Chôlèx, Colonges-Bèlariva, [[Compesiéres]], Confegnon, Corziér, Ére-la-Vela, Hèrmence, Lanci, Laquenèx, Mêniér, Ônèx, Peplinjo, Pèrlyi-Essartox, Plan-de-les-Vouétes, Presinjo, Sorrâl, Trouenèx et Vêriér.
 
 === Scission de comenes ===
-Aprés la formacion du canton de Geneva et du dècopâjo iniciâl du tèrritouèro, de scissions de comenes sè sont passâyes u méten du {{S-|XIX|o}}.
+Aprés la formacion du canton de Geneva et du dècopâjo iniciâl du tèrritouèro, de scissions de comenes sè sont passâyes u méten du {{S-|XIX|o}}, le tablô ce-desot drèce la lista de celes scissions.
 
-* 1821 : Pèrlyi et [[Essartox]] sè sèpâront de [[Compesiéres]] por formar [[Pèrlyi-Essartox]].
-* 1847 : Avousi sè sèpâre d’Avousi-Laquenèx-Sorrâl por formar [[Avousi]] et Laquenèx-Sorrâl.
-* 1850 : Laquenèx-Sorrâl vint [[Laquenèx]] et [[Sorrâl]].
-* 1850 : Gié sè sèpâre de Jessi por formar [[Jessi]] et [[Gié (Geneva)|Gié]].
-* 1850 : Peplinjo sè sèpâre de Presinjo por formar [[Presinjo]] et [[Peplinjo]].
-* 1851 : [[Compesiéres]] vint [[Bardenèx]] et [[Plan-de-les-Vouétes]].
-* 1851 : Bèrnèx-Ônèx-Confegnon sè sèpâront et vegnont [[Bèrnèx (Geneva)|Bèrnèx]], [[Ônèx]] et [[Confegnon]].
-* 1855 : Bèlaviua sè sèpâre de Côlèx por formar [[Côlèx-Bossi]] et [[Bèlaviua]].
-* 1858 : Âniéres sè sèpâre de Corziér por formar [[Âniéres (Geneva)|Âniéres]] et [[Corziér (Geneva)|Corziér]].
-* 1869 : Chèno-Tônèx vint [[Chèno-Bôrg]] et [[Tônèx]].
+{| class="wikitable"
+|- bgcolor="#EFEFEF"
+! Entrâ en vigor (dâta)
+! Vielyes comenes
+! Comenes novèles
+|-
+| [[1821]] || [[Compesiéres]] || [[Compesiéres]] et [[Pèrlyi-Essartox]]
+|-
+| [[1847]] || [[Avousi]] || [[Avousi]] et Laquenèx-Sorrâl
+|-
+| [[1850]] || Laquenèx-Sorrâl || [[Laquenèx]] et [[Sorrâl]]
+|-
+| [[1850]] || [[Jessi]] || [[Giéz (Geneva)|Giéz]] et [[Jessi]]
+|-
+| [[1850]] || [[Presinjo]] || [[Presinjo]] et [[Peplinjo]]
+|-
+| [[1851]] || [[Compesiéres]] || [[Bardenèx]], [[Plan-de-les-Vouétes]]
+|-
+| [[1851]] || Bèrnèx-Ônèx-Confegnon || [[Bèrnèx (Geneva)|Bèrnèx]], [[Confegnon]] et [[Ônèx]]
+|-
+| [[1855]] || [[Côlèx-Bossi]] || [[Bèlaviua]] et [[Côlèx-Bossi]]
+|-
+| [[1858]] || [[Corziér (Geneva)|Corziér]] || [[Âniéres (Geneva)|Âniéres]] et [[Corziér (Geneva)|Corziér]]
+|-
+| [[1869]] || Chèno-Tônèx || [[Chèno-Bôrg]] et [[Tônèx]]
+|}
 
 === Fusions de comenes ===
-Três comenes ant étâ rapondues a la vela de Geneva en [[1931]] :
-* [[Le Petiôt-Saquenèx]] ;
-* [[Les Égoues-Vives]] ;
-* [[Planpalès]].
+Dês la crèacion du canton, na solèta fusion de comenes s’est passâye, u cors du {{s-|XX|o}}.
+
+{| class="wikitable"
+|- bgcolor="#EFEFEF"
+! Entrâ en vigor (dâta)
+! Vielyes comenes
+! Comenes novèles
+|-
+| [[1931]] || [[Geneva]] + [[Le Petiôt-Saquenèx]] + [[Les Égoues-Vives]] + [[Planpalès]] || [[Geneva]]
+|}
 
 == Vér avouéc ==
 === Bibliografia ===
