@@ -2,30 +2,42 @@
  | color                    = EB1C24
  | color titro              = FFF
  | nom                      = {{label|Q1289}}
- | émâge                    = {{#Property:P18}}
- | lègenda                  = L’agllomèracion viua dês la Bastelye, lo tèlèfèrico de Grenoblo, la place Sent-André et lo Parlement du Dôfenât, l’Hotâl de La Deguiére dês lo Jardin de Vela et pués Grenoblo dês les rives de l’Isera.
- | blâson                   = {{#Property:P94}}
+ | émâge                    =  {{Fotomontâjo
+ | fotô1a  = Montée Chalemont juin 2015.jpg
+ | fotô2a  = Cathédrale Notre-Dame à Grenoble 2014-09-27.jpg
+ | fotô2b  = Grenoble cable cars view from Bastille.jpg
+ | fotô3a  = Place_Saint-André-Grenoble.jpg
+ | fotô3b  = GRENOBLE23.JPG
+ | fotô4a  = Grenoble_-_Cluse_de_l'Isère_by_Bertrand_MARION.tif
+ | fotô5a  = Immeuble_à_énergie_positive_Grenoble_2.JPG
+ | fotô5b  = FR Grenoble - Maison de Vaucanson courtyard.jpg
+ | talye   = 280
+ | èspâço  = 2
+ | lègenda = De hiôt en bâs, de gôche a drêta : Grenoblo et sos massis dês la Poyê Chalèmo ; Place et [[Catèdrâla Noutra-Dama de Grenoblo|catèdrâla Noutra-Dama]] ; [[Tèlèfèrico de Grenoblo Bastelye]] ; Marchiê sur la place Sant-André et [[palès du Parlement du Dôfenât]] ; [[Fontana des três ôrdres]] ; Grenoblo et les [[Ârpes]] dês lo [[Massis du Vèrcôrs|Vèrcôrs]] (viua sur la cllusa de l’Isera, la [[Massis de la Chartrosa|Chartrosa]] et [[Chêna de Bèladona|Bèladona]]) ; [[Ècoquartiér]] de Bôna (imôblo a ènèrg·ia positiva) ; Cort de dedens de l’hotâl d’Ornaciô.
+}}
+ | lègenda                  = 
+ | blâson                   = Blason ville fr Grenoble (Isere).svg
  | lègenda blâson           = #Hèraldica
- | drapél                   = {{#Property:P41}}
+ | drapél                   = 
  | lègenda drapél           = #Hèraldica
- | talye drapél             = 
+ | talye drapél             = 80
  | grafia nom1              = En [[Vouiquipèdia:Grafia de Confllens|CFLL]]
- | nomGrafia1               = 
+ | nomGrafia1               = Gren<u>ô</u>ble, Grèn<u>ô</u>blo,{{retrèt|<small>'''et pués :'''</small>}} Guèrn<u>o</u>ble, Guern<u>ô</u>ble, Guèrn<u>ô</u>blye <small>'''ou ben'''</small> Guèrn<u>ô</u>blyo, Gorn<u>ô</u>ble
  | grafia nom2              = En [[Tèrrachu]]
  | nomGrafia2               = Grenoflein<ref>{{fr}} Pierre Bozon, ''Le Pays des Villards en Maurienne'', Éditions des Cahiers de l’Alpe, Grenoblo, 1970, pâge 277.</ref>
  | racLatin                 = Culăro<br />Grātĭānŏpŏlis
  | nomFrancês               = Grenoble
  | lengouaLocâla1           = [[occitan]]
- | nomLocâl1                = Grenòble{{retrèt|<small>'''(houé)'''</small>}}Grasanòbol{{retrèt|<small>'''(u [[Moyen Âjo]])'''</small>}}
+ | nomLocâl1                = Grenòble{{retrèt|<small>'''(nôrma cllassica)'''</small>}}Grenoble{{retrèt|<small>'''(nôrma mistralenche)'''</small>}}Grasanòbol{{retrèt|<small>'''(u [[Moyen Âjo]])'''</small>}}
  | règ·ion culturâla        = {{Arpetania}}
  | règ·ion historica        = [[Dôfenât]]{{retrèt|<small>(dens lo [[Grèsivôdan]])</small>}}
  | règ·ion                  = [[Ôvèrgne-Rôno-Ârpes]]
  | dèpartament              = [[Isera (dèpartament)|Isera]] ([[prèfèctura]])
  | arrondissement           = [[Arrondissement de Grenoblo|Grenoblo]] ([[ch·èf-luè]])
  | canton                   = Quatro cantons
- | insee                    = {{#Property:P374}}
- | cp                       = {{#Property:P281}}
- | sendeco                  = [[Éric Piolle]] ([[Eropa Ècologia Los Vèrds|EELV]])
+ | insee                    = 38185
+ | cp                       = 38000, 38100
+ | sendeco                  = [[Éric Piolle]] <small>([[Eropa Ècologia Los Vèrds|EELV]])</small>
  | mandat sendeco           = [[Èlèccions municipâles de 2014 a Grenoblo|2014]]-2020
  | entèrcom                 = [[Grenoblo-Ârpes Mètropola]]
  | longitude                = 5.726945
@@ -35,62 +47,142 @@
  | supèrficie               = 18.13
  | populacion               = {{Dèrriére populacion comena de France}}<!-- Mês’a jorn ôtomatica ; pas changiér -->
  | an_pop                   = {{Dèrriére populacion comena de France|dâta}}<!-- Mês’a jorn ôtomatica ; pas changiér -->
- | populacion agllomèracion = 679863
- | an_pop agllomèracion     = 2012
- | gentilyiço               = Grenoblouès, Grenoblouèsa{{retrèt|<small>'''en [[Vouiquipèdia:Ortografia de rèference B|grafia lârge]]'''</small>}}
+ | populacion agllomèracion = 690548
+ | an_pop agllomèracion     = 2014
+ | gentilyiço               = Grenoblês, Grenoblêsa,{{retrèt|<small>'''ou ben :'''</small>}}Grenoblouès, Grenoblouèsa
  | setoVouèbe               = [http://www.grenoble.fr/ grenoble.fr]
  | g·eoloc-dèpartament      = Isera
 }}
-'''Grenoblo''' (''{{lengoua|fr|Grenoble}}'' en [[francês]]) est na [[Comena (France)|comena francêsa]] et [[Arpetania|arpetana]] du sud-èste de la [[France]], ch·èf-luè du [[Dèpartament francês|dèpartament]] de l’[[Isera (dèpartament)|Isera]], et pués vielye capitâla du [[Dôfenât]]. Trêsiéma comena de la règ·ion [[Ôvèrgne-Rôno-Ârpes]], dèrriér [[Liyon]] et [[Sant-Etiève]], Grenoblo est la comena-centro de la second’agllomèracion de cela règion aprés cela de Liyon. El est avouéc la ples granta mètropola [[Ârpes|arpenche]], devant [[Innsbruck]] et [[Bolsan]], cen que lyé vâlt lo surnom de « ''capitâla de les Ârpes'' ».
+'''Grenoblo''' (''{{lengoua|fr|Grenoble}}'' en [[francês]]) est na [[Comena (France)|comena francêsa]] et [[Arpetania|arpetana]] du sud-èste de la [[France]], ch·èf-luè du [[Dèpartament francês|dèpartament]] de l’[[Isera (dèpartament)|Isera]], et pués vielye capitâla du [[Dôfenât]]. Trêsiéma comena de la règ·ion [[Ôvèrgne-Rôno-Ârpes]], dèrriér [[Liyon]] et [[Sant-Etiève]], Grenoblo est la comena-centro de la second’agllomèracion de cela règion aprés cela de Liyon. El est avouéc la més granta mètropola [[Ârpes|arpenche]], devant [[Innsbruck]] et [[Bolsan]], cen que lyé vâlt lo surnom de « ''capitâla de les Ârpes'' ».
 
-Los habitents de la vela [[gentilyiço|sont apelâs]] los ''Grenoblouès'' et les ''Grenoblouèses''<ref>{{fr}} [http://www.habitants.fr/habitants_grenoble_38185.html Grenoble (38000) et ses habitants], viu lo 21 d’oût 2012.</ref>.
+L’[[histouère]] cognua de Grenoblo côvre un temps de més de doux mile ans. U temps galo-romen, lo bôrg gôlouès pôrte lo nom de [[Cularo]], pués celi de [[Gratianopolis]], en 377. Son importance s’acrêt pendent lo {{S-|XI}} quand los [[Lista des comtos d’Arbon pués dôfins de Viènês|comtos d’Arbon]] chouèséssont la citât coment capitâla de lor province, lo [[Dôfenât]]. Cél statut, consolidâ per l’anèccion a la France en 1349, lyé pèrmèt de dèvelopar son èconomia. Grenoblo vint vêr na vela parlementèra et militèra, a la frontiére avouéc la [[Savouè]].
+
+En 1788, la populacion sè mobilisat por parar sos parlementèros pendent la [[Jornâ de les Tioles]] en ataquent les tropes reyâles. [[Antouèno Barnâva]] et [[Jian-Josèf Moniér]] (a l’origina du famox [[Sèrment du Juè de pârma]]) furont d’ilustros actors grenoblês de la [[Rebênâda francêsa]].
+
+Lo dèvelopament endustriâl de Grenoblo comence franc u {{S-|XVIII|o}} avouéc la [[gant]]erie et pués s’accentue dens la seconda partia du {{S-|XIX|o}}, avouéc la dècuvèrta de l’[[Ènèrg·ia hidroèlèctrica|ôlyo blanc]]. Mas Grenoblo cognêt sa crèssua la més fôrta pendent los [[Trenta Glloriox]]. La tegnua des [[Juès olimpicos d’hivèrn de 1968|Juès olimpicos d’hivèrn]] simbolise cél temps de grants bolevèrsaments por la vela. Son dèvelopament continuent, Grenoblo s’afirme houé coment un grant centro scientifico eropèen<ref>{{en}} [http://archive.wikiwix.com/cache/?url=http://www.time.com/time/europe/secret/grenoble.html Secret Capitals - GRENOBLE {Nanotechnology} - Little Big Town], sur lo seto de l’èdicion eropèèna de la gazèta Time.</ref>{{,}}<ref>{{fr}} [http://www.info-economique.com/actualite/grenoble-cinquieme-ville-la-plus-innovante-au-monde-selon-forbes-83482 Grenoble, cinquième ville la plus innovante au monde, selon Forbes], viu lo 16 de julyèt 2013.</ref>. Por cen qu’est de la populacion, Grenoblo ére en 2013 la sèziéma comena de France avouéc {{nombro|160215|habitents}}<ref>{{fr}} [http://insee.fr/fr/ppp/bases-de-donnees/recensement/populations-legales/commune.asp?annee=2012&depcom=38185 Insee - Population légale de Grenoble en 2012], viu lo 26 de julyèt 2015.</ref>, son [[Unitât urbèna (France)|agllomèracion]] la diéziéma de France en 2013, avouéc {{nombro|508201|habitents}}<ref>{{fr}} [http://insee.fr/fr/themes/tableau_local.asp?ref_id=POP&millesime=2012&typgeo=UU2010&typesearch=territoire&codgeo=Grenoble+%2838701%29&territoire=OK Insee - Population de l’unité urbaine de Grenoble au recensement de 2012], viu lo 26 de julyèt 2015.</ref>, et pués son sôl urben l’onziémo asse-ben en 2013, avouéc {{nombro|684398|habitents}}<ref>{{fr}} [http://insee.fr/fr/themes/tableau_local.asp?ref_id=POP&nivgeo=AU2010&codgeo=010&millesime=2012 Insee - Évolution et structure de la population de l’aire urbaine de Grenoble], viu lo 26 de julyèt 2015.</ref>.
+
+Los habitents de la vela [[gentilyiço|sont apelâs]] los ''Grenoblês'' et les ''Grenoblêses'' ou ben los ''Grenoblouès'' et les ''Grenoblouèses''<ref>{{fr}} [http://www.habitants.fr/habitants_grenoble_38185.html Grenoble (38000) et ses habitants], viu lo 21 d’oût 2012.</ref>.
 
 == G·eografia ==
 === Localisacion ===
-Grenoblo sè trôve entre-mié les [[Ârpes]] u sud-èste de la [[France]]. Doves reviéres, l’[[Isera (reviére)|Isera]] et lo [[Drac]], pâssont per la comena.
+Grenoblo sè trôve entre-mié les [[Ârpes]] u sud-èste de la [[France]]. Doves reviéres, l’[[Isera (reviére)|Isera]] et lo [[Draf]], pâssont per la comena.
 
 === Comenes vesenes ===
-Grenoblo est la sièta de la [[Mètropola (entèrcomunalitât francêsa)|mètropola]] [[Grenoblo-Ârpes Mètropola]] (habituèlament apelâye ''La Mètrô'') que rassemble tot pariér, dês lo 1{{ér}} de janviér 2015, cetes comenes :<br />[[Bresson (Isère)|Bresson]], [[Brié-et-Angonnes]], [[Champ-sur-Drac]], [[Champagniér]], [[Cllêx (Isera)|Cllêx]], [[Corenc]], [[Domêna]], [[Échirolles]], [[Eybens]], [[Fontana (Isera)|Fontana]], [[Fontanin-Cornelyon]], [[Gières]], [[Herbeys]], [[Jarrie]], [[La Tronche]], [[Le Gua (Isère)|Le Gua]], [[Mêlan]], [[Miribel-Lanchâtre]], [[Mont-Saint-Martin (Isère)|Mont-Saint-Martin]], [[Montchaboud]], [[Môrianèta]], [[Notre-Dame-de-Commiers]], [[Notre-Dame-de-Mésage]], [[Noyarê]], [[Poisat]], [[Le Pont-de-Claix]], [[Provêziô]], [[Quêx]], [[Saint-Barthélemy-de-Séchilienne]], [[Sant-Ègrêvo]], [[Saint-Georges-de-Commiers]], [[Saint-Martin-d'Hères]], [[Sant-Martin-lo-Vinox]], [[Saint-Paul-de-Varces]], [[Saint-Pierre-de-Mésage]], [[Le Sappey-en-Chartreuse]], [[Sarcenas]], [[Sassenâjo]], [[Séchilienne]], [[Seyssinet-Pariset]], [[Seyssins]], [[Varces-Allières-et-Risset]], [[Vaulnaveys-le-Bas]], [[Vaulnaveys-le-Haut]], [[Venon (Isère)|Venon]], [[Veurey-Voroize]], [[Vif (Isère)|Vif]] et [[Vizille]].
+{{Sèccion comenes vesenes d’articllo de comena de France
+ | mapa = Grenoble et ses communes limitrophes.jpg
+ | talye mapa = 200
+ | comena = Grenoblo
+ | x=105|y=95
+ | comena vesena1 = Sant-Martin-d’Èra
+ | x1=160|y1=105
+ | comena vesena2 = Èbens
+ | x2=140|y2=160
+ | comena vesena3 = Ècherôles
+ | x3=110|y3=178
+ | comena vesena4 = Seyssins
+ | x4=55|y4=145
+ | comena vesena5 = Seyssinet-Pariset
+ | x5=40|y5=120
+ | comena vesena6 = Fontana
+ | x6=42|y6=85
+ | comena vesena7 = Sassenâjo
+ | x7=20|y7=50
+ | comena vesena8 = Sant-Ègrèvo
+ | x8=55|y8=10
+ | comena vesena9 = Sant-Martin-lo-Vinox
+ | x9=105|y9=25
+ | comena vesena10 = La Tronche
+ | x10=125|y10=60
+ | dèscripcion = Grenoblo est la sièta de la [[Mètropola (entèrcomunalitât francêsa)|mètropola]] [[Grenoblo-Ârpes Mètropola]] (habituèlament apelâye ''La Mètrô'') que rassemble tot pariér, dês lo 1{{ér}} de janviér 2015, cetes comenes :<br />[[Brèsson]], [[Briê-et-Engonos]], [[Champ (Dôfenât)|Champ]], [[Champagniér]], [[Cllês]], [[Corenc]], [[Domèna]], [[Ècherôles]], [[Èbens]], [[Fontana (Dôfenât)|Fontana]], [[Fontanil-Cornelyon]], [[Giére]], [[Hèrbês]], [[Jarria]], [[La Tronche]], [[Lo Goua]], [[Mèlan]], [[Merebél-L’Enchâtra]], [[Mont-Sant-Martin]], [[Montchabôd]], [[Môrianèta]], [[Noutra-Dama-de-Comiérs]], [[Noutra-Dama-de-Mèsâjo]], [[Noyarê]], [[Pouesat]], [[Lo Pont-de-Cllês]], [[Provêziô]], [[Quês]], [[Sant-Bartelomél-de-Sèchelyêna]], [[Sant-Ègrèvo]], [[Sant-Jôrjo-de-Comiérs]], [[Sant-Martin-d’Èra]], [[Sant-Martin-lo-Vinox]], [[Sant-Pol (Dôfenât)|Sant-Pol]], [[Sant-Pierro-de-Mèsâjo]], [[Lo Sapê]], [[Cèrcenat]], [[Sassenâjo]], [[Sèchelyêna]], [[Seyssinet-Pariset]], [[Seyssins]], [[Varces-Allières-et-Risset]], [[Vaulnaveys-le-Bas]], [[Vaulnaveys-le-Haut]], [[Venon (Isère)|Venon]], [[Veurey-Voroize]], [[Vif (Isère)|Vif]] et [[Vizille]].
 
-Cela [[Mètropola (entèrcomunalitât francêsa)|mètropola]], fêta lo 1{{ér}} de janviér 2015 compte houé quaranta-nôf comenes avouéc na soma de {{formatnum:439974}} habitents.
+Cela [[Mètropola (entèrcomunalitât francêsa)|mètropola]], fêta lo 1{{ér}} de janviér 2015 compte houé quaranta-nôf comenes por {{Unitât|444078|habitents}}.
+
+Grenoblo est vesena de diéx de les quaranta-nôf ôtres comenes que compôsont ''la Mètrô''.
+
+A titro de comparèson, la supèrficie de Grenoblo et de les comenes de sa premiére corona reprèsente ègzactament la méma supèrficie que la comena de Paris ou ben {{unitât|105.40|km|2}} mas por {{unitât|325000|habitents}}.
+
+}}
+
+=== G·eologia et relièf ===
+
+=== Cllimat ===
+
+== Urbanismo ==
+
+== Toponimia ==
 
 == Histouère ==
-La vela de Grenoblo ére la vielye capitâla du [[Dôfenât]].
+{{Articllo dètalyê|Histouère de Grenoblo|Cronologia de Grenoblo}}
+Un mouél de piéces prèhistoriques sont étâyes trovâyes a Grenoblo ou ben dens los alentôrns imèdiats, qu’atèstont na presence de l’homo et/ou d’un endrêt de passâjo. Dês l’ocupacion du Rabot a la fin du [[nèolitico]], les balyês arquèologiques sont râres cen que sè comprend quand cognessont la vitèsse de la sèdimentacion per les glliéres de l’Isera et du Draf <ref>{{fr}} [http://www.persee.fr/doc/galip_0016-4127_1969_num_12_2_1343 Aimé Bocquet, ''L’Isère préhistorique et protohistorique'', Gallia-Préhistoire, 1969-2, {{p.|274}}.]</ref>.
 
-L’[[histouère]] cognua de Grenoblo côvre un temps de més de doux mile ans. U temps galo-romen, lo bôrg gôlouès pôrte lo nom de [[Cularo]], pués celi de [[Gratianopolis]], en 377. Son importance s’acrêt pendent lo {{S-|XI}} quand los [[Lista des comtos d’Arbon pués dôfins de Viènouès|comtos d’Arbon]] chouèséssont la citât coment capitâla de lor province, lo [[Dôfenât]]. Cél statut, consolidâ per l’anèccion a la France en 1349, lyé pèrmèt de dèvelopar son èconomia. Grenoblo vint vêr na vela parlementèra et militèra, a la frontiére avouéc la [[Savouè]].
+=== Dês lo bôrg gôlouès tant qu’a la capitâla dôfinouèsa ===
+La premiére rèference a Grenoblo remonte a {{nobr|43 dev. J.-C.}}<ref group="Nota">Dedens la corrèspondance de L. Munatius Plancus, govèrnor de la [[Gôla transarpenche]] et viely luètenent de [[Julo Cèsâr|Cèsâr]] avouéc [[Cicèron]], aprés l’assassinat de Cèsâr ; citâ dens {{ôvra | nom1 = Bernard | nom de mêson1 = Rémy | titro = Grenoble à l’époque gallo-romaine d’après les inscriptions | èditor = PUG | endrêt = Grenoblo | an = 2002 | pâges totâles = | isbn = 978-2-7061-1051-1 | liére en legne = https://books.google.fr/books?id=MIoaAAAAYAAJ&q=Cularo&dq=grenoble+inscriptions+R%C3%A9my&source=gbs_word_cloud_r&cad=3 }} {{p.|25}}. Na lètra du 4 de jouen 43, onte que fât alusion a un pont (de navéls ?) empleyê per sos sordâts por passar l’Isera a Cularo, et pués fotu bâs aprés lor passâjo (''Ad familiares'', 10, 23).</ref>. U dèpârt simplo bôrg gôlouès (''vicus'') du nom de [[Cularo]], lo grôs velâjo, que sè trôve a un endrêt stratègico sur la rota romèna entre-mié [[Vièna]] et l’[[Étalia]] per lo [[Montgenêvro]], fut fortifiâye desot [[Diocllècien]] et [[Massimien Hèrculo|Massimien]] (entre-mié 284 et 293), pués arrevat u rang de ch·èf-luè de citât, a la suita de la vegnua possibla, mas pas atèstâye, de l’emperor [[Gracien]] en 379. Fut adonc rebapteyêe [[Gratianopolis]]. De tropes y campâvont en pèrmanence (''cohors prima Flavia'') et pués un èvèchiê, avouéc a sa téta l’èvèco [[Domnin de Grenoblo|Domnin]], est atèstâ u muens dês 381<ref>{{fr}} {{ôvra | nom1 = Bernard | nom de mêson1 = Rémy | titro = Grenoble à l’époque gallo-romaine d’après les inscriptions | èditor = PUG | endrêt = Grenoblo | an = 2002 | pâges totâles = | isbn = 978-2-7061-1051-1 | liére en legne = https://books.google.fr/books?id=MIoaAAAAYAAJ&q=Cularo&dq=grenoble+inscriptions+R%C3%A9my&source=gbs_word_cloud_r&cad=3 }} {{p.|35}}.</ref>.
 
-En 1788, la populacion sè mobilisat por parar sos parlementèros pendent la [[Jornâ de les Tioles]] en ataquent les tropes reyâles. [[Antouèno Barnâva]] et [[Jian-Josèf Moniér]] (a l’origina du famox [[Sèrment du Juè de pârma]]) furont d’ilustros actors grenoblouès de la [[Rebênâda francêsa]].
+[[Fichiér:Blason province fr Dauphine.svg|figura|upright=.5|Lo blâson du Dôfenât.]]
+[[Fichiér:François de Bonne.jpg|figura|gôche|[[Françouès de Bôna de La Deguiére|Françouès de Bôna]] (1543 - 1626), duc de La Deguiére.]]
+Fôt atendre lo {{s-|XI}}, por vêre l’importance de la citât ôgmentar considèrâblament, quand los [[Lista des comtos d’Arbon pués dôfins de Viènês|comtos d’Arbon, futuros dôfins de Viènês]], la chouèséront coment capitâla de lors Ètats, la futura [[province du Dôfenât]]<ref>{{fr}} Félix Vernay, ''Petite histoire du Dauphiné'', 1933, {{p.|9}}.</ref>. Grenoblo sè retrovat adonc capitâla d’un Ètat endèpendent u dedens du [[Sant-Empiro romen gèrmanico]]. En 1219, Grenoblo cognêt sa [[Inondacion de Grenoblo en 1219|pir inondacion]], veré [[dèlujo]] diu a la ruptura d’un [[barrâjo naturâl]] formâ dens la [[Uesens|valâ de la Romanche]] et côsent un mouél de môrts.
 
-Lo dèvelopament endustriâl de Grenoblo comence franc u {{S-|XVIII|o}} avouéc la [[gant]]erie et pués s’accentue dens la seconda partia du {{S-|XIX|o}}, avouéc la dècuvèrta de l’[[Ènèrg·ia hidroèlèctrica|ôlyo blanc]]. Mas Grenoblo cognêt sa crèssua la ples fôrta pendent los [[Trenta Glloriox]]. La tegnua des [[Juès olimpicos d’hivèrn de 1968|Juès olimpicos d’hivèrn]] simbolise cél temps de grants bolevèrsaments por la vela. Son dèvelopament continuent, Grenoblo s’afirme houé coment un grant centro scientifico eropèen<ref>{{en}} [http://archive.wikiwix.com/cache/?url=http://www.time.com/time/europe/secret/grenoble.html Secret Capitals - GRENOBLE {Nanotechnology} - Little Big Town], sur lo seto de l’èdicion eropèèna de la gazèta Time.</ref>{{,}}<ref>{{fr}} [http://www.info-economique.com/actualite/grenoble-cinquieme-ville-la-plus-innovante-au-monde-selon-forbes-83482 Grenoble, cinquième ville la plus innovante au monde, selon Forbes], viu lo 16 de julyèt 2013.</ref>. Por cen qu’est de la populacion, Grenoblo ére en 2013 la sèziéma comena de France avouéc {{nombro|160215|habitents}}<ref>{{fr}} [http://insee.fr/fr/ppp/bases-de-donnees/recensement/populations-legales/commune.asp?annee=2012&depcom=38185 Insee - Population légale de Grenoble en 2012], viu lo 26 de julyèt 2015.</ref>, son [[Unitât urbèna (France)|agllomèracion]] la diéziéma de France en 2013, avouéc {{nombro|508201|habitents}}<ref>{{fr}} [http://insee.fr/fr/themes/tableau_local.asp?ref_id=POP&millesime=2012&typgeo=UU2010&typesearch=territoire&codgeo=Grenoble+%2838701%29&territoire=OK Insee - Population de l’unité urbaine de Grenoble au recensement de 2012], viu lo 26 de julyèt 2015.</ref>, et pués son sôl urben l’onziémo asse-ben en 2013, avouéc {{nombro|684398|habitents}}<ref>{{fr}} [http://insee.fr/fr/themes/tableau_local.asp?ref_id=POP&nivgeo=AU2010&codgeo=010&millesime=2012 Insee - Évolution et structure de la population de l’aire urbaine de Grenoble], viu lo 26 de julyèt 2015.</ref>.
+Los dôfins succèssifs fondéront l’[[Univèrsitât de Grenoblo (univèrsitât disparua)|univèrsitât]] en [[1338]] et pués lo [[Consèly dèlfinâl]] s’enstalat a Grenoblo en [[1340]]. Pendent la [[guèrra de Cent Ans]], los nôblos dôfinouès participéront ux dèsacôrds contre l’[[Anglletèrra]] et sos aliâs.
+
+En [[1349]], la vela sè retrovat rapondua u reyômo de France a la suita du transfèrt (et pas rachat) du Dôfenât a la corona de France et Grenoblo vegnét capitâla provinciâla. La presence entre-mié 1447 et 1456 du [[Dôfenât#Administracion de Louis XI (1447-1456)|dôfin]], lo futuro [[Louis XI|Louis {{XI}}]], renforciét cél statut de vela parlementèra avouéc la crèacion du trêsiémo [[Parlement (Reyômo de France)|Parlement]] de France<ref>{{fr}} Félix Vernay, ''Petite histoire du Dauphiné'', 1933, {{p.|58}}.</ref>. La vela vegnét asse-ben la sièta de garnisons, a la frontiére avouéc lo [[duch·iê de Savouè]]. S’afirmat coment la principâla vela de la province. Pendent les [[guèrres d’Étalia]], los nôblos dôfinouès sè rendéront particuliérement famox desot la figura de [[Pierro Tèrraly de Bayârd|Bayârd]]<ref>{{fr}} Félix Vernay, ''Petite histoire du Dauphiné'', 1933, {{p.|78}}.</ref>, lo « chevaliér sen pouere et sen reprôjo ».
+
+Grenoblo ut a sofrir d’afrontaments de les [[Guèrres de Religion (France)|guèrres de Religion]] et pués nen sortét afèblia. Furont marcâs per un mouél de [[Dôfenât#Guèrres de Religion (1562-1590)|massacros et dèstruccions]]. Los dèsacôrds préront fin avouéc la dèrriére victouère de [[Françouès de Bôna de La Deguiére|La Deguiére]], quand betat la man dessus Grenoblo en 1590. Vegnu administrator du Dôfenât, changiét et agrantét considèrâblament la capitâla dôfinouèsa<ref>{{fr}} Vidal Chaumel, ''Histoire de Grenoble'', éditions Privat, {{p.|68, 123, 126, 223}}.</ref> et pués lanciét notament la construccion de la premiére g·ènèracion de les fortificacions de la Bastelye.
+
+== Politica et administracion ==
+
+=== Lista des sendecos ===
+
+=== Relacions entèrnacionâles ===
+==== Bessonâjos ====
 
 == Populacion et sociètât ==
-Los habitents de la vela [[gentilyiço|sont apelâs]] los ''Grenoblouès'' et les ''Grenoblouèses'' (''Grenoblois'' et ''Grenobloises'' en [[francês]]).
+Los habitents de la vela [[gentilyiço|sont apelâs]] los ''Grenoblês'' et les ''Grenoblêses'' ou ben los ''Grenoblouès'' et les ''Grenoblouèses'' (''Grenoblois'' et ''Grenobloises'' en [[francês]]).
+
+=== Dèmografia ===
+
+=== Lengoues ===
+
+=== Ensègnament ===
+* [[Univèrsitât Grenoblo-Ârpes]].
+
+== Èconomia ==
 
 == Cultura locâla et patrimouèno ==
-* [[Musê dôfenen]]
-* Grenoblo Jazz Festivâl
+=== Endrêts et monuments ===
 
-== Èducacion ==
-* l’univèrsitât de Grenoblo
+=== Patrimouèno culturâl ===
+* [[Musê dôfenen]].
 
-== Hèraldica ==
-<gallery>
-Blason ville fr Grenoble (Isere).svg|Lo blâson de Grenoblo
-</gallery>
+=== Sports ===
+Los clubes sportifs grenoblês los més cognus sont lo [[Football Club de Grenoble rugby|FC Grenoblo rugbi (FCG)]] en [[Rugbi a XV|rugbi]], lo [[Grenoble Foot 38|Grenoblo Calço 38 (GF38)]] en [[calço]] et pués los [[Grenoble métropole hockey 38|Broulors de lops (BDL)]] en [[hoquê sur gllace]].
 
-== Sports ==
-Los clubes sportifs grenoblouès los ples cognus sont lo [[Football Club de Grenoble rugby|FC Grenoblo rugbi (FCG)]] en [[Rugbi a XV|rugbi]], lo [[Grenoble Foot 38|Grenoblo Calço 38 (GF38)]] en [[calço]] et pués los [[Grenoble métropole hockey 38|Broulors de lops (BDL)]] en [[hoquê sur gllace]].
+=== Pèrsonalitâts liyêes a la comena ===
+
+=== Bôna-chiéra ===
+
+=== Èvènements ===
+* [[Grenoblo Djaz Fèstivâl]].
+
+=== Hèraldica ===
+[[Fichiér:Blason ville fr Grenoble (Isere).svg|figura|gôche|100px|Lo blâson de Grenoblo.]]
+
+== Galeria d’émâges ==
 
 == Vêre avouéc ==
 {{Commons|Category:Grenoble}}
+=== Bibliografia ===
+
+=== Lims de defôr ===
 
 == Notes et rèferences ==
 === Notes ===
+{{Rèferences|groupo=Nota}}
 
 === Rèferences ===
 <references />
 
 [[Catègorie:Grenoblo|*]]
+[[Catègorie:Vela francêsa]]
 [[Catègorie:Comena de l’Isera]]
 [[Catègorie:Vela arpetana]]
 [[Catègorie:Comena Compagnon de la Libèracion]]
