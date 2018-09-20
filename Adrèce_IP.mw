@@ -1,17 +1,3 @@
-== Détermination et utilisation des adresses dans un réseau IP ==
-Dans la version 4 du protocole, l'adresse IP d'un [[ordinateur]] lui est généralement automatiquement transmise et assignée au [[boot|démarrage]] grâce au protocole ''[[Dynamic Host Configuration Protocol]]'' (DHCP). Sinon, il est également possible de fixer l'adresse IP d'un ordinateur dans la configuration de son [[système d'exploitation]] ; des mécanismes d'autoconfiguration existent également.
-
-Dans la version 6, le principe de l'autoconfiguration est renforcé.
-
-Chaque donnée transmise par le protocole Internet est étiquetée avec deux adresses IP pour identifier l'expéditeur et le destinataire. Le réseau utilise l'adresse de destination pour transmettre la donnée. Le destinataire sait à qui répondre grâce à l'adresse IP de l'expéditeur. Chaque composant connecté au réseau doit donc posséder au moins une adresse IP pour établir des connexions.
-
-===Plus techniquement===
-Dans chaque [[trame (informatique)|trame]] envoyée à l'aide du protocole IP, l'en-tête spécifie le couple (''adresse IP du destinataire'', ''adresse IP de l'émetteur'') afin de permettre au protocole de [[routage]] de router la trame correctement et à la machine destinataire de connaître l'origine des informations qu'elle reçoit, donc d'y répondre si besoin est.
-
-Une ou plusieurs adresses IP peuvent être assignées à un hôte. Cette assignation pourra se faire soit manuellement (notamment en IPv4) , soit automatiquement par le biais d'un protocole adéquat (comme [[Dynamic Host Configuration Protocol|DHCP]] ou [[RARP]] ou en IPv6).
-
-L'adresse IP est principalement utilisée pour acheminer les données jusqu'au réseau où se trouve la machine de destination, ensuite, dans le cas d'IPv4,  c'est la table [[Address Resolution Protocol|ARP]] de la dernière [[Passerelle (informatique)|passerelle]] qui est sollicitée pour convertir l'adresse IP en [[adresse MAC]].
-
 ==Adresse IP et nom de domaine==
 La plupart des adresses IP peuvent être converties en un [[nom de domaine]] et inversement. Le nom de domaine est plus facilement lisible pour les humains : <code>fr.wikipedia.org</code> est le nom de domaine correspondant à <code>212.85.150.133</code>. Il s'agit du système de [[résolution de noms]].
 
