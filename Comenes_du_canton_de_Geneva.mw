@@ -29,13 +29,6 @@ Le canton s’èpate asse-ben sur le [[Lèman|lèc Lèman]], sen que cela zona s
 | align=right | {{smn|{{#expr: {{supèrficie suissa|CH-GE|ofs=6602}} /100 round 2}}|6|100}} 
 | align=right | {{densitât populacion suissa|CH-GE|ofs=6602}}
 |-
-| [[Fichiér:Avully-coat of arms.svg|20px]] '''[[Avouelyi]]'''
-| Avully
-| align=right | 6603 
-| align=right | {{smn|{{populacion suissa|CH-GE|ofs=6603}}|6}} 
-| align=right | {{smn|{{#expr: {{supèrficie suissa|CH-GE|ofs=6603}} /100 round 2}}|6|100}} 
-| align=right | {{densitât populacion suissa|CH-GE|ofs=6603}}
-|-
 | [[Fichiér:Avusy-coat of arms.svg|20px]] '''[[Avousi]]'''
 | Avusy
 | align=right | 6604 
@@ -343,6 +336,13 @@ Le canton s’èpate asse-ben sur le [[Lèman|lèc Lèman]], sen que cela zona s
 | align=right | {{smn|{{populacion suissa|CH-GE|ofs=6644}}|6}}
 | align=right | {{smn|{{#expr: {{supèrficie suissa|CH-GE|ofs=6644}} /100 round 2}}|6|100}} 
 | align=right | {{densitât populacion suissa|CH-GE|ofs=6644}}
+|-
+| [[Fichiér:Avully-coat of arms.svg|20px]] '''[[Vouelyi]]'''
+| Avully
+| align=right | 6603 
+| align=right | {{smn|{{populacion suissa|CH-GE|ofs=6603}}|6}} 
+| align=right | {{smn|{{#expr: {{supèrficie suissa|CH-GE|ofs=6603}} /100 round 2}}|6|100}} 
+| align=right | {{densitât populacion suissa|CH-GE|ofs=6603}}
 |- class="sortbottom"
 ! Soma !!  !!  !! style="text-align:right" | {{smn|{{populacion suissa|CH-GE|ofs=CH-GE}}|6}}|| {{smn|{{#expr: {{supèrficie suissa|CH-GE|ofs=CH-GE}} /100 round 2}}|6|100}} || {{densitât populacion suissa|CH-GE|ofs=CH-GE}}
 |}
@@ -350,7 +350,7 @@ Le canton s’èpate asse-ben sur le [[Lèman|lèc Lèman]], sen que cela zona s
 U nord-èste, la comena de [[Felegni]] est pas ategnenta avouéc le résto du tèrritouèro du canton ; el’est composâye de doux morséls endèpendents, [[Encllâva|encllavâs]] dediens le [[Quenton de Vôd|canton de Vôd]].
 
 == Règ·ions genevêses ==
-* La [[Champagne (Geneva)|Champagne]] : contint les sèpt comenes d’Avouelyi, Avousi, Cartegni, Chanci, Ére-la-Vela, Laquenèx et Sorrâl ;
+* La [[Champagne (Geneva)|Champagne]] : contint les sèpt comenes d’Avousi, Cartegni, Chanci, Ére-la-Vela, Laquenèx, Sorrâl et Vouelyi ;
 
 * Le [[Mandament (Geneva)|Mandament]] : dèsigne orendrêt na règ·ion viticola importanta composâye de les comenes de Dardagni, Russin et Sategni.
 
