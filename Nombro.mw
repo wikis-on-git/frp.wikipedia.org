@@ -25,7 +25,7 @@ Vê-que na lista des nombros en [[arpetan]] :
 |-
 | align="right" | 4 || quatro<ref group="N">Y at avouéc na fôrma de liyèson, por ègzemplo : '''''entre-mié quatros uelys'''''.</ref> ||
 |-
-| align="right" | 5 || cinq<ref group="N">Y at asse-ben na fôrma de liyèson, por ègzemplo : '''''cinqs uséls'''''.</ref> || çinq
+| align="right" | 5 || cinq<ref group="N">Y at asse-ben na fôrma de liyèson, por ègzemplo : '''''cinqs uséls''''' ; <u>mas</u> : '''''cinq ans'''''.</ref> || çinq
 |-
 | align="right" | 6 || siéx ||
 |-
@@ -65,6 +65,8 @@ Vê-que na lista des nombros en [[arpetan]] :
 |-
 | align="right" | 31 || trenta et yon || trenta yon
 |-
+| align="right" | 32 || trenta doux ||
+|-
 | align="right" | 40 || quaranta ||
 |-
 | align="right" | 50 || cinquanta || çinquanta
@@ -79,13 +81,19 @@ Vê-que na lista des nombros en [[arpetan]] :
 |-
 | align="right" | 100 || cent || çent
 |-
+| align="right" | 101 || cent yon || çent yon
+|-
 | align="right" | 120 || cent vengt || çent vengt<br />siéx-vengts<br />siéx-vingts<br />siéx-viengts
 |-
 | align="right" | 200 || doux cents || doux çents
 |-
 | align="right" | {{formatnum:1000}} || mile ||
 |-
+| align="right" | {{formatnum:1001}} || mile yon ||
+|-
 | align="right" | {{formatnum:2000}} || doux mile ||
+|-
+| align="right" | {{formatnum:2001}} || doux mile yon ||
 |-
 | align="right" | {{nobr|1 000 000}} || un [[milyon]] ||
 |}
