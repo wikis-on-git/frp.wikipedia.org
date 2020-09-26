@@ -1,56 +1,103 @@
 {{Grafia RèfB}}
-Lo '''Nombro''' endique na quantitât.
+{{Ôtro|la nocion de nombro en lengouistica|Nombro gramaticâl}}
+Un '''nombro''' est un [[Concèpto (filosofia)|concèpto]] que pèrmèt d’èstimar et de [[Relacion d’ôrdre|comparar]] des quantitâts ou ben des [[Ôrdre de grantior|rapôrts de grantiors]], mas asse-ben d’ordonar des piéces per na numerotacion<ref>{{fr}} {{CNRTL|Nombre|Nombro ordenâl}}</ref>. Sovent [[Ècritura|ècrits]] avouéc yon ou ben un mouél de [[chifro]]s, los nombros entèrag·éssont per lo biès d’[[Opèracion (matèmatiques)|opèracions]] que sont rèsumâyes per des règlles de [[Carculo (matèmatiques)|carculo]]. Les propriètâts de celes relacions entre-mié los nombros sont la chousa d’ètuda de l’[[aritmètica]], que sè prolonge avouéc la [[tèoria des nombros]].
 
-Los nombros en [[Arpetan]]:
+En l’absence d’una dèfinicion g·ènèrâla satisfassenta de cela nocion<ref>Lo ''Petit Robert de la langue française'' et lo ''Trésor de la Langue Française Informatisé'' rapôrtont que « lo nombro est yona de les nocions fondamentâles de l’entendement […] que pôvont pas dèfenir. » Lo ''Petit Larousse illustré'' sotint que lo nombro « pôt pas fâre la chousa d’una dèfinicion rêda ».</ref>, les [[matèmatiques]] propôsont un mouél de tipos de nombros por èxprimar des [[Mesera fesica|meseres fesiques]], trovar la solucion des [[èquacion]]s, vêr por apréhendar l’[[enfeni]].
 
-{| class="wikitable"
-! Nombre !! Arpetan
+En [[fesica]], les grantiors sen dimension sont sovent apelâyes « nombros », coment lo [[nombro de Reynolds]] en mècanica des flluidos ou ben los [[Nombro quantico|nombros quanticos]].
+
+En defôr de lor usâjo scientifico, doux-três nombros ant étot reçus na charge [[Simbolico|simbolica]] fôrta dedens difèrentes cultures. O est per ègzemplo lo câs du [[Trinitât (cristianismo)|nombro três por ls crètiens]] ou ben du [[Tètraktys|nombro diéx por los pitagoriciens]].
+
+== Nombros en arpetan ==
+
+Vê-que na lista des nombros en [[arpetan]] :
+{| class="wikitable" border="1" cellspacing="0" cellpadding="3"
 |-
-| 1 || yon, un / una
+! Valor !! Nom !! Ôtros noms
 |-
-| 2 || doux / doves
+| align="right" | 0 || zérô ||
 |-
-| 3 || três 
+| align="right" | 1 || yon, yona || yena
 |-
-| 4 || quatro
+| align="right" | 2 || doux, doves ||
 |-
-| 5 || cinq
+| align="right" | 3 || três ||
 |-
-| 6 || siéx
+| align="right" | 4 || quatro<ref group="N">Y at avouéc na fôrma de liyèson, por ègzemplo : '''''entre-mié quatros uelys'''''.</ref> ||
 |-
-| 7 || sèpt
+| align="right" | 5 || cinq<ref group="N">Y at asse-ben na fôrma de liyèson, por ègzemplo : '''''cinqs uséls'''''.</ref> || çinq
 |-
-| 8 || huet
+| align="right" | 6 || siéx ||
 |-
-| 9 || nôf
+| align="right" | 7 || sèpt || sèpte
 |-
-| 10 || diéx
+| align="right" | 8 || huét || huéte
 |-
-| 11 || onze
+| align="right" | 9 || nôf<ref group="N">Devant '''hores''', y at na liyèson en {{AFE|[v]}}.<br />A [[Sant-Etiève]] diont : '''''n’hores'''''.</ref> ||
 |-
-| 12 || doze
+| align="right" | 10 || diéx ||
 |-
-| 13 || trèze
+| align="right" | 11 || onze || onge
 |-
-| 14 || quatorze
+| align="right" | 12 || doze || doge
 |-
-| 15 || quinze
+| align="right" | 13 || trèze || trège
 |-
-| 16 || sèze
+| align="right" | 14 || quatôrze || quatôrge
 |-
-| 17 || diéx-sèpt
+| align="right" | 15 || quinze || quinge
 |-
-| 18 || diéx-huet
+| align="right" | 16 || sèze || sège
 |-
-| 19 || diéx-nôf
+| align="right" | 17 || diéx-et-sèpt || diéx-et-sèpte
 |-
-| 20 || vengt, viengt
+| align="right" | 18 || diéx-et-huét || diéx-et-huéte
 |-
-| 100 || cent
+| align="right" | 19 || diéx-et-nôf ||
 |-
-| 1000 || mile
+| align="right" | 20 || vengt || vingt<br />viengt
 |-
-| 1 000 000 || yon milyon
+| align="right" | 21 || vengt et yon || vengt yon<br />vingt et yon, vingt yon<br />viengt et yon, viengt yon
+|-
+| align="right" | 22 || vengt doux || vingt doux<br />viengt doux
+|-
+| align="right" | 30 || trenta ||
+|-
+| align="right" | 31 || trenta et yon || trenta yon
+|-
+| align="right" | 40 || quaranta ||
+|-
+| align="right" | 50 || cinquanta || çinquanta
+|-
+| align="right" | 60 || souessanta || três-vengts<br />três-vingts<br />três-viengts
+|-
+| align="right" | 70 || sèptanta || souessanta-diéx
+|-
+| align="right" | 80 || huétanta || quatro-vengts<br />quatro-vingts<br />quatro-viengts
+|-
+| align="right" | 90 || nonanta || quatro-vengt-diéx<br />quatro-vingt-diéx<br />quatro-viengt-diéx
+|-
+| align="right" | 100 || cent || çent
+|-
+| align="right" | 120 || cent vengt || çent vengt<br />siéx-vengts<br />siéx-vingts<br />siéx-viengts
+|-
+| align="right" | 200 || doux cents || doux çents
+|-
+| align="right" | {{formatnum:1000}} || mile ||
+|-
+| align="right" | {{formatnum:2000}} || doux mile ||
+|-
+| align="right" | {{nobr|1 000 000}} || un [[milyon]] ||
 |}
 
-[[Catègorie:Nombro| ]]
+== Notes et rèferences ==
+=== Notes ===
+{{Rèferences|groupo=N}}
+
+=== Vocabulèro ===
+{{Rèferences|groupo=V}}
+
+=== Rèferences ===
+<references />
+
+[[Catègorie:Nombro]]
