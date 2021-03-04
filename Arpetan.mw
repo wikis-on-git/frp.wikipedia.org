@@ -80,25 +80,25 @@ Celos dialèctos sont pas catègorisâs d’aprés un critèro lengouistico avou
 
 == Fonologia ==
 === Voyèles ===
-{| class="wikitable" cellpadding="5" cellspacing="0" align="center"
+{| class="wikitable" cellpadding="5" cellspacing="0" align="center" style="width:200px"
 |+
 |-
-! || - || ^ || ` || -n || -e || 
+!width=100px|  ||width=100px| - ||width=100px| ^ ||width=100px | ` ||width=100px | -n ||width=100px | -e
 |-
 !a 
-|| a/ɑ || ɑ/o || &nbsp; ||ã || &nbsp;
+|| a/ɑ || ɑ/o ||style="background:#CCC"| &nbsp; ||ã || &nbsp;
 |-
 !e
-||e || eː || ɛ ||rowspan="2"| '''ĩ''' || &nbsp;
+||e || eː || ɛ ||rowspan="2"| '''ĩ''' ||style="background:#CCC"| &nbsp;
 |-
 ! i 
-| i || ɨ || &nbsp; || &nbsp; 
+| i || ɨ ||style="background:#CCCFCC"| &nbsp; ||style="background:#CCC"| &nbsp; 
 |-
 ! o 
-| u || oː ||&nbsp; || rowspan="2" | '''õ''' || rowspan="2" | '''we'''
+| u || oː ||style="background:#CCC"|&nbsp; || rowspan="2" | '''õ''' || rowspan="2" | '''we'''
 |-
 !u 
-|| y || ø || &nbsp;
+|| y || ø ||style="background:#CCC"| &nbsp;
 |}
 
 === Consones ===
