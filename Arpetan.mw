@@ -80,14 +80,47 @@ Celos dialèctos sont pas catègorisâs d’aprés un critèro lengouistico avou
 
 == Fonologia ==
 === Voyèles ===
-<table border="1" cellpadding="5" cellspacing="0" align="center">
-<tr align="center" style="background: #dfdfdf"><th>&nbsp;</th><th>-</th><th>^</th><th>`</th><th>-n</th><th>-e</th></tr>
-<tr align="center"><th style="background: #dfdfdf">a</th><th>a / ɑ</th><th>ɑ / o</th><th style="background: #afafaf">&nbsp;</th><th>ã</th><th>&nbsp;</th></tr>
-<tr align="center"><th style="background: #dfdfdf">e</th><th>e</th><th>eː</th><th>ɛ</th><th ROWSPAN=2>ĩ</th><th style="background: #afafaf">&nbsp;</th></tr>
-<tr align="center"><th style="background: #dfdfdf">i</th><th>i</th><th>ɨ</th><th style="background: #afafaf">&nbsp;</th><th style="background: #afafaf">&nbsp;</th></tr>
-<tr align="center"><th style="background: #dfdfdf">o</th><th>u</th><th>oː</th><th style="background: #afafaf">&nbsp;</th><th ROWSPAN=2>õ</th><th ROWSPAN=2>we</th></tr>
-<tr align="center"><th style="background: #dfdfdf">u</th><th>y</th><th>ø</th><th style="background: #afafaf">&nbsp;</th></tr>
-</table>
+{| class="wikitable" cellpadding="5" cellspacing="0" align="center"
+|+
+!
+!-
+!^
+!`
+!-n
+!-e
+|-
+!a
+|a / ɑ
+|ɑ / o
+|&nbsp;
+|ã
+|&nbsp;
+|-
+!e
+|e
+|eː
+|ɛ
+| rowspan="2" |'''ĩ'''
+|&nbsp;
+|-
+!i
+|i
+|ɨ
+|&nbsp;
+|&nbsp;
+|-
+!o
+|u
+|oː
+|&nbsp;
+| rowspan="2" |'''õ'''
+| rowspan="2" |'''we'''
+|-
+!u
+|y
+|ø
+|&nbsp;
+|}
 
 === Consones ===
 
