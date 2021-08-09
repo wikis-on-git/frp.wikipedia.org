@@ -11,34 +11,34 @@ Louis Braille at proposâ ceti sistèmo de bâse, qu’est usâ dens la majorit�
 
 {| class="wikitable" style="line-height: 1.2"
 |-
-|{{brl|⠁|4}} <br /> <center>[[A (lètra)|a]]</center>
-|{{brl|⠃|4}} <br /> <center>[[B (lètra)|b]]</center>
-|{{brl|⠉|4}} <br /> <center>[[C (lètra)|c]]</center>
-|{{brl|⠙|4}} <br /> <center>[[D (lètra)|d]]</center>
-|{{brl|⠑|4}} <br /> <center>[[E (lètra)|e]]</center>
-|{{brl|⠋|4}} <br /> <center>[[F (lètra)|f]]</center>
-|{{brl|⠛|4}} <br /> <center>[[G (lètra)|g]]</center>
-|{{brl|⠓|4}} <br /> <center>[[H (lètra)|h]]</center>
-|{{brl|⠊|4}} <br /> <center>[[I (lètra)|i]]</center>
-|{{brl|⠚|4}} <br /> <center>[[J (lètra)|j]]</center>
+|{{brl|⠁|4}} <br /> <div class="center">[[A (lètra)|a]]</div>
+|{{brl|⠃|4}} <br /> <div class="center">[[B (lètra)|b]]</div>
+|{{brl|⠉|4}} <br /> <div class="center">[[C (lètra)|c]]</div>
+|{{brl|⠙|4}} <br /> <div class="center">[[D (lètra)|d]]</div>
+|{{brl|⠑|4}} <br /> <div class="center">[[E (lètra)|e]]</div>
+|{{brl|⠋|4}} <br /> <div class="center">[[F (lètra)|f]]</div>
+|{{brl|⠛|4}} <br /> <div class="center">[[G (lètra)|g]]</div>
+|{{brl|⠓|4}} <br /> <div class="center">[[H (lètra)|h]]</div>
+|{{brl|⠊|4}} <br /> <div class="center">[[I (lètra)|i]]</div>
+|{{brl|⠚|4}} <br /> <div class="center">[[J (lètra)|j]]</div>
 |-
-|{{brl|⠅|4}} <br /> <center>[[K (lètra)|k]]</center>
-|{{brl|⠇|4}} <br /> <center>[[L (lètra)|l]]</center>
-|{{brl|⠍|4}} <br /> <center>[[M (lètra)|m]]</center>
-|{{brl|⠝|4}} <br /> <center>[[N (lètra)|n]]</center>
-|{{brl|⠕|4}} <br /> <center>[[O (lètra)|o]]</center>
-|{{brl|⠏|4}} <br /> <center>[[P (lètra)|p]]</center>
-|{{brl|⠟|4}} <br /> <center>[[Q (lètra)|q]]</center>
-|{{brl|⠗|4}} <br /> <center>[[R (lètra)|r]]</center>
-|{{brl|⠎|4}} <br /> <center>[[S (lètra)|s]]</center>
-|{{brl|⠞|4}} <br /> <center>[[T (lètra)|t]]</center>
+|{{brl|⠅|4}} <br /> <div class="center">[[K (lètra)|k]]</div>
+|{{brl|⠇|4}} <br /> <div class="center">[[L (lètra)|l]]</div>
+|{{brl|⠍|4}} <br /> <div class="center">[[M (lètra)|m]]</div>
+|{{brl|⠝|4}} <br /> <div class="center">[[N (lètra)|n]]</div>
+|{{brl|⠕|4}} <br /> <div class="center">[[O (lètra)|o]]</div>
+|{{brl|⠏|4}} <br /> <div class="center">[[P (lètra)|p]]</div>
+|{{brl|⠟|4}} <br /> <div class="center">[[Q (lètra)|q]]</div>
+|{{brl|⠗|4}} <br /> <div class="center">[[R (lètra)|r]]</div>
+|{{brl|⠎|4}} <br /> <div class="center">[[S (lètra)|s]]</div>
+|{{brl|⠞|4}} <br /> <div class="center">[[T (lètra)|t]]</div>
 |-
-|{{brl|⠥|4}} <br /> <center>[[U (lètra)|u]]</center>
-|{{brl|⠧|4}} <br /> <center>[[V (lètra)|v]]</center>
-|{{brl|⠺|4}} <br /> <center>[[W (lètra)|w]]</center>
-|{{brl|⠭|4}} <br /> <center>[[X (lètra)|x]]</center>
-|{{brl|⠽|4}} <br /> <center>[[Y (lètra)|y]]</center>
-|{{brl|⠵|4}} <br /> <center>[[Z (lètra)|z]]</center>
+|{{brl|⠥|4}} <br /> <div class="center">[[U (lètra)|u]]</div>
+|{{brl|⠧|4}} <br /> <div class="center">[[V (lètra)|v]]</div>
+|{{brl|⠺|4}} <br /> <div class="center">[[W (lètra)|w]]</div>
+|{{brl|⠭|4}} <br /> <div class="center">[[X (lètra)|x]]</div>
+|{{brl|⠽|4}} <br /> <div class="center">[[Y (lètra)|y]]</div>
+|{{brl|⠵|4}} <br /> <div class="center">[[Z (lètra)|z]]</div>
 |&nbsp;
 |&nbsp;
 |&nbsp;
@@ -56,21 +56,21 @@ Dens lo sistèmo inicial, Louis Braille at proposâ de diacriticos por lo franc�
 
 {| class="wikitable" style="line-height: 1.2"
 |-
-|{{brl|⠷|4}} <br /> <center>[[à]]</center>
-|{{brl|⠡|4}} <br /> <center>[[â]]</center>
-|{{brl|⠯|4}} <br /> <center>[[ç]]</center>
-|{{brl|⠮|4}} <br /> <center>[[è]]</center>
-|{{brl|⠿|4}} <br /> <center>[[é]]</center>
-|{{brl|⠣|4}} <br /> <center>[[ê]]</center>
-|{{brl|⠫|4}} <br /> <center>[[ë]]</center>
+|{{brl|⠷|4}} <br /> <div class="center">[[à]]</div>
+|{{brl|⠡|4}} <br /> <div class="center">[[â]]</div>
+|{{brl|⠯|4}} <br /> <div class="center">[[ç]]</div>
+|{{brl|⠮|4}} <br /> <div class="center">[[è]]</div>
+|{{brl|⠿|4}} <br /> <div class="center">[[é]]</div>
+|{{brl|⠣|4}} <br /> <div class="center">[[ê]]</div>
+|{{brl|⠫|4}} <br /> <div class="center">[[ë]]</div>
 |-
-|{{brl|⠩|4}} <br /> <center>[[î]]</center>
-|{{brl|⠻|4}} <br /> <center>[[ï]]</center>
-|{{brl|⠹|4}} <br /> <center>[[ô]]</center>
-|{{brl|⠪|4}} <br /> <center>[[œ]]</center>
-|{{brl|⠾|4}} <br /> <center>[[ù]]</center>
-|{{brl|⠱|4}} <br /> <center>[[û]]</center>
-|{{brl|⠳|4}} <br /> <center>[[ü (lètra)|ü]]</center>
+|{{brl|⠩|4}} <br /> <div class="center">[[î]]</div>
+|{{brl|⠻|4}} <br /> <div class="center">[[ï]]</div>
+|{{brl|⠹|4}} <br /> <div class="center">[[ô]]</div>
+|{{brl|⠪|4}} <br /> <div class="center">[[œ]]</div>
+|{{brl|⠾|4}} <br /> <div class="center">[[ù]]</div>
+|{{brl|⠱|4}} <br /> <div class="center">[[û]]</div>
+|{{brl|⠳|4}} <br /> <div class="center">[[ü (lètra)|ü]]</div>
 |}
 
 === Diacriticos por l’arpitan ===
@@ -79,23 +79,23 @@ Nos povens iqui proposar de diacriticos propres a l’arpitan:
 
 {| class="wikitable" style="line-height: 1.2"
 |-
-|{{brl|⠡|4}} <br /> <center>[[â]]</center>
-|{{brl|⠯|4}} <br /> <center>[[ç]]</center>
-|{{brl|⠩|4}} <br /> <center>[[ch]]</center>
-|{{brl|⠱|4}} <br /> <center>[[ch·]]</center>
-|{{brl|⠹|4}} <br /> <center>[[dy]]</center>
-|{{brl|⠣|4}} <br /> <center>[[è]]</center>
-|{{brl|⠳|4}} <br /> <center>[[ê]]</center>
-|{{brl|⠱|4}} <br /> <center>[[é]]</center>
+|{{brl|⠡|4}} <br /> <div class="center">[[â]]</div>
+|{{brl|⠯|4}} <br /> <div class="center">[[ç]]</div>
+|{{brl|⠩|4}} <br /> <div class="center">[[ch]]</div>
+|{{brl|⠱|4}} <br /> <div class="center">[[ch·]]</div>
+|{{brl|⠹|4}} <br /> <div class="center">[[dy]]</div>
+|{{brl|⠣|4}} <br /> <div class="center">[[è]]</div>
+|{{brl|⠳|4}} <br /> <div class="center">[[ê]]</div>
+|{{brl|⠱|4}} <br /> <div class="center">[[é]]</div>
 |-
-|{{brl|⠪|4}} <br /> <center>[[î]]</center>
-|{{brl|⠮|4}} <br /> <center>[[j·]], [[g·]]</center>
-|{{brl|⠸|4}} <br /> <center>[[ly]]</center>
-|{{brl|⠫|4}} <br /> <center>[[ny]]</center>
-|{{brl|⠻|4}} <br /> <center>[[œ]]</center>
-|{{brl|⠹|4}} <br /> <center>[[ô]]</center>
-|{{brl|⠵|4}} <br /> <center>[[û]]</center>
-|{{brl|⠳|4}} <br /> <center>[[ty]]</center>
+|{{brl|⠪|4}} <br /> <div class="center">[[î]]</div>
+|{{brl|⠮|4}} <br /> <div class="center">[[j·]], [[g·]]</div>
+|{{brl|⠸|4}} <br /> <div class="center">[[ly]]</div>
+|{{brl|⠫|4}} <br /> <div class="center">[[ny]]</div>
+|{{brl|⠻|4}} <br /> <div class="center">[[œ]]</div>
+|{{brl|⠹|4}} <br /> <div class="center">[[ô]]</div>
+|{{brl|⠵|4}} <br /> <div class="center">[[û]]</div>
+|{{brl|⠳|4}} <br /> <div class="center">[[ty]]</div>
 |}
 
 [[Catègorie:Lengouistica]]
