@@ -300,51 +300,44 @@ Lista des '''comenes du Canton [[Suisse|suisso]] du [[Canton du Valês|Valês]]'
 
 == [[District de Siérro]] ==
 [[Image:Karte Bezirk Sierre.png|225px|right]]
-{| BORDER="1" CELLSPACING="0"
-|-----
-! Code postâl
-! Nom en arpitan
-! Nom en francês / en ''alemand''
-|-----
-| 3961 || [[Ayèr]] || Ayer
-|-----
-| 3966 || [[Chalés]] || Chalais
-|-----
-| 3961 || xx || Chandolin
-|-----
-| 3971 || [[Chèrmegnon]] || Chermignon
-|-----
-| 3965 || [[Chepés]] || Chippis
-|-----
-| 3961 || [[Gremenche|Gremenche / Grémenche]] || Grimentz
-|-----
-| 3979 || [[Grôna]] || Grône
-|-----
-| 1977 || [[Icôgne]] || Icogne
-|-----
-| 1978 || [[Lens (Valês)|Lens]] || Lens
-|-----
-| 3972 || [[Mièjo]] || Miège                   
-|-----
-| 3974 || xx || Mollens                 
-|-----
-| 3962 || [[Montana|Montana / Montanna]] || Montana
-|-----
-| 3975 || xx || Randogne
-|-----
-| 3960 || [[Siérro]] || Sierre
-|-----
-| 3961 || xx || Saint-Jean
-|-----
-| 1958 || [[Sent-Léonârd]] || Saint-Léonard              
-|-----
-| 3961 || [[Sent-Luc]] || Saint-Luc
-|-----
-| 3973 || xx || Venthône
-|-----
-| 3968 || xx || Veyras
-|-----
-| 3961 || [[Vissôye]] || Vissoie
+
+
+{|class="wikitable sortable"
+|-
+! scope=col | N° OFS
+! scope=col | Comena
+|-
+| align=right |   6252
+| [[File:Anniviers.png|20px]] [[Aniviérs]]
+|-
+| align=right |   6232
+| [[File:Chalais VS-coat of arms.svg|20px]] [[Chalés]]
+|-
+| align=right |   6253
+| [[File:Crans-Montana-coat of arms.svg|20px]] [[Crant-Montanna (comena)|Crant-Montanna]]
+|-
+| align=right |   6235
+| [[File:Chippis.png|20px]] [[Chepés]]
+|-
+| align=right |   6238
+| [[File:Grone.jpg|20px]] [[Grôna]]
+|-
+| align=right |   6239
+| [[File:Logoicogne.png|20px]] [[Icôgne]]
+|-
+| align=right |   6240
+| [[File:Lens (Switzerland)-coat of arms.svg|20px]] [[Lens (Valês)|Lens]]
+|-
+| align=right |   6254
+| [[File:Commune-Noble-Contree-Armoirie.jpg|20px]] [[Nôbla-Contrât]]
+|-
+| align=right |   6246
+| [[File:Stleonard.blason.png|20px]] [[Sent-Léonârd]]
+|-
+| align=right |   6248
+| [[File:Blason de Sierre, Valais.svg|20px]] [[Siérro]]
+|-class="sortbottom"
+! colspan="2" align=right | Total : 10
 |}
 
 == [[District de Sion]] ==
