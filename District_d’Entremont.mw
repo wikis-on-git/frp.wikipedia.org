@@ -1,29 +1,73 @@
-{{Grafia RèfB}}
-Lo '''District d'Entremont''' est un district del quenton suisso du [[Canton du Valês|Valês]].
+{{Grafia - Valêsan en ORB lârge}}{{Enfocajon District de Suisse
+| quenton   = VS
+| ch·èfluè  = [[Sant-Brenchiés]]
+| comunes   = 6
+| prèfèt    = {{NomFrp|Alen Marèt|Alain Maret}}<ref>{{fr}} {{Lim Vouèbe|titro=''Préfets et Sous-préfets''|url=https://www.vs.ch/web/communes/prefet-et-sous-prefet|seto=https://www.vs.ch|viu lo=11 fevriér 2018}}</ref>
+| noofs     = 2303
+| mapaloc   = Carte district Entremont 2021.png
+| latitude  = 46/00/N
+| longitude = 7/15/E
+}}
+Le '''district d’Entremont''', que [[Sant-Brenchiés]] est le [[ch·èf-luè]], est yon des trèze [[districts du canton du Valês]] en [[Suisse]].
 
 == Lista des comenes ==
-[[Image:Karte Bezirk Entremont.png|225px|right]]
-{| BORDER="1" CELLSPACING="0"
-|-----
-! Code postâl
-! Nom en arpitan
-! Nom en francês / en ''alemand''
-|-----
-| 1934 || [[Bagnes]] ||  Bagnes
-|-----
-| 1946 || [[Bôrg (Valês)|Bôrg / Lo Bôrg]] ||  Bourg-Saint-Pierre
-|-----
-| 1945 || xx ||  Liddes
-|-----
-| 1937 || xx ||  Orsières
-|-----
-| 1933 || [[Sant-Brenchiés]] || Sembrancher
-|-----
-| 1941 || xx ||  Vollèges
+Vê-lé la lista des comenes que compôsont le district avouéc, por châcuna, sa populacion.
+
+Les comenes de [[Bâgne]] et [[Vuelêjo]] fusioneront u {{1ér}} de janviér 2021 por formar la comena de [[Comba de Bâgne (comena)|Comba de Bâgne]]. 
+
+{| class="wikitable sortable" style="text-align: center;"
+|+ Les comenes du district
+|-
+!scope="col"| Nom arpetan
+!scope="col"| Nom francês
+!scope="col"| [[Numerotacion oficièla des comunes suissèsses|N° OFS]]<ref name="Document90142">{{fr}} {{xls}} {{lim Vouèbe
+ | url=http://www.bfs.admin.ch/bfs/portal/fr/index/infothek/nomenklaturen/blank/blank/gem_liste/03.Document.90142.xls
+ | titro=''Liste officielle des communes de la Suisse - 01.01.2016''
+ | seto=Ofiço fèdèrâl de la statistica
+ | viu lo=17 fevriér 2016
+}}</ref>
+!scope="col"| Populacion {{-}} <small>({{mês populacion suissa|CH-VS}})</small>{{rèference populacion suissa|CH-VS}}
+|-
+| [[Lo Bôrg (Valês)|Lo Bôrg]]
+| Bourg-Saint-Pierre
+| 6032
+| {{smn|{{populacion suissa|CH-VS|ofs=6032}}|6}}
+|-
+| [[Comba de Bâgne (comena)|Comba de Bâgne]]
+| Val de Bagnes
+| 6037
+| {{smn|10114|6}}
+|-
+| [[Lêdes]]
+| Liddes
+| 6033
+| {{smn|{{populacion suissa|CH-VS|ofs=6033}}|6}}
+|-
+| [[Orsêres]]
+| Orsières
+| 6034
+| {{smn|{{populacion suissa|CH-VS|ofs=6034}}|6}}
+|-
+| [[Sant-Brenchiés]]
+| Sembrancher
+| 6035
+| {{smn|{{populacion suissa|CH-VS|ofs=6035}}|6}}
+|-class="sortbottom" style="background: #EEEEEE
+| colspan=2 | '''Soma'''
+! '''{{smn|{{populacion suissa|CH-VS|ofs=B2303}}|6}}'''
 |}
+[[Fichiér:Drapeau District Valaisan d'Entremont.jpg|gôche|figura|165x165px|<div class="center">''Pintura du drapél du district''.</div>]]
+{{clr}}
 
-== Lims de defôr ==
-{{Commonscat|Entremont District}}
+== Notes et rèferences ==
+=== Notes ===
+{{Rèferences|groupo=N}}
 
-[[Category:District du Valês]]
-[[Catègorie:District d'Entremont| ]]
+=== Vocabulèro ===
+{{Rèferences|groupo=V}}
+
+=== Rèferences ===
+<references />
+
+{{DEFAULTSORT:Entremont}}
+[[Catègorie:District dens lo canton du Valês]]
