@@ -1,244 +1,440 @@
-{{Grafia RèfB}}
-Lista de les comenes de la [[Mètropola de Liyon]], avouéc lo nom en arpetan ORB et pués en francês
-{| class="wikitable sortable" cellspacing="0" border="1"
-!Nom arpetan
-<small>en [[Vouiquipèdia:Ortografia de rèference B|ORB lârge]]</small>
-!Nom francês
-!Code INSEE
+{{Grafia - Liyonês en ORB lârge}}{{Confusion|tèxto=Por les comunes du [[Rôno (dèpartament)|dèpartament du Rôno]], vêde [[Lista de les comenes du Rôno]].}}
+Vê-que na lista de les '''[[Comena (France)|comunes]]<ref group="V">Varianta liyonêse {{AFE|[kɔ.ˈmy.nə]}} de « '''comenes''' » ''fpl''.</ref> de la [[mètropola de Liyon]]''' en [[France]], avouéc lor nom en [[Arpetan|arpitan]]<ref group="V">Varianta liyonêse {{AFE|[ar.pi.ˈtã]}} de « '''arpetan''' » ''m''.</ref> et en [[francês]]. La mètropola de Liyon rassemble 59 comunes u {{dâta-|1|janviér|2020}}<ref>{{fr}} {{Lim Vouèbe|url=https://www.grandlyon.com/metropole/59-communes.html|titro=''59 communes''|seto=[https://www.grandlyon.com grandlyon.com]|ôtor=|dâta=|viu lo=23 avril 2020}}.</ref>.
+
+== Lista de les comunes ==
+{| class="wikitable sortable" align="center" style="text-align: left;"
+|+ Lista de les comunes de la mètropola
 |-
-| align="left" |'''[[Arbegnié]]'''
-|[[:fr:Albigny-sur-Saône|Albigny-sur-Saône]]
-|69003
+!scope="col" style="background:#f6f3dd;"| Nom arpitan
+!scope="col" style="background:#f6f3dd;"| Nom francês 
+!scope="col" style="background:#f6f3dd;"| [[Code Insee|<span style="color:black">Code Insee</span>]]
+!scope="col" style="background:#f6f3dd;"| Populacion {{-}} <small>(2019)</small>
+!scope="col" style="background:#f6f3dd;"| Supèrficie {{-}} (km{{exp|2}})
+!scope="col" style="background:#f6f3dd;"| Densitât {{-}} (hab./km{{exp|2}})
 |-
-| align="left" |'''[[Bron]]'''
-|[[:fr:Bron|Bron]]
-|69029
+| [[Fichiér:Blason de Lyon.svg|25px]] '''[[Liyon]]''' <br><small>([[Sièta sociâla|sièjo]])</small>
+| Lyon
+| align=right | 69123
+| align=right | {{nombro|522969}}
+| align=right | 47,87
+| align=right | {{nombro|10925}}
 |-
-| align="left" |'''[[Calyou]]'''
-|[[:fr:Cailloux-sur-Fontaines|Cailloux-sur-Fontaines]]
-|69033
+| [[Fichiér:Blason ville fr Albigny-sur-Saône (Rhône).svg|25px]] '''[[Arbegnié]]'''
+| [[:fr:Albigny-sur-Saône|Albigny-sur-Saône]]
+| align=right | 69003
+| align=right | {{nombro|2947}}
+| align=right | 2,57
+| align=right | {{nombro|1147}}
 |-
-| align="left" |'''[[Caluéres-et-Cuéres]]'''
-|[[:fr:Caluire-et-Cuire|Caluire-et-Cuire]]
-|69034
+| [[Fichiér:Blason ville fr Bron (Rhône).svg|25px]] '''[[Bron]]'''
+| [[:fr:Bron|Bron]]
+| align=right | 69029
+| align=right | {{nombro|42244}}
+| align=right | 10,30
+| align=right | {{nombro|4101}}
 |-
-| align="left" |'''[[Champagne-en-Mont-Tor]]'''
-|[[:fr:Champagne-au-Mont-d'Or|Champagne-au-Mont-d'Or]]
-|69040
+| [[Fichiér:Blason Caluire-et-Cuire 69.svg|25px]] '''[[Caluéres-et-Cuéres]]'''
+| [[:fr:Caluire-et-Cuire|Caluire-et-Cuire]]
+| align=right | 69034
+| align=right | {{nombro|43294}}
+| align=right | 10,45
+| align=right | {{nombro|4143}}
 |-
-| align="left" |'''[[Charboniéres (Liyonês)|Charboniéres]]'''
-|[[:fr:Charbonnières-les-Bains|Charbonnières-les-Bains]]
-|69044
+| [[Fichiér:Blason ville fr Cailloux-sur-Fontaines (69).svg|25px]] '''[[Calyous]]'''
+| [[:fr:Cailloux-sur-Fontaines|Cailloux-sur-Fontaines]]
+| align=right | 69033
+| align=right | {{nombro|2883}}
+| align=right | 8,69
+| align=right | {{nombro|332}}
 |-
-| align="left" |'''[[Charelié]]'''
-|[[:fr:Charly|Charly]]
-|69046
+| [[Fichiér:Escutcheon unlabeled.svg|25px]] '''[[Celuése]]'''
+| Solaize
+| align=right | 69296
+| align=right | {{nombro|2986}}
+| align=right | 8,10
+| align=right | {{nombro|369}}
 |-
-| align="left" |'''[[Colonges (Liyonês)|Colonges]]'''
-|[[:fr:Collonges-au-Mont-d'Or|Collonges-au-Mont-d'Or]]
-|69063
+| [[Fichiér:Blason ville fr Saint-Fons (Rhône).svg|25px]] '''[[Cent-Fonts]]'''
+| Saint-Fons
+| align=right | 69199
+| align=right | {{nombro|19617}}
+| align=right | 6,06
+| align=right | {{nombro|3237}}
 |-
-| align="left" |'''[[Coson]]'''
-|[[:fr:Couzon-au-Mont-d'Or|Couzon-au-Mont-d'Or]]
-|69068
+| [[Fichiér:Blason Champagne-au-Mont-d'Or.svg|25px]] '''[[Champagne-en-Mont-Tor]]'''
+| [[:fr:Champagne-au-Mont-d'Or|Champagne-au-Mont-d’Or]]
+| align=right | 69040
+| align=right | {{nombro|42244}}
+| align=right | 2,59
+| align=right | {{nombro|4101}}
 |-
-| align="left" |'''[[Crapona]]'''
-|[[:fr:Craponne|Craponne]]
-|69069
+| [[Fichiér:Escutcheon unlabeled.svg|25px]] '''[[Charboniéres (Liyonês)|Charboniéres]]'''
+| [[:fr:Charbonnières-les-Bains|Charbonnières-les-Bains]]
+| align=right | 69044
+| align=right | {{nombro|5170}}
+| align=right | 4,13
+| align=right | {{nombro|1252}}
 |-
-| align="left" |'''[[Curis]]'''
-|[[:fr:Curis-au-Mont-d'Or|Curis-au-Mont-d'Or]]
-|69071
+| [[Fichiér:Blason ville fr Charly 69.svg|25px]] '''[[Charelié]]'''
+| [[:fr:Charly (métropole de Lyon)|Charly]]
+| align=right | 69046
+| align=right | {{nombro|4563}}
+| align=right | 5,09
+| align=right | {{nombro|896}}
 |-
-| align="left" |'''[[Dardelyé]]'''
-|[[:fr:Dardilly|Dardilly]]
-|69072
+| [[Fichiér:Blason ville fr Chassieu (Rhône).svg|25px]] '''[[Chassiô]]'''
+| Chassieu
+| align=right | 69271
+| align=right | {{nombro|10638}}
+| align=right | 11,57
+| align=right | {{nombro|919}}
 |-
-| align="left" |'''[[Èculyé]]'''
-|[[:fr:Écully|Écully]]
-|69081
+| [[Fichiér:Blason ville fr Collonges-au-Mont-d'Or 69.svg|25px]] '''[[Colonges (Liyonês)|Colonges]]'''
+| [[:fr:Collonges-au-Mont-d'Or|Collonges-au-Mont-d’Or]]
+| align=right | 69063
+| align=right | {{nombro|4315}}
+| align=right | 3,78
+| align=right | {{nombro|1142}}
 |-
-| align="left" |'''[[Flluriô]]'''
-|[[:fr:Fleurieu-sur-Saône|Fleurieu-sur-Saône]]
-|69085
+| [[Fichiér:Blason ville fr Corbas (Rhône).svg|25px]] '''[[Corbê]]'''
+| [[:fr:Corbas|Corbas]]
+| align=right | 69273
+| align=right | {{nombro|11196}}
+| align=right | 11,88
+| align=right | {{nombro|942}}
 |-
-| align="left" |'''[[Fontanes-Sant-Martin]]'''
-|[[:fr:Fontaines-Saint-Martin|Fontaines-Saint-Martin]]
-|69087
+| [[Fichiér:Blason ville fr Couzon-au-Mont-d'Or(69).svg|25px]] '''[[Coson]]'''
+| [[:fr:Couzon-au-Mont-d'Or|Couzon-au-Mont-d’Or]]
+| align=right | 69068
+| align=right | {{nombro|2454}}
+| align=right | 3,11
+| align=right | {{nombro|789}}
 |-
-| align="left" |'''[[Fontanes-sus-Sona]]'''
-|[[:fr:Fontaines-sur-Saône|Fontaines-sur-Saône]]
-|69088
+| [[Fichiér:Blason ville fr Craponne (Rhône).svg|25px]] '''[[Crapona]]'''
+| [[:fr:Craponne|Craponne]]
+| align=right | 69069
+| align=right | {{nombro|11248}}
+| align=right | 4,62
+| align=right | {{nombro|2435}}
 |-
-| align="left" |'''[[Franchevela]]'''
-|[[:fr:Francheville|Francheville]]
-|69089
+| [[Fichiér:Blason ville fr Curis-au-Mont-d'Or (Rhône).svg|25px]] '''[[Curis]]'''
+| [[:fr:Curis-au-Mont-d'Or|Curis-au-Mont-d’Or]]
+| align=right | 69071
+| align=right | {{nombro|1179}}
+| align=right | 3,03
+| align=right | {{nombro|389}}
 |-
-| align="left" |'''[[Givôrs]]'''
-|[[:fr:Givors|Givors]]
-|69091
+| [[Fichiér:Blason ville fr Dardilly (Rhône).svg|25px]] '''[[Dardelyé]]'''
+| [[:fr:Dardilly|Dardilly]]
+| align=right | 69072
+| align=right | {{nombro|8752}}
+| align=right | 13,99
+| align=right | {{nombro|626}}
 |-
-| align="left" |'''[[Gregnié]]'''
-|[[:fr:Grigny|Grigny]]
-|69096
+| [[Fichiér:Blason ville fr Décines-Charpieu (Rhône).svg|25px]] '''[[Dessines]]'''
+| [[:fr:Décines-Charpieu|Décines-Charpieu]]
+| align=right | 69275
+| align=right | {{nombro|28930}}
+| align=right | 17,01
+| align=right | {{nombro|1701}}
 |-
-| align="left" |'''[[Éregnins]]'''
-|[[:fr:Irigny|Irigny]]
-|69100
+| [[Fichiér:Blason ville fr Écully (Rhône).svg|25px]] '''[[Èculyé]]'''
+| [[:fr:Écully|Écully]]
+| align=right | 69081
+| align=right | {{nombro|18948}}
+| align=right | 8,45
+| align=right | {{nombro|2242}}
 |-
-| align="left" |'''[[Lemonês]]'''
-|[[:fr:Limonest|Limonest]]
-|69116
+| [[Fichiér:Blason ville fr Irigny (Rhône).svg|25px]] '''[[Éregnins]]'''
+| [[:fr:Irigny|Irigny]]
+| align=right | 69100
+| align=right | {{nombro|8750}}
+| align=right | 8,84
+| align=right | {{nombro|990}}
 |-
-| align="left" |'''[[Leciô]]'''
-|[[:fr:Lissieu|Lissieu]]
-|69117
+| [[Fichiér:Blason ville fr Feyzin (Rhône).svg|25px]] '''[[Fêsins]]'''
+| Feyzin
+| align=right | 69276
+| align=right | {{nombro|9902}} 
+| align=right | 9,64
+| align=right | {{nombro|1027}}
 |-
-| align="left" |'''[[Liyon]]'''
-|[[:fr:Lyon|Lyon]]
-|69123
+| [[Fichiér:Blason ville fr Fleurieu-sur-Saône (Rhône).svg|25px]] '''[[Flluriô (Franc-Liyonês)|Flluriô]]'''
+| [[:fr:Fleurieu-sur-Saône|Fleurieu-sur-Saône]]
+| align=right | 69085
+| align=right | {{nombro|1492}}
+| align=right | 2,91
+| align=right | {{nombro|513}}
 |-
-| align="left" |'''[[Marcié-l’Ètêla]]'''
-|[[:fr:Marcy-l'Étoile|Marcy-l'Étoile]]
-|69127
+| [[Fichiér:Blason ville fr Fontaines-sur-Saône 69.svg|25px]] '''[[Fontanes (Franc-Liyonês)|Fontanes]]'''
+| [[:fr:Fontaines-sur-Saône|Fontaines-sur-Saône]]
+| align=right | 69088
+| align=right | {{nombro|7066}} 
+| align=right | 2,32
+| align=right | {{nombro|3046}}
 |-
-| align="left" |'''[[La Mulatiére]]'''
-|[[:fr:La Mulatière|La Mulatière]]
-|69142
+| [[Fichiér:Blason ville fr Francheville 69.svg|25px]] '''[[Franchevila]]'''
+| [[:fr:Francheville|Francheville]]
+| align=right | 69089
+| align=right | {{nombro|14906}}
+| align=right | 8,18
+| align=right | {{nombro|1822}}
 |-
-| align="left" |'''[[Nôvela-sus-Sona]]'''
-|[[:fr:Neuville-sur-Saône|Neuville-sur-Saône]]
-|69143
+| [[Fichiér:Blason ville fr Genay (Rhône).svg|25px]] '''[[Gènê]]'''
+| [[:fr:Genay|Genay]]
+| align=right | 69278
+| align=right | {{nombro|5509}}
+| align=right | 8,49
+| align=right | {{nombro|649}}
 |-
-| align="left" |'''[[Ôlins]]'''
-|[[:fr:Oullins|Oullins]]
-|69149
+| [[Fichiér:Blason ville fr Givors (Rhône).svg|25px]] '''[[Givôrs]]'''
+| Givors
+| align=right | 69091
+| align=right | {{nombro|20285}}
+| align=right | 17,34
+| align=right | {{nombro|1170}}
 |-
-| align="left" |'''[[Piérra-Benête]]'''
-|[[:fr:Pierre-Bénite|Pierre-Bénite]]
-|69152
+| [[Fichiér:Blason ville fr Grigny 69.svg|25px]] '''[[Gregnié]]'''
+| [[:fr:Grigny|Grigny]]
+| align=right | 69096
+| align=right | {{nombro|9706}}
+| align=right | 5,75
+| align=right | {{nombro|1688}}
 |-
-| align="left" |'''[[Polèmiô]]'''
-|[[:fr:Poleymieux-au-Mont-d'Or|Poleymieux-au-Mont-d'Or]]
-|69153
+| [[Fichiér:Blason ville fr Jonage (Rhône).svg|25px]] '''[[Jenâjo]]'''
+| [[:fr:Jonage|Jonage]]
+| align=right | 69279
+| align=right | {{nombro|6076}}
+| align=right | 12,11
+| align=right | {{nombro|502}}
 |-
-| align="left" |'''[[Quinciô]]'''
-|[[:fr:Quincieux|Quincieux]]
-|69163
+| [[Fichiér:Blason ville fr Limonest (Rhône).svg|25px]] '''[[Lemonês]]'''
+| [[:fr:Limonest|Limonest]]
+| align=right | 69116
+| align=right | {{nombro|3 648}}
+| align=right | 8,39
+| align=right | {{nombro|435}}
 |-
-| align="left" |'''[[Rochetalyê-sus-Sona]]'''
-|[[:fr:Rochetaillée-sur-Saône|Rochetaillée-sur-Saône]]
-|69168
+| [[Fichiér:Blason ville fr Lissieu (Rhône).svg|25px]] '''[[Léssiô]]'''
+| [[:fr:Lissieu|Lissieu]]
+| align=right | 69117
+| align=right | {{nombro|3134}}
+| align=right | 5,66
+| align=right | {{nombro|554}}
 |-
-| align="left" |'''[[Sant-Ciro-en-Mont-Tor]]'''
-|[[:fr:Saint-Cyr-au-Mont-d'Or|Saint-Cyr-au-Mont-d'Or]]
-|69191
+| [[Fichiér:Blason ville fr Marcy-l'Etoile (Rhône).svg|25px]] '''[[Marcié-l’Ètêla]]'''
+| [[:fr:Marcy-l'Étoile|Marcy-l’Étoile]]
+| align=right | 69127
+| align=right | {{nombro|3549}} 
+| align=right | 5,37
+| align=right | {{nombro|661}}
 |-
-| align="left" |'''[[Sant-Dediér-en-Mont-Tor]]'''
-|[[:fr:Saint-Didier-au-Mont-d'Or|Saint-Didier-au-Mont-d'Or]]
-|69194
+| [[Fichiér:Blason ville fr Meyzieu (Rhône).svg|25px]] '''[[Mêsiô]]'''
+| Meyzieu
+| align=right | 69282
+| align=right | {{nombro|34640}}
+| align=right | 23,01
+| align=right | {{nombro|1505}}
 |-
-| align="left" |'''[[Cent-Fonts]]'''
-|[[:fr:Saint-Fons|Saint-Fons]]
-|69199
+| [[Fichiér:Blason ville fr Mions (Rhône).svg|25px]] '''[[Mions]]'''
+| [[:fr:Mions|Mions]]
+| align=right | 69283
+| align=right | {{nombro|13707}}
+| align=right | 11,57
+| align=right | {{nombro|1185}}
 |-
-| align="left" |'''[[Sente-Fê-lât-Liyon]]'''
-|[[:fr:Sainte-Foy-lès-Lyon|Sainte-Foy-lès-Lyon]]
-|69202
+| [[Fichiér:Escutcheon unlabeled.svg|25px]] '''[[Montanê]]'''
+| [[:fr:Montanay|Montanay]]
+| align=right | 69284
+| align=right | {{nombro|3230}}
+| align=right | 7,16
+| align=right | {{nombro|451}}
 |-
-| align="left" |'''[[Sant-Genés-la-Vâl]]'''
-|[[:fr:Saint-Genis-Laval|Saint-Genis-Laval]]
-|69204
+| [[Fichiér:Blason ville fr La Mulatière (Rhône).svg|25px]] '''[[La Mulatiére]]'''
+| [[:fr:La Mulatière|La Mulatière]]
+| align=right | 69142
+| align=right | {{nombro|6524}}
+| align=right | 1,82
+| align=right | {{nombro|3585}}
 |-
-| align="left" |'''[[Sant-Genés-les-Ôlyéres]]'''
-|[[:fr:Saint-Genis-les-Ollières|Saint-Genis-les-Ollières]]
-|69205
+| [[Fichiér:Blason ville fr Neuville-sur-Saône (Rhône).svg|25px]] '''[[Nôvela-sus-Sona]]'''
+| [[:fr:Neuville-sur-Saône|Neuville-sur-Saône]]
+| align=right | 69143
+| align=right | {{nombro|7562}}
+| align=right | 5,47
+| align=right | {{nombro|1382}}
 |-
-| align="left" |'''[[Sant-German-en-Mont-Tor]]'''
-|[[:fr:Saint-Germain-au-Mont-d'Or|Saint-Germain-au-Mont-d'Or]]
-|69207
+| [[Fichiér:Blason ville fr Pierre-Bénite (Rhône).svg|25px]] '''[[Piérra-Benête]]'''
+| [[:fr:Pierre-Bénite|Pierre-Bénite]]
+| align=right | 69152
+| align=right | {{nombro|10397}}
+| align=right | 4,48
+| align=right | {{nombro|2321}}
 |-
-| align="left" |'''[[Sant-Reman-en-Mont-Tor]]'''
-|[[:fr:Saint-Romain-au-Mont-d'Or|Saint-Romain-au-Mont-d'Or]]
-|69233
+| [[Fichiér:Escutcheon unlabeled.svg|25px]] '''[[Polèmiô]]'''
+| [[:fr:Poleymieux-au-Mont-d'Or|Poleymieux-au-Mont-d’Or]]
+| align=right | 69153
+| align=right | {{nombro|1377}}
+| align=right | 6,21
+| align=right | {{nombro|222}}
 |-
-| align="left" |'''[[Tacins]]'''
-|[[:fr:Tassin-la-Demi-Lune|Tassin-la-Demi-Lune]]
-|69244
+| [[Fichiér:Blason ville fr Quincieux (Rhône).svg|25px]] '''[[Quinciô]]'''
+| [[:fr:Quincieux|Quincieux]]
+| align=right | 69163
+| align=right | {{nombro|3495}}
+| align=right | 17,72
+| align=right | {{nombro|197}}
 |-
-| align="left" |'''[[La Tor-de-Salvagni]]'''
-|[[:fr:La Tour-de-Salvagny|La Tour-de-Salvagny]]
-|69250
+| [[Fichiér:Blason ville fr Rillieux-la-Pape (Rhône).svg|25px]] '''[[Rèlyô]]'''
+| [[:fr:Rillieux-la-Pape|Rillieux-la-Pape]]
+| align=right | 69286
+| align=right | {{nombro|30697}}
+| align=right | 14,48
+| align=right | {{nombro|2120}}
 |-
-| align="left" |'''[[Vâls-en-Velin]]'''
-|[[:fr:Vaulx-en-Velin|Vaulx-en-Velin]]
-|69256
+| [[Fichiér:Blason ville fr Rochetaillée-sur-Saône (Rhône).svg|25px]] '''[[Rochetalyê (Franc-Liyonês)|Rochetalyê]]'''
+| [[:fr:Rochetaillée-sur-Saône|Rochetaillée-sur-Saône]]
+| align=right | 69168
+| align=right | {{nombro|1536}}
+| align=right | 1,29
+| align=right | {{nombro|1191}}
 |-
-| align="left" |'''[[Venécié]]'''
-|[[:fr:Vénissieux|Vénissieux]]
-|69259
+| [[Fichiér:Blason ville fr Saint-Cyr-au-Mont-d'Or (Rhône).svg|25px]] '''[[Sant-Ciro-en-Mont-Tor]]'''
+| [[:fr:Saint-Cyr-au-Mont-d'Or|Saint-Cyr-au-Mont-d’Or]]
+| align=right | 69191
+| align=right | {{nombro|5747}}
+| align=right | 7,29
+| align=right | {{nombro|788}}
 |-
-| align="left" |'''[[Vèrnêson]]'''
-|[[:fr:Vernaison|Vernaison]]
-|69260
+| [[Fichiér:Blason ville fr Saint-Didier-au-Mont-d'Or (Rhône).svg|25px]] '''[[Sant-Dediér-en-Mont-Tor]]'''
+| [[:fr:Saint-Didier-au-Mont-d'Or|Saint-Didier-au-Mont-d’Or]]
+| align=right | 69194
+| align=right | {{nombro|7006}}
+| align=right | 8,34
+| align=right | {{nombro|840}}
 |-
-| align="left" |'''[[Vilorbana]]'''
-|[[:fr:Villeurbanne|Villeurbanne]]
-|69266
+| [[Fichiér:Blason ville fr Saint-Genis-Laval (69).svg|25px]] '''[[Sant-Genés-la-Vâl]]'''
+| [[:fr:Saint-Genis-Laval|Saint-Genis-Laval]]
+| align=right | 69204
+| align=right | {{nombro|20914}}
+| align=right | 12,92
+| align=right | {{nombro|1619}}
 |-
-| align="left" |'''[[Chassiô]]'''
-|[[:fr:Chassieu|Chassieu]]
-|69271
+| [[Fichiér:Blason ville fr Saint-Genis-les-Ollières (Rhône).svg|25px]] '''[[Sant-Genés-les-Ôliéres]]'''
+| [[:fr:Saint-Genis-les-Ollières|Saint-Genis-les-Ollières]]
+| align=right | 69205
+| align=right | {{nombro|5158}}
+| align=right | 3,74
+| align=right | {{nombro|1379}}
 |-
-| align="left" |'''[[Corbâs]]'''
-|[[:fr:Corbas|Corbas]]
-|69273
+| [[Fichiér:Blason de Saint-Germain-au-Mont-d'Or (Rhône).svg|25px]] '''[[Sant-German-en-Mont-Tor]]'''
+| [[:fr:Saint-Germain-au-Mont-d'Or|Saint-Germain-au-Mont-d’Or]]
+| align=right | 69207
+| align=right | {{nombro|3001}}
+| align=right | 5,43
+| align=right | {{nombro|553}}
 |-
-| align="left" |'''[[Dessines]]'''
-|[[:fr:Décines-Charpieu|Décines-Charpieu]]
-|69275
+| [[Fichiér:Blason ville fr Fontaines-Saint-Martin (Rhône).svg|25px]] '''[[Sant-Martin (Franc-Liyonês)|Sant-Martin]]'''
+| [[:fr:Fontaines-Saint-Martin|Fontaines-Saint-Martin]]
+| align=right | 69087
+| align=right | {{nombro|3033}}
+| align=right | 2,74
+| align=right | {{nombro|1107}}
 |-
-| align="left" |'''[[Fêsins]]'''
-|[[:fr:Feyzin|Feyzin]]
-|69276
+| [[Fichiér:Blason ville fr Saint-Priest (Rhône).svg|25px]] '''[[Sant-Priét]]'''
+| Saint-Priest
+| align=right | 69290
+| align=right | {{nombro|46927}}
+| align=right | 29,71
+| align=right | {{nombro|1580}}
 |-
-| align="left" |'''[[Genê]]'''
-|[[:fr:Genay|Genay]]
-|69278
+| [[Fichiér:Blason ville fr Saint-Romain-au-Mont-d'Or (Rhône).svg|25px]] '''[[Sant-Reman (Liyonês)|Sant-Reman]]'''
+| [[:fr:Saint-Romain-au-Mont-d'Or|Saint-Romain-au-Mont-d’Or]]
+| align=right | 69233
+| align=right | {{nombro|1228}}
+| align=right | 2,62
+| align=right | {{nombro|469}}
 |-
-| align="left" |'''[[Jenâjo]]'''
-|[[:fr:Jonage|Jonage]]
-|69279
+| [[Fichiér:Blason ville fr Sathonay-Camp (Rhône).svg|25px]] '''[[Satonê-Camp]]'''
+| [[:fr:Sathonay-Camp|Sathonay-Camp]]
+| align=right | 69292
+| align=right | {{nombro|6497}}
+| align=right | 1,96
+| align=right | {{nombro|3315}}
 |-
-| align="left" |'''[[Mêsiô]]'''
-|[[:fr:Meyzieu|Meyzieu]]
-|69282
+| [[Fichiér:Blason ville fr Sathonay-Village (Rhône).svg|25px]] '''[[Satonê-Velâjo]]'''
+| [[:fr:Sathonay-Village|Sathonay-Village]]
+| align=right | 69293
+| align=right | {{nombro|2369}}
+| align=right | 5,15
+| align=right | {{nombro|460}}
 |-
-| align="left" |'''[[Mions]]'''
-|[[:fr:Mions|Mions]]
-|69283
+| [[Fichiér:Blason ville fr Sainte-Foy-lès-Lyon (Rhône).svg|25px]] '''[[Sente-Fê (Jarês)|Sente-Fê]]'''
+| [[:fr:Sainte-Foy-lès-Lyon|Sainte-Foy-lès-Lyon]]
+| align=right | 69202
+| align=right | {{nombro|22175}}
+| align=right | 6,83
+| align=right | {{nombro|3247}}
 |-
-| align="left" |'''[[Montanê]]'''
-|[[:fr:Montanay|Montanay]]
-|69284
+| [[Fichiér:Blason ville fr Tassin-la-Demi-Lune (Rhône).svg|25px]] '''[[Tacins]]'''
+| [[:fr:Tassin-la-Demi-Lune|Tassin-la-Demi-Lune]]
+| align=right | 69244
+| align=right | {{nombro|22286}}
+| align=right | 7,79
+| align=right | {{nombro|2861}}
 |-
-| align="left" |'''[[Rèlyô]]'''
-|[[:fr:Rillieux-la-Pape|Rillieux-la-Pape]]
-|69286
+| [[Fichiér:Blason ville fr La Tour-de-Salvagny (Rhône).svg|25px]] '''[[La Tor-de-Sèrvagnié]]'''
+| [[:fr:La Tour-de-Salvagny|La Tour-de-Salvagny]]
+| align=right | 69250
+| align=right | {{nombro|4117}}
+| align=right | 8,43
+| align=right | {{nombro|488}}
 |-
-| align="left" |'''[[Sant-Priét]]'''
-|[[:fr:Saint-Priest|Saint-Priest]]
-|69290
+| [[Fichiér:Blason ville fr Oullins (Rhône).svg|25px]] '''[[Ulins]]'''
+| [[:fr:Oullins|Oullins]]
+| align=right | 69149
+| align=right | {{nombro|26553}}
+| align=right | 4,40
+| align=right | {{nombro|6035}}
 |-
-| align="left" |'''[[Satonê-Camp]]'''
-|[[:fr:Sathonay-Camp|Sathonay-Camp]]
-|69292
+| [[Fichiér:Blason ville fr Vaulx-en-Velin (Rhône).svg|25px]] '''[[Vâls-en-Velin]]'''
+| [[:fr:Vaulx-en-Velin|Vaulx-en-Velin]]
+| align=right | 69256
+| align=right | {{nombro|52795}}
+| align=right | 20,95
+| align=right | {{nombro|2520}}
 |-
-| align="left" |'''[[Satonê-Velâjo]]'''
-|[[:fr:Sathonay-Village|Sathonay-Village]]
-|69293
+| [[Fichiér:Blason Vénissieux.svg|25px]] '''[[Venécié]]'''
+| Vénissieux
+| align=right | 69259
+| align=right | {{nombro|67285}}
+| align=right | 15,33
+| align=right | {{nombro|4389}}
 |-
-| align="left" |'''[[Celuése]]'''
-|[[:fr:Solaize|Solaize]]
-|69296
+| [[Fichiér:Blason ville fr Vernaison (Rhône).svg|25px]] '''[[Vèrnêsons]]'''
+| [[:fr:Vernaison|Vernaison]]
+| align=right | 69260
+| align=right | {{nombro|4999}}
+| align=right | 4,03
+| align=right | {{nombro|1240}}
+|-
+| [[Fichiér:Blason ville fr Villeurbanne (Rhône).svg|25px]] '''[[Vilorbana]]'''
+| Villeurbanne
+| align=right | 69266
+| align=right | {{nombro|152212}}
+| align=right | 14,52
+| align=right | {{nombro|10483}}
 |}
+
+== Notes et rèferences ==
+=== Notes ===
+{{Rèferences|groupo=N}}
+
+=== Vocabulèro ===
+{{Rèferences|groupo=V}}
+
+=== Rèferences ===
+<references />
+
+[[Catègorie:Lista de comenes en France per tèrritouèro|Metropola de Liyon]]
+[[Catègorie:Lista sus la mètropola de Liyon|Comunes]]
