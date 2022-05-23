@@ -1,17 +1,34 @@
-[[Fichiér:Pierre_de_Fermat.jpg|figura|[[Pierre de Fermat]] propôse en 1640 lo tèorèmo sen aportar de dèmonstracion.]]
-[[Fichiér:Leonhard_Euler_2.jpg|figura|[[Leonhard Euler]] presente en 1736 la premiére dèmonstracion publeyêe du tèorèmo.]]
-En matèmatiques, lo '''petit tèorèmo de Fermat''' est un rèsultat de l'aritmètica modulèra, que pôt asse sè dèmontrar avouéc los outils de l'aritmètica èlèmentèra.
+{{Grafia - Forésien en ORB lârge}}{{Vêre homonimos|Tèorèmo de Fèrmat{{!}}Tèorèmos de Fèrmat}}
+[[Fichiér:Pierre de Fermat.jpg|figura|300px|<div class="center">[[Pierro de Fèrmat]] propôse en 1640 lo tèorèmo sen aduire de dèmonstracion.</div>]]
+En [[matèmatiques]], lo '''petiôt tèorèmo de Fèrmat''' est un rèsultat de l’[[aritmètica modulèra]], que sè pôt asse-ben dèmontrar avouéc los outils de l’[[aritmètica èlèmentèra]].
 
-O s'ènonce coma siut : « se {{mvar|p}} est un [[nombro premiér]] et se {{mvar|a}} est un entiér nan divisible per {{mvar|p}}, adonc {{math|''a''<sup>''p''–1</sup>&nbsp;–&nbsp;1}} est un multiplo de {{mvar|p}} », ôtrament dét (sot les mémes condicions sur {{mvar|a}} et {{mvar|p}}), {{math|''a''<sup>''p''–1</sup>}} est "congru" a 1 "modulo" {{mvar|p}} :
+S’ènonce d’ense : « se {{mvar|p}} est un [[nombro premiér]] et se {{mvar|a}} est un [[Entiér relatif|entiér]] ''pas [[Divisibilitât|divisiblo]] per {{mvar|p}}'', adonc {{math|''a''<sup>''p''–1</sup>&nbsp;–&nbsp;1}} est un [[Multiplo (matèmatiques)|multiplo]] de {{mvar|p}} », ôtrament dét (desot les mémes condicions sus {{mvar|a}} et {{mvar|p}}), {{math|''a''<sup>''p''–1</sup>}} est [[Congruence sus los entiérs|congru a 1 modulo {{mvar|p}}]] :
 
 <center><math> a^{p-1}\equiv1\bmod p</math>.</center>
 
-Un ènonciê èquivalent est : « se {{mvar|p}} est un nombro premiér et se {{mvar|a}} est un entiér ''come los ôtros'', adonc {{mvar|a<sup>p</sup>&nbsp;–&nbsp;a}} est un multiplo de {{mvar|p}} » :
+Un ènonciê pariér est : « se {{mvar|p}} est un nombro premiér et se {{mvar|a}} est un entiér ''quin que seye''<ref group="V">Varianta forésièna {{AFE|[kỹ kə sej]}} ou ben {{AFE|[kỹ kə saːj]}} de « '''quint que seye''' » ''loc a m''.</ref>, adonc {{mvar|a<sup>p</sup>&nbsp;–&nbsp;a}} est un multiplo de {{mvar|p}} » :
 
 <center><math> a^p\equiv a\bmod p</math>.</center>
 
-Il dêt son nom a [[Pierre de Fermat]], que l'ènonce por lo premiér côp en {{dâta-|1640}}.
+Dêt son nom a [[Pierro de Fèrmat]], que l’ènonce por lo premiér côp en {{dâta-|1640}}.
 
-Il dispôse de nombroses aplicacions, a côp en [[aritmètica modulèra]] et en [[cryptographie]].
+Il at tot plen d’aplicacions, a côp en [[aritmètica modulèra]] et en [[criptografia]].
+[[Fichiér:Leonhard Euler 2.jpg|figura|300px|<div class="center">[[Leonhard Euler]] semond en 1736 la premiére dèmonstracion publeyêe du tèorèmo.</div>]]
 
-[[Catègorie:Matèmatiques]]
+== Notes et rèferences ==
+=== Notes ===
+{{Rèferences|groupo=N}}
+
+=== Noms de luè ===
+{{Rèferences|groupo=T}}
+
+=== Vocabulèro ===
+{{Rèferences|groupo=V}}
+
+=== Rèferences ===
+<references />
+
+[[Catègorie:Tèorèmo de la tèoria des nombros|Fermat]]
+[[Catègorie:Tèorèmo de la tèoria de les tropes|Fermat]]
+[[Catègorie:Pierro de Fèrmat]]
+[[Catègorie:Aritmètica èlèmentèra]]
