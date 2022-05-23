@@ -1,0 +1,15 @@
+[[Fichiér:Pierre_de_Fermat.jpg|figura|[[Pierre de Fermat]] propose en 1640 le théorème sans apporter de démonstration.]]
+[[Fichiér:Leonhard_Euler_2.jpg|figura|[[Leonhard Euler]] présente en 1736 la première démonstration publiée du théorème.]]
+En matèmatiques, lo '''petit tèorèmo de Fermat''' est un rèsultat de l'aritmètica modulèra, que pôt asse sè dèmontrar avouéc los outils de l'aritmètica èlèmentèra.
+
+O s'ènonce coma siut : « se {{mvar|p}} est un [[nombro premiér]] et se {{mvar|a}} est un entiér nan divisible per {{mvar|p}}, adonc {{math|''a''<sup>''p''–1</sup>&nbsp;–&nbsp;1}} est un multiplo de {{mvar|p}} », ôtrament dét (sot les mémes condicions sur {{mvar|a}} et {{mvar|p}}), {{math|''a''<sup>''p''–1</sup>}} est "congru" a 1 "modulo" {{mvar|p}} :
+
+<center><math> a^{p-1}\equiv1\bmod p</math>.</center>
+
+Un ènonciê èquivalent est : « se {{mvar|p}} est un nombro premiér et se {{mvar|a}} est un entiér ''come los ôtros'', adonc {{mvar|a<sup>p</sup>&nbsp;–&nbsp;a}} est un multiplo de {{mvar|p}} » :
+
+<center><math> a^p\equiv a\bmod p</math>.</center>
+
+Il dêt son nom a [[Pierre de Fermat]], que l'ènonce por lo premiér côp en {{dâta-|1640}}.
+
+Il dispôse de nombroses aplicacions, a côp en [[aritmètica modulèra]] et en [[cryptographie]].
