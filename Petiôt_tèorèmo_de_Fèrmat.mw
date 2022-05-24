@@ -15,6 +15,25 @@ Dêt son nom a [[Pierro de Fèrmat]], que l’ènonce por lo premiér côp en {{
 Il at tot plen d’aplicacions, a côp en [[aritmètica modulèra]] et en [[criptografia]].
 [[Fichiér:Leonhard Euler 2.jpg|figura|250px|<div class="center">''[[Leonhard Euler]]'' semond en 1736 la premiére dèmonstracion publeyêe du tèorèmo.</div>]]
 
+== Dèmonstracions ==
+=== Una dèmonstracion aritmètica èlèmentèra ===
+Un’ôtra dèmonstracion du premiér ènonciê est pariére (per dessus simpla) a una prôva du [[Lèmo de Gauss (tèoria des nombros)|lèmo de Gauss]] : la combina ique est d’èstimar modulo {{mvar|p}}, de doves façons, lo produit
+:<math>N=a\times 2a\times 3a\times \dots (p-1)a</math>.
+
+La prôva est prod rapida en fassent los carculs dens l’[[Anél ℤ/nℤ|anél ℤ/''p''ℤ]]<ref>Vêre per ègzemplo {{Ôvra|lengoua=en|ôtor=Sanjoy Dasgupta|ôtor2=[[Christos Papadimitriou]]|ôtor3=[[Umesh Vazirani]]|titro=Algorithms|passâjo={{p.|{{refconf|dâta=octobro 2019|23-25}}}}|èditor=[[McGraw-Hill]]|dâta=2008}}, ou ben {{Nota ôtro projèt|v|Introduction à la théorie des nombres/Exercices/Nombres premiers et fonctions arithmétiques#Exercice 1-3|quél ègzèrciço corregiê de la leçon « Introduction à la théorie des nombres »|comencement=}}</ref>, mas la pôvont étot dètalyér en empleyent solament la [[division euclidièna]], lo [[lèmo d’Euclido]], et una [[Congruence sus los entiérs#Propriètâts algèbriques|propriètât algèbrique de la congruence sus los entiérs]].
+
+{{Dèmonstracion|contegnu=
+Suposens que {{mvar|a}} est pas divisiblo per {{mvar|p}} et notens
+:{{mvar|N}} lo produit {{math|''a'' × 2''a'' × 3''a'' × … ×(''p'' – 1)''a''}}
+:{{mvar|r<sub>k</sub>}} la résta de la division euclidièna de {{mvar|ka}} per {{mvar|p}}, por tot entiér {{mvar|k}} de 1 a {{math|''p'' – 1}}. Adonc
+*En tornent ordonar los factors, {{math|''N'' {{=}} 1×2× … ×(''p'' – 1)×''a''<sup>''p''–1</sup> {{=}} [[Factoriâla|(''p'' – 1)!]]''a''<sup>''p''–1</sup>}}.
+*Ôtrament, {{math|''N'' ≡ ''r''<sub>1</sub>×''r''<sub>2</sub>× … ×''r''<sub>''p''–1</sub> mod ''p''}}. En èfèt, se dens un produit remplaçont un factor per un entiér que lui est congru modulo {{mvar|p}} adonc lo novél produit est congru modulo {{mvar|p}} u viely. En remplacient dens {{mvar|N}}, a châ yon, châque {{mvar|ka}} per {{mvar|r<sub>k</sub>}}, lo rèsultat est vêr congru a {{mvar|N}} modulo {{mvar|p}}.
+*Et ben sûr {{math|''r''<sub>1</sub>×''r''<sub>2</sub>× … ×''r''<sub>''p''–1</sub> {{=}} (''p'' – 1)!}} perce que {{math|(''r''<sub>1</sub>, ''r''<sub>2</sub>, … , ''r''<sub>''p''–1</sub>)}} est una [[pèrmutacion]] de {{math|(1, 2, … , ''p'' – 1)}}. En èfèt, {{math|0 ≤ ''r<sub>k</sub>'' ≤ ''p'' – 1}} et
+:gins de {{mvar|r<sub>k</sub>}} est pas zérô, (d’aprés lo lèmo d’Euclido) gins de {{mvar|ka}} est pas divisiblo per {{mvar|p}} ;
+:los {{mvar|r<sub>k</sub>}} sont difèrents a châ doux, se {{math|''r<sub>i</sub>'' {{=}} ''r<sub>j</sub>''}} adonc {{math|(''i'' – ''j'')''a''}} est divisiblo per {{mvar|p}}, donc (oncor un côp per lo lèmo d’Euclido) {{mvar|i – j}} avouéc, donc (coma<ref group="V">Varianta forésièna {{AFE|[ˈku.ma]}} ou ben {{AFE|[ˈkɔ.ma]}} de « '''coment''' » ou « '''’ment''' » ''prèp''.</ref> {{math|–''p'' < ''i – j'' < ''p''}}) {{mvar|i {{=}} j}}.
+*De quelos três pouents dèduiont : {{math|(''p'' – 1)!''a''<sup>''p''–1</sup> ≡ (''p'' – 1)! mod ''p''}}, ôtrament dét {{math|(''p'' – 1)!(''a''<sup>''p''–1</sup> – 1)}} est divisiblo per {{mvar|p}}. Per aplicacion rèpètâye du lèmo d’Euclido, gâgnont la concllusion : {{math|''a''<sup>''p''–1</sup> – 1}} est divisiblo per {{mvar|p}}.
+}}
+
 == Notes et rèferences ==
 === Notes ===
 {{Rèferences|groupo=N}}
