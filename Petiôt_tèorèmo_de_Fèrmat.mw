@@ -25,7 +25,7 @@ La prôva est prod rapida en fassent los carculs dens l’[[Anél ℤ/nℤ|anél
 {{Dèmonstracion|contegnu=
 Suposens que {{mvar|a}} est pas divisiblo per {{mvar|p}} et notens
 :{{mvar|N}} lo produit {{math|''a'' × 2''a'' × 3''a'' × … ×(''p'' – 1)''a''}}
-:{{mvar|r<sub>k</sub>}} la résta de la division euclidièna de {{mvar|ka}} per {{mvar|p}}, por tot entiér {{mvar|k}} dês 1 tant qu’a {{math|''p'' – 1}}. Adonc
+:{{mvar|r<sub>k</sub>}} lo résto de la division euclidièna de {{mvar|ka}} per {{mvar|p}}, por tot entiér {{mvar|k}} dês 1 tant qu’a {{math|''p'' – 1}}. Adonc
 *En tornent ordonar los factors, {{math|''N'' {{=}} 1×2× … ×(''p'' – 1)×''a''<sup>''p''–1</sup> {{=}} [[Factoriâla|(''p'' – 1)!]]''a''<sup>''p''–1</sup>}}.
 *D’ôtra pârt, {{math|''N'' ≡ ''r''<sub>1</sub>×''r''<sub>2</sub>× … ×''r''<sub>''p''–1</sub> mod ''p''}}. En èfèt, se dedens un produit remplaçont un factor per un entiér que lui est congru modulo {{mvar|p}} adonc lo novél produit est congru modulo {{mvar|p}} u viely. En remplacient dedens {{mvar|N}}, a châ yon, châque {{mvar|ka}} per {{mvar|r<sub>k</sub>}}, lo rèsultat est vêr congru a {{mvar|N}} modulo {{mvar|p}}.
 *Et ben sûr {{math|''r''<sub>1</sub>×''r''<sub>2</sub>× … ×''r''<sub>''p''–1</sub> {{=}} (''p'' – 1)!}} perce que {{math|(''r''<sub>1</sub>, ''r''<sub>2</sub>, … , ''r''<sub>''p''–1</sub>)}} est una [[pèrmutacion]] de {{math|(1, 2, … , ''p'' – 1)}}. En èfèt, {{math|0 ≤ ''r<sub>k</sub>'' ≤ ''p'' – 1}} et
