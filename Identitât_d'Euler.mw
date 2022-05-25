@@ -1,0 +1,49 @@
+{{Graphie_RefB}}
+{{Ortografia}}
+En [[matèmatiques]], l''''identitât d'Euler''' est una relacion entre plusiors [[Tâbla de constantes matèmatiques|constantes]] fondamentales et utilisant les três opèracions aritmètiques d'[[adicion]], [[multiplicacion]] et [[exponenciacion]] :
+{{Cajon emfâsa|<center><math>\mathrm e^{\mathrm i\pi}+1=0</math></center>}}
+yô la [[E (nombro)|bâsa {{math|e}} du logaritmo naturèl]] reprèsente l'[[Analise (matèmatiques)|analise]], l'[[unitât imaginâ]] {{math|i}} reprèsente l'[[algèbra]], la [[Pi|constanta d'Archimèdo]] {{math|π}} reprèsente la [[géométrie]], l'entiér [[1 (nombro)|1]] l'[[aritmètico]] et lo [[Zérô|{{nobr|nombro 0}}]] les matèmatiques.
+
+El est nomâye d'aprés lo [[matèmaticien]] [[Leonhard Euler]] que la fât aparêtre dens son ''[[Introductio in analysin infinitorum|Introductio]]'', publeyê a [[Losena]] en [[1748]]. Devant que d'étre citâye per Euler, ceta formula ére cognessua du matèmaticien angllês [[Roger Cotes]], môrt en 1716.
+
+== Dèmonstracion ==
+
+=== Per l'analise complèxa ===
+Vu que {{math|1=cos π = –1}} et {{math|1=sin π = 0}}, ceta formula est lo câs particuliér {{math|1=''x'' = π}} de la [[formula d'Euler]] en [[analise complèxa]] (por tot [[nombro rèèl]] {{math|1=''x'', e{{exp|i''x''}} = cos ''x'' + i sin ''x''}}).
+O est asse lo câs particuliér ''n'' = 2 porce que la [[Racena de l'unitât#Èxprèssion complèxa|soma des racenes ''n''-ièmes de l'unitât]] est nula.
+
+=== Per la geomètrie === 
+
+<gallery perrow="4" widths="200" heights="150">
+  Image:EulerIdentity2.png|
+  Image:EulerIdentity2b.png</gallery><gallery>
+  Image:EulerIdentity8.png|Juxtaposition de 8 triangles rectangles
+  Image:EulerIdentity16.png|Juxtaposition de 16 triangles rectangles
+  Image:EulerIdentity2.svg|Illustration du résultat
+</gallery>
+
+L'entèrprètacion geomètrica que fornét una pista de dèmonstracion per una suite est fondâye sur lo fêt de posar couta a couta des [[Triangllo rèctangllo|triangllos rèctangllos]].
+
+: <math>\forall z\,\in\mathbb{C} \quad \mathrm e^z = \lim_{n\to\infty} \left(1+\dfrac{z}{n}\right)^n </math>
+
+adonc, los [[Nombro complèxo#Entèrprètacion geomètrica des opèracions|multiplicacions complèxes]] sè traduisent per des rotacions, lo pouent de coordonâs <math>\left(1 + \dfrac{\mathrm i\pi}N\right)^N</math> est obtenu en posant couta at couta ''N'' triangllos rèctangllos 
+
+== Biôtât matèmatica ==
+L'identitât d'Euler est sovent citâye coment un ègzemplo de [[biôtât matèmatica]].
+
+En èfèt, en ples de l'ègalitât, três des opèracions fondamentales de l'aritmètica y sont utilisâyes, châcuna un côp : l'[[adicion]], la [[multiplicacion]] et l'[[exponenciacion]]. L'identitât fât asse-ben entèrvenir cinq [[Constanta matèmatica|constantes matèmatiques]] fondamentales : 
+
+* [[0 (nombro)|0]], l'èlèment netro de l'adicion.
+* [[1 (nombro)|1]], l'èlèment netro de la multiplicacion.
+* [[Pi|{{math|π}}]], tojorn presenta en [[trigonomètrie]], en geomètrie dens la [[èspâço uclidien]] et en [[analise matèmatica]] ({{math|π}} = 3,14159265...)
+* [[E (nombro)|{{math|e}}]], bâsa des [[Logarithme|logarithmes]] qu'apparait sovent en analise, carcul difèrencièl et matèmatiques financiéres ({{math|e}} = 2,718281828...). Tot coment {{math|π}}, o est un [[nombro transcendant]].
+* [[Unitât imaginâ|{{math|i}}]], l'unitât imaginâ a la bâsa des [[Nombro complèxo|nombros complèxos]], qu'ant pèrmês l'ètude de la rèsolucion des ècouacions polinomiales devant que de vêre lor usâjo èlargi.
+
+L'enventèro de cetos difèrents èlèments est mielx metu en èvidence per la [[notacion polonêsa envèrsa]] de la formula d'Euler :
+
+: 0 ; 1 ; ''e'' ; ''i'' ;π ;  * ; ^ ; +; =
+
+On en dèduit que l'[[exponenciala complèxa]] est {{math|2πi}}-[[Fonccion pèriodica|pèriodica]].
+
+== Notes et rèfèrences ==
+[[:fr:Identité_d'Euler|Traduccion de l'articllo francês corrèspondent a lo 25 de mê 2022]]
