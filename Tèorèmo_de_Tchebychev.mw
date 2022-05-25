@@ -137,4 +137,7 @@ que, en posant <math>2n=2^{2t}</math>, sè rècrit
 Or <math>2n>1024=2^{10}</math> donc <math>t>5</math>, d'yô
 <math>\frac{2^t}t>\frac{2^5}5>6(1+2^{-5})>6(1+2^{-t})</math>, tant ben que <math>\ln(P_4)>0</math>, cen qu'achavone la dèmonstracion.
 
+== Rèfèrences ==
 <references />
+
+[[Catègorie:Matèmatiques]]
