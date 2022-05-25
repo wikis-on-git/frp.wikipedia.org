@@ -1,0 +1,140 @@
+{{Graphie_RefB}}{{Ortografia}}En [[matèmaticos]], lo '''tèorèmo de Tchebychev''' afirme qu'entre un [[Entiér naturèl|entiér]] et son doblo, il ègziste tojorn un [[nombro premiér]].
+
+Més prècisament, l'ènonciê cotemiér est lo d'aprés :
+
+{{Cajon emfâsa|Por tot entiér <math>n>1</math>, il ègziste un nombro premiér <math>p</math> d'ense que n <math><p<2n</math>.}}
+
+Ceti-ce at étâ suposâ per Joseph Bertrand, pués dèmontrâ per [[Pafnouti Tchebychev]] en 1850.
+
+== Ènonciês ==
+
+* L'ènonciê cotemiér du tèorèmo de Tchebychev :
+*:: 1. Por tot entiér <math>n>1</math>, il ègziste un nombro premiér <math>p</math> d'ense que n <math><p<2n</math>.
+*: O est èquivalent ux quatro siuvents :
+*:: 2. Por tot entiér <math>n\ge1</math>, il ègziste un nombro premiér <math>p</math> d'ense que n <math><p\le 2n</math>.
+*:: 3. Por tot entiér <math>n\ge1</math>, <math>\pi(2n)-\pi(n)\ge1</math>, yô <math>\pi</math> est la [[fonccion de compto des nombros premiérs]].
+*:: 4. Por tot tôx <math>k</math>, <math>p_{k+1}<2p_k </math>, yô <math>(p_k)_{k\ge1}</math> est la suite des nombros premiérs.
+*:: 5. Por tot tôx <math>k</math>, <math>g_k<p_k</math>, yô <math>g_k=p_{k+1}-p_{k}</math> est lo [[Ècârt entre nombros premiérs|ècârt entre un nombro premiér et lo d'aprés]].
+*: et pués ux variantes obtenues en remplacient, dens los ènonciês 1 a 3, « por tot entiér » per « por tot [[Nombro rèèl|rèèl]] ».
+* Celi èxprimâ per [[Joseph Bertrand]] et dèmontrâ per [[Pafnouti Tchebychev]], ére legiérement més fôrt :
+
+{{Retrèt|Por tot entiér <math>n>3</math>, il ègziste un nombro premiér <math>p</math> d'ense que n <math><p<2n-2</math><ref>O est sot una fôrma vesena qu'est rapelâ l'ènonciê de Bertrand u comencement de {{Harvsp|Tchebichef|1852}}. Ceta reformulation est èquivalenta a {{Harvsp|Bertrand|1845|tèxto=l'ènonciê originâl, prècisâ en nota cé d'amont}}.</ref>{{,}}<ref>{{Harvsp|Bredikhin|2002}}.</ref>{{,}}<ref>Ou, cen qu'est èquivalent : {{Citacion|Tchebychef at dèmontrâ lo tèorèmo siuvent […] : ''Por <math>2at>7</math>'' [<math>at</math> rèèl]'', il y at a muens un nombro premiér comprês'' [strictament] ''entre <math>at</math> et <math>(2at-2)</math>''.}} — {{Ovrâjo|ôtor=[[Édouard Lucas]]|titro=Tèorie des nombros|an=1891|pâge=367|url=http://visualiseur.bnf.fr/CadresFenetre?O=NUMM-29021&I=202&M=tdm}}.</ref>.}}
+
+== Historico ==
+La suposicion est ènonciê por lo premiér côp en [[1845]] per [[Joseph Bertrand]] dens una ètude sur des [[Groupe de permutations|groupes de permutations]], aprés qu'il at controlâ sa validitât por tôs los nombros enfèriors a 6 milyons.
+
+O est [[Pafnouti Tchebychev]] qu'obtint, en 1850, la premiére dèmonstracion : il utilise spècialament un encâdrament de la [[factoriala]] per des fonccions dèrivâyes de la [[formula de Stirling]] et pués la fonccion <math>\theta</math>, dèfenia per <math> \theta(x) = \sum_{p=2}^x\ln p</math>, yô <math>p</math> parcôrt los nombros premiérs enfèriors ou ègâls a x <math></math><ref name="DétailsDemoTchebychev" />. Dês alor, la suposicion s'apèle asse « tèorèmo de Tchebychev<ref name="Erdos" /> » ou, més rârament, « tèorèmo de Bertrand-Tchebychev ».
+
+[[Edmund Landau]], en 1909, dens son ovrâjo de sintèsa des cognessences de l'època sur la rèparticion des nombros premiérs, reprend por l'èssencièl la dèmonstracion de Tchebychev.
+
+En 1919, [[Srinivasa Ramanujan]] dona du postulat de Bertrand una dèmonstracion més simpla.
+
+En 1932, [[Paul Erdős]], a l'ocasion de sa premiére publecacion, a l'âjo de 19 ans, publeye una dèmonstracion a chavon èlèmentèra dens qu'il utilise los [[Coèficient binomial|coèficients binomiaux]]. Por son èlègance, ceta dèmonstracion de [[Paul Erdős|Erdős]] est yona de celes retenues per [[Martin Aigner]] et [[Günter M. Ziegler]] dens lor lévro ''[[Rêsonements divins]]''.
+
+== Dèmonstracion ==
+
+Notens <math>\mathbb P</math> l'ensemblo des nombros premiérs et dèfenéssens :
+
+: <math> \theta(x) = \sum_{p\in\mathbb P;\, p\leq x} \ln p</math>.
+
+Vê-ce lo plan de la dèmonstracion :
+
+* lèmo de majoracion de <math>\theta(x)</math> ;
+* vèrificacion èxplique a chavon de la propriètât por ''ne ' ≤ 630 ;''
+* dèmonstracion de la propriètât (dens sa vèrsion cotemiére) por ''ne ' > 630 (en utilisant lo lèmo).''
+
+=== Lèmo de majoracion de {{math|''θ''(''x'')}} ===
+{{Cajon emfâsa|Pour tout entier <math>n\ge 1,\qquad\theta(n) < n\ln4</math>.}}
+
+{{Dèmonstracion|titro=Dèmonstracion du lemme, per [[rêsonement per rècurrence|rècurrence]]|contegnu=* La propriètât est veré por ''n = 1 : <math> \theta(1)= 0 < 1\ln4</math>.''
+* La propriètât est veré por ''n = 2 : <math> \theta(2)=\ln2< 2\ln4</math>.''
+* Sêt ''N > 2. Suposens la majoracion veré por tôs los entiérs positifs ''n < ''N et montrens-la por ''n = N.
+** Se ''N > 2 est [[Paritât (aritmètica)|par]] : <math> \theta(N) = \theta(N-1) < (N-1)\ln4< N\ln4 </math>. En èfèt, ''N, étent par et difèrent de 2, est pas premiér ; donc il y at atant de nombros premiérs entre 1 et ''N qu'entre 1 et ''N – 1.
+** Se ''N > 2 est empar. Sêt ''N = 2''m + 1 avouéc ''m > 0. Per la [[formula du binômio de Newton]]
+**: <math> 4^m = \frac {(1+1)^{2m+1}}2=\frac {\sum_{k=0}^{2m+1}{2m+1 \choose k}}2\ge \frac {{2m+1 \choose m}+{2m+1 \choose m+1}}2={2m+1 \choose m+1}</math>.
+**: Châque nombro premiér ''p'' d'ense que ''m + 1 < ''p'' ≤ 2''m + 1 [[Diviseur|divise]] <math> {2m+1 \choose m+1} </math>, cen que nos balye :
+**:<math> \theta(2m+1) - \theta(m+1) \le \ln({2m+1 \choose m+1}) \le \ln(4^m) = m\ln4</math>.
+**:Par hypothèse de récurrence, <math> \theta(m+1) < (m+1)\ln4</math>, donc :
+**:<math> \theta(N) = \theta(2m+1) < (2m+1)\ln4= N\ln4</math>.}}
+
+=== Vèrificacion por "n" ≤ 630 ===
+Se 2 ≤ "n" ≤ 630, on utilise lo procèdâ de [[Edmund Landau|Landau]] :
+
+considèrens la suite d'onze nombros premiérs 2, 3, 5, 7, 13, 23, 43, 83, 163, 317 et 631, châcun étent strictament enfèrior u doblo de son devantiér.
+
+Il ègziste doux nombros siuvus de ceta lista, "q" et "p", tâls que
+
+: <math>q\le n<p</math>, donc <math>n<p</math> et <math>2q\le2n</math>.
+
+En ples, per construccion de ceta lista, <math>p<2q</math>, cen que, juent a <math>2q\le 2n</math>,
+dona <math>p<2n</math>.
+On at donc ben
+
+: <math>n<p<2n</math>.
+
+=== Prôva por "n" > 630 ===
+
+==== Enstalacion de la stratègie ====
+Per la formula du binômio,
+
+: <math> 4^n=(1+1)^{2n}=2+\sum_{k=1}^{2n-1}{2n \choose k}</math>.
+
+Vu que <math> {2n \choose n} </math> est lo més grant tèrmeno de la [[Soma (aritmètica)|soma]], on en dèduit : <math>4^n\le2n{2n \choose n} </math>.
+Apelens <math> R(p,n) </math> lo més grant nombro "x" d'ense que <math> p^x </math> divise <math> {2n \choose n} </math>. On at donc
+
+: <math> \frac {4^n} {2n}\le{2n \choose n}=\prod_{p\in\mathbb P}p^{R(p,n)}=P_1P_2P_3P_4</math>,
+
+avouec
+
+: <math>P_1=\prod_{p\in\mathbb P, p\le\sqrt{2n}}p^{R(p,n)},\quad P_2=\prod_{p\in\mathbb P, \sqrt{2n}<p\le2n/3}p^{R(p,n)},\quad P_3=\prod_{p\in\mathbb P, 2n/3<p\le n}p^{R(p,n)},\quad P_4=\prod_{p\in\mathbb P, n<p<2n}p^{R(p,n)}</math>.
+
+Por minorar <math>P_4</math> (por montrar que <math>P_4>1</math>) on vat majorar <math>P_1</math>, <math>P_2</math> et <math>P_3</math>. Il nos fôt por cen majorar los <math>R(p,n)</math>.
+
+==== Carcul des R("p", "n") ====
+
+On dèsigne per <math> \left \lfloor X \right \rfloor </math> la [[partia entiére]] de <math>X</math>, et per <math>\left \{X\right \}</math> sa [[partia fractionnaire]].
+
+Vu que (d'aprés una [[formula de Legendre]])[[Factoriala|''n''!]] possède math> \sum_{j=1}^\infty \left \lfloor \frac n{p^j} \right \rfloor <nowiki></math></nowiki> factors ègâls a "p", on obtint :
+
+: <math> R(p,n)=\sum_{j=1}^\infty \left \lfloor \frac {2n} {p^j} \right \rfloor-2\sum_{j=1}^\infty \left \lfloor \frac n{p^j} \right \rfloor=\sum_{j=1}^\infty \left \lfloor \frac {2n} {p^j} \right \rfloor - 2\left \lfloor \frac n{p^j} \right \rfloor </math>
+
+==== Majoracion de ''P''<sub>1</sub> ====
+
+Vu que châque tèrmeno <math> \left \lfloor \frac {2n} {p^j} \right \rfloor - 2\left \lfloor \frac n{p^j} \right \rfloor </math> vâlt sêt 0 (quand <math>\left \{\frac n{p^j}\right \} < \frac12</math>) sêt 1 (quand <math>\left\{\frac n{p^j} \right\} \ge \frac12</math>) et que tôs los tèrmenos avouéc <math> j> \left \lfloor \frac {\ln(2n)} {\ln p} \right \rfloor </math> sont nuls, on obtint :
+
+: <math> R(p,n) \le \left \lfloor \frac {\ln(2n)} {\ln p} \right \rfloor</math>,
+
+donc <math> p^{R(p,n)} \le 2n </math>, donc
+<math>P_1\le(2n)^{\sqrt{2n}}</math>.
+
+==== Majoracion de ''P''<sub>2</sub> ====
+
+Per <math> p > \sqrt{2n} </math>, la soma dens ''R''(''p'', ''n'') est rèduita a son premiér tèrmeno, <math>\left \lfloor \frac {2n}p\right \rfloor - 2\left \lfloor \frac np\right \rfloor</math> que, coma ja mencionâ, vâlt 0 ou 1. On at donc <math> R(p,n)\le 1</math>, d'yô
+
+: <math>P_2\le \prod_{p\in\mathbb P, \sqrt{2n}<p\le2n/3}p\le\operatorname{exp}(\theta(2n/3))<4^{2n/3}</math>,
+
+la dèrriére inègalitât venent du lèmo.
+
+
+==== Majoracion de ''P''<sub>3</sub> ====
+En fêt, <math>P_3=1</math> ('''o est lo pouent cllâf de la prôva d'Erdös''') câr se <math>2n/3<p\le n</math> alor 
+
+: <math> R(p,n) = \left \lfloor \frac {2n}p\right \rfloor - 2\left \lfloor \frac np\right \rfloor = 2-2 = 0 </math>.
+
+==== Sintèsa ====
+On at botâ a
+
+: <math>4^n\le2nP_1P_2P_3P_4<(2n)^{1+\sqrt{2n}}.4^{2n/3}.1.P_4</math>,
+
+sêt
+
+: <math>P_4>\frac{4^{n/3}}{(2n)^{1+\sqrt{2n}}}</math>
+
+que, en posant <math>2n=2^{2t}</math>, sè rècrit
+
+: <math>\ln(P_4)>\frac{t2^t\ln2}3\left(\frac{2^t}t-6(1+2^{-t})\right)</math>.
+
+Or <math>2n>1024=2^{10}</math> donc <math>t>5</math>, d'yô
+<math>\frac{2^t}t>\frac{2^5}5>6(1+2^{-5})>6(1+2^{-t})</math>, tant ben que <math>\ln(P_4)>0</math>, cen qu'achavone la dèmonstracion.
+
+<references />
