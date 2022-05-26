@@ -54,7 +54,7 @@ Vê-ce lo plan de la dèmonstracion :
 **: <math> 4^m = \frac {(1+1)^{2m+1}}2=\frac {\sum_{k=0}^{2m+1}{2m+1 \choose k}}2\ge \frac {{2m+1 \choose m}+{2m+1 \choose m+1}}2={2m+1 \choose m+1}</math>.
 **: Châque nombro premiér ''p'' d'ense que ''m + 1 < ''p'' ≤ 2''m + 1 [[Diviseur|divise]] <math> {2m+1 \choose m+1} </math>, cen que nos balye :
 **:<math> \theta(2m+1) - \theta(m+1) \le \ln({2m+1 \choose m+1}) \le \ln(4^m) = m\ln4</math>.
-**:Par hypothèse de récurrence, <math> \theta(m+1) < (m+1)\ln4</math>, donc :
+**:Per hipotèsa de rècurrence, <math> \theta(m+1) < (m+1)\ln4</math>, donc :
 **:<math> \theta(N) = \theta(2m+1) < (2m+1)\ln4= N\ln4</math>.}}
 
 === Vèrificacion por "n" ≤ 630 ===
